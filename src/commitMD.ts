@@ -10,6 +10,7 @@ import type { LawEntry } from './types.js'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../data')
 const CATALOG_PATH = join(DATA_DIR, 'catalog.json')
+const LAWS_FILE = process.env['LAWS_FILE'] ?? 'laws.json'
 
 /**
  * COMMIT_MODE:
@@ -178,9 +179,9 @@ async function commitBranch(laws: LawEntry[], committed: Set<string>): Promise<n
 }
 
 async function main() {
-  const lawsPath = join(DATA_DIR, 'laws.json')
+  const lawsPath = join(DATA_DIR, LAWS_FILE)
   if (!existsSync(lawsPath)) {
-    console.error('[commit:md] data/laws.json not found.')
+    console.error(`[commit:md] ${LAWS_FILE} not found.`)
     process.exit(1)
   }
 

@@ -12,6 +12,7 @@ const FULLTEXT_DIR = join(DATA_DIR, 'json')
 const REVISIONS_DIR = join(DATA_DIR, 'revisions')
 const MD_MODE = process.env['MD_MODE'] ?? 'full'
 const CATALOG_PATH = join(DATA_DIR, 'catalog.json')
+const LAWS_FILE = process.env['LAWS_FILE'] ?? 'laws.json'
 
 async function main() {
   mkdirSync(FULLTEXT_DIR, { recursive: true })
@@ -32,6 +33,15 @@ async function main() {
     console.log(`[fetchAll] essential mode: restricting fulltext fetch to ${catalogIds.size} catalog laws`)
   }
 
+  // Load existing laws for updatedAt comparison
+  const lawsPath = join(DATA_DIR, LAWS_FILE)
+  const existingLaws: Map<string, LawEntry> = new Map()
+  if (existsSync(lawsPath)) {
+    const existing = JSON.parse(readFileSync(lawsPath, 'utf-8')) as LawEntry[]
+    for (const l of existing) existingLaws.set(l.lawId, l)
+    console.log(`[fetchAll] loaded ${existingLaws.size} existing entries from ${LAWS_FILE}`)
+  }
+
   const today = new Date().toISOString().slice(0, 10)
   const entries: LawEntry[] = []
 
@@ -41,12 +51,22 @@ async function main() {
     : laws
 
   console.log(`[fetchAll] ${lawsToProcess.length} laws to process`)
+  let skippedCount = 0
 
   for (let i = 0; i < lawsToProcess.length; i++) {
     const law = lawsToProcess[i]
+
+    // 2. Skip if updatedAt unchanged
+    const existing = existingLaws.get(law.lawId)
+    if (existing && existing.updatedAt === law.updatedAt) {
+      entries.push(existing)
+      skippedCount++
+      continue
+    }
+
     process.stdout.write(`[${i + 1}/${lawsToProcess.length}] ${law.title} ... `)
 
-    // 2. Fetch and save revision list
+    // 3. Fetch and save revision list
     const revisions = await ds.fetchRevisions(law.lawId)
     writeFileSync(join(REVISIONS_DIR, `${law.lawId}.json`), JSON.stringify(revisions, null, 2))
 
@@ -79,7 +99,7 @@ async function main() {
       future: futures.map(toEntry),
     })
 
-    // 3. Fetch and save fulltext for all revisions (skip if already cached)
+    // 4. Fetch and save fulltext for all revisions (skip if already cached)
     const toFetch = [...past, ...(current ? [current] : []), ...futures]
     let fetched = 0
     for (const revision of toFetch) {
@@ -97,9 +117,9 @@ async function main() {
     console.log(`done (${fetched}/${toFetch.length} revisions)`)
   }
 
-  // 4. Save enriched laws.json
-  writeFileSync(join(DATA_DIR, 'laws.json'), JSON.stringify(entries, null, 2))
-  console.log(`[fetchAll] laws.json saved (${entries.length} laws)`)
+  // 5. Save enriched laws file
+  writeFileSync(lawsPath, JSON.stringify(entries, null, 2))
+  console.log(`[fetchAll] ${LAWS_FILE} saved (${entries.length} laws, ${skippedCount} skipped via updatedAt)`)
   console.log('[fetchAll] completed')
 }
 

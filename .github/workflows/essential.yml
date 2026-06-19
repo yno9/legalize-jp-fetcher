@@ -15,6 +15,7 @@ jobs:
       DATA_DIR: ${{ github.workspace }}/data
       LAWCODE_REPO_PATH: ${{ github.workspace }}/lawcode-jp
       MD_MODE: essential
+      LAWS_FILE: laws-essential.json
 
     steps:
       - name: Checkout legalize-jp-fetcher
@@ -63,6 +64,14 @@ jobs:
 
       - name: Commit to lawcode-jp
         run: npm run commit:md:branch
+
+      - name: Persist laws-essential.json
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -f data/laws-essential.json
+          git diff --cached --quiet || git commit -m "chore: update laws-essential.json"
+          git push origin main
 
       - name: Push lawcode-jp
         run: |

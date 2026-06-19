@@ -5,3 +5,4 @@ dist/
 data/
 !data/catalog.json
 !data/laws.json
+!data/laws-essential.json

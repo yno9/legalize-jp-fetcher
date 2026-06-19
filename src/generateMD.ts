@@ -13,11 +13,12 @@ const JSON_DIR = join(DATA_DIR, 'json')
 const MD_MODE = process.env['MD_MODE'] ?? 'full'  // 'full' | 'essential'
 const MD_DIR = join(DATA_DIR, 'md', MD_MODE)
 const CATALOG_PATH = join(DATA_DIR, 'catalog.json')
+const LAWS_FILE = process.env['LAWS_FILE'] ?? 'laws.json'
 
 async function main() {
-  const lawsPath = join(DATA_DIR, 'laws.json')
+  const lawsPath = join(DATA_DIR, LAWS_FILE)
   if (!existsSync(lawsPath)) {
-    console.error('[generate:md] data/laws.json not found. Run fetch:all first.')
+    console.error(`[generate:md] ${LAWS_FILE} not found. Run fetch:json first.`)
     process.exit(1)
   }
 
