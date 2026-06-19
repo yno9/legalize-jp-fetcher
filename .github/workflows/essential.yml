@@ -63,7 +63,11 @@ jobs:
         run: npm run generate:md
 
       - name: Commit to lawcode-jp
-        run: npm run commit:md:branch
+        run: |
+          npm run commit:md:branch
+          echo "=== lawcode-jp commit count ==="
+          git -C lawcode-jp log --oneline | wc -l
+          git -C lawcode-jp log --oneline -5
 
       - name: Persist laws-essential.json
         run: |
