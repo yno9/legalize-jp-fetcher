@@ -267,8 +267,7 @@ function renderNodeEssential(node: LawElementNode, depth: number): string {
     case 'Subitem9':
     case 'Subitem10': {
       if (node.text) {
-        const prefix = node.title ? `${node.title}　` : (node.num ? `${node.num}　` : '')
-        lines.push(`${indent}- ${prefix}${node.text}`)
+        lines.push(`${indent}- ${node.text}`)
       }
       for (const child of node.children) {
         lines.push(renderNodeEssential(child, depth + 1))
