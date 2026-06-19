@@ -6,6 +6,7 @@
   "scripts": {
     "fetch:all": "tsx src/fetchAll.ts",
     "generate:md": "tsx src/generateMd.ts",
+    "commit:md": "tsx src/commitMd.ts",
     "daily": "tsx src/daily.ts",
     "test": "vitest run",
     "test:watch": "vitest"

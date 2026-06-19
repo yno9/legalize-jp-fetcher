@@ -248,4 +248,4 @@ format exists.
 - [x] 0.6 Scope estimated (8,993 laws, ~3–5h bootstrap)
 - [x] 0.7 Multi-format: N/A (single-format source, documented)
 - [x] Steps 1–7: Independent TypeScript pipeline implemented and tested (78 tests passing)
-- [ ] Step 9: Bootstrap + push to GitHub
+- [x] Step 9: Bootstrap + push to GitHub

@@ -8,7 +8,7 @@ import type { LawEntry, RevisionSummary } from './types.js'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
 const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../../data')
-const FULLTEXT_DIR = join(DATA_DIR, 'fulltext')
+const FULLTEXT_DIR = join(DATA_DIR, 'json')
 const REVISIONS_DIR = join(DATA_DIR, 'revisions')
 
 async function main() {

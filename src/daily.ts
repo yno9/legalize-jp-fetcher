@@ -12,7 +12,7 @@ import type { LawEntry, LawNode, RevisionEntry, RevisionSummary } from './types.
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../../data')
-const FULLTEXT_DIR = join(DATA_DIR, 'fulltext')
+const FULLTEXT_DIR = join(DATA_DIR, 'json')
 const REVISIONS_DIR = join(DATA_DIR, 'revisions')
 const REPO_PATH = process.env['LAWMD_REPO_PATH'] ?? '/home/ubuntu/dev/legalize-jp'
 const BRANCH = 'main'
