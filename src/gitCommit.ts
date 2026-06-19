@@ -27,6 +27,7 @@ interface CommitOptions {
   authorDate: string
   sourceId: string   // law_revision_id
   normId: string     // law_id
+  messageOverride?: string  // if set, used as subject; Source-Id appended to body
 }
 
 const COMMITTER_NAME = 'github-actions[bot]'
@@ -55,7 +56,9 @@ export async function commitRevision(opts: CommitOptions): Promise<void> {
   await git.add(filePath)
 
   const useDate = resolveDate(authorDate)
-  const message = buildCommitMessage(commitType, title, sourceId, normId)
+  const message = opts.messageOverride
+    ? `${opts.messageOverride}\nSource-Id: ${sourceId}`
+    : buildCommitMessage(commitType, title, sourceId, normId)
 
   const env = {
     GIT_AUTHOR_DATE: useDate,
@@ -78,6 +81,7 @@ export async function createFuturePR(
   message: string,
   authorDate: string,
   enforcedAt: string,
+  sourceId: string,
 ): Promise<void> {
   const git = simpleGit(repoPath)
   const fs = await import('fs/promises')
@@ -108,7 +112,7 @@ export async function createFuturePR(
     GIT_COMMITTER_NAME: COMMITTER_NAME,
     GIT_COMMITTER_EMAIL: COMMITTER_EMAIL,
   }
-  await git.env(env).commit(message)
+  await git.env(env).commit(`${message}\nSource-Id: ${sourceId}`)
 
   // Return to base branch
   await git.checkout(baseBranch)

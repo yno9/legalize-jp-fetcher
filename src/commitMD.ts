@@ -119,7 +119,8 @@ async function commitBranch(laws: LawEntry[], committed: Set<string>): Promise<n
   for (let i = 0; i < laws.length; i++) {
     const law = laws[i]!
     const lawMdDir = join(MD_DIR, law.lawId)
-    const filePath = path.join('jp', `${law.lawId}.md`)
+    const category = law.category ?? 'その他'
+    const filePath = path.join(category, `${law.title}.md`)
 
     if (!law.current && law.future.length === 0) continue
 
@@ -130,8 +131,8 @@ async function commitBranch(laws: LawEntry[], committed: Set<string>): Promise<n
       const mdPath = join(lawMdDir, `${law.current.revisionId}.md`)
       if (existsSync(mdPath)) {
         await ensureBranch(REPO_PATH, 'current')
-        const allRevisions = [...(law.past ?? []), law.current]
         const isFirst = !existsSync(path.join(REPO_PATH, filePath))
+        const promulgatedAt = law.current.promulgatedAt ?? ''
         await commitRevision({
           repoPath: REPO_PATH,
           filePath,
@@ -141,6 +142,7 @@ async function commitBranch(laws: LawEntry[], committed: Set<string>): Promise<n
           authorDate: law.current.enforcedAt,
           sourceId: law.current.revisionId,
           normId: law.lawId,
+          messageOverride: `${law.current.enforcedAt} 施行 ${law.title} (${promulgatedAt} 公布)`,
         })
         committed.add(law.current.revisionId)
         commitCount++
@@ -156,6 +158,7 @@ async function commitBranch(laws: LawEntry[], committed: Set<string>): Promise<n
 
       // Branch name: future/{title}/{YYYY-MM-DD}
       const branchName = `future/${law.title}/${revision.enforcedAt}`
+      const promulgatedAt = revision.promulgatedAt ?? ''
 
       await createFuturePR(
         REPO_PATH,
@@ -163,9 +166,10 @@ async function commitBranch(laws: LawEntry[], committed: Set<string>): Promise<n
         branchName,
         filePath,
         readFileSync(mdPath, 'utf-8'),
-        `[reforma] ${law.title}`,
+        `${revision.enforcedAt} 施行 ${law.title} (${promulgatedAt} 公布)`,
         revision.enforcedAt,
         revision.enforcedAt,
+        revision.revisionId,
       )
 
       committed.add(revision.revisionId)
