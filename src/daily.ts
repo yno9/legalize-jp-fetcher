@@ -12,24 +12,26 @@ import type { LawEntry, LawNode, RevisionEntry, RevisionSummary } from './types.
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../../data')
-const FULLTEXT_DIR = join(DATA_DIR, 'json')
+const JSON_DIR = join(DATA_DIR, 'json')
+const MD_DIR = join(DATA_DIR, 'md')
 const REVISIONS_DIR = join(DATA_DIR, 'revisions')
 const REPO_PATH = process.env['LAWMD_REPO_PATH'] ?? '/home/ubuntu/dev/legalize-jp'
 const BRANCH = 'main'
 
-/** Return the set of Source-Id values already committed for this law file */
-function committedSourceIds(repoPath: string, filePath: string): Set<string> {
+/** Build the full set of Source-Ids already committed across the entire repo */
+function allCommittedSourceIds(repoPath: string): Set<string> {
   const ids = new Set<string>()
   try {
-    const log = execSync(`git -C ${repoPath} log --format=%B -- ${filePath}`, {
+    const log = execSync(`git -C ${repoPath} log --format=%B`, {
       encoding: 'utf-8',
       stdio: ['pipe', 'pipe', 'pipe'],
+      maxBuffer: 512 * 1024 * 1024,
     })
     for (const match of log.matchAll(/^Source-Id: (.+)$/gm)) {
       ids.add(match[1]!.trim())
     }
   } catch {
-    // file not yet tracked
+    // empty repo
   }
   return ids
 }
@@ -48,7 +50,8 @@ const toEntry = (r: RevisionSummary): RevisionEntry => ({
 })
 
 async function main() {
-  mkdirSync(FULLTEXT_DIR, { recursive: true })
+  mkdirSync(JSON_DIR, { recursive: true })
+  mkdirSync(MD_DIR, { recursive: true })
   mkdirSync(REVISIONS_DIR, { recursive: true })
 
   const ds = new EGovDataSource()
@@ -70,14 +73,20 @@ async function main() {
 
   await ensureBranch(REPO_PATH, BRANCH)
 
+  // 3. Read all committed Source-Ids once
+  console.log('[daily] reading committed Source-Ids from git history...')
+  const committed = allCommittedSourceIds(REPO_PATH)
+  console.log(`[daily] ${committed.size} revisions already committed`)
+
   const updatedEntries: LawEntry[] = []
   let newRevisionCount = 0
 
   for (let i = 0; i < laws.length; i++) {
     const law = laws[i]!
     const filePath = path.join('jp', `${law.lawId}.md`)
+    const lawMdDir = join(MD_DIR, law.lawId)
 
-    // 3. Fetch revisions (always, to detect new ones)
+    // 4. Fetch revisions (always, to detect new ones)
     const revisions = await ds.fetchRevisions(law.lawId)
     writeFileSync(join(REVISIONS_DIR, `${law.lawId}.json`), JSON.stringify(revisions, null, 2))
 
@@ -98,8 +107,7 @@ async function main() {
     }
     updatedEntries.push(entry)
 
-    // 4. Find revisions not yet committed to the repo
-    const committed = committedSourceIds(REPO_PATH, filePath)
+    // 5. Find revisions not yet committed
     const allRevisions = [...past, ...(current ? [current] : [])]
     const newRevisions = allRevisions.filter((r) => !committed.has(r.revisionId))
 
@@ -107,26 +115,24 @@ async function main() {
 
     process.stdout.write(`[${i + 1}/${laws.length}] ${law.title}: ${newRevisions.length} new revision(s) ... `)
 
-    // 5. Fetch fulltexts for new revisions only
+    const isFirstEver = !existsSync(path.join(REPO_PATH, filePath))
+
+    // 6. Fetch JSON, generate MD, commit
+    let lawCommitCount = 0
     for (const revision of newRevisions) {
-      const dest = join(FULLTEXT_DIR, `${revision.revisionId}.json`)
-      if (!existsSync(dest)) {
+      const jsonPath = join(JSON_DIR, `${revision.revisionId}.json`)
+      if (!existsSync(jsonPath)) {
         try {
           const root = await ds.fetchFullText(revision.revisionId)
-          writeFileSync(dest, JSON.stringify(root, null, 2))
+          writeFileSync(jsonPath, JSON.stringify(root, null, 2))
         } catch {
-          console.warn(`  skip fulltext (unavailable: ${revision.revisionId})`)
+          console.warn(`  skip (fulltext unavailable: ${revision.revisionId})`)
           continue
         }
       }
 
-      // 6. Commit the new revision
-      const fulltextPath = join(FULLTEXT_DIR, `${revision.revisionId}.json`)
-      if (!existsSync(fulltextPath)) continue
-
-      const root = JSON.parse(readFileSync(fulltextPath, 'utf-8')) as LawNode
+      const root = JSON.parse(readFileSync(jsonPath, 'utf-8')) as LawNode
       const elements = parseFullText(root)
-      const isFirst = committed.size === 0 && newRevisions.indexOf(revision) === 0
       const md = toMarkdown(
         {
           lawId: law.lawId,
@@ -143,6 +149,12 @@ async function main() {
         elements,
       )
 
+      // Write to data/md/
+      mkdirSync(lawMdDir, { recursive: true })
+      writeFileSync(join(lawMdDir, `${revision.revisionId}.md`), md, 'utf-8')
+
+      // Commit
+      const isFirst = isFirstEver && lawCommitCount === 0
       await commitRevision({
         repoPath: REPO_PATH,
         filePath,
@@ -153,7 +165,10 @@ async function main() {
         sourceId: revision.revisionId,
         normId: law.lawId,
       })
+
+      committed.add(revision.revisionId)
       newRevisionCount++
+      lawCommitCount++
     }
 
     console.log('done')
