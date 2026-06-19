@@ -1,5 +1,5 @@
 import 'dotenv/config'
-import { mkdirSync, writeFileSync, existsSync } from 'fs'
+import { mkdirSync, writeFileSync, existsSync, readFileSync } from 'fs'
 import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 import { EGovDataSource } from './datasource/EGovDataSource.js'
