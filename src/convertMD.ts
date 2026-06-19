@@ -246,7 +246,8 @@ function renderNodeEssential(node: LawElementNode, depth: number): string {
 
     case 'Paragraph': {
       if (node.text) {
-        lines.push(`${indent}- ${node.text}`)
+        const text = node.text.replace(/^\*\*[^*]+\*\*　/, '')
+        lines.push(`${indent}- ${text}`)
       }
       for (const child of node.children) {
         lines.push(renderNodeEssential(child, depth + 1))
