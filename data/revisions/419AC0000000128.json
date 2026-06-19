@@ -1,0 +1,42 @@
+[
+  {
+    "revisionId": "419AC0000000128_20200401_430AC0000000071",
+    "lawId": "419AC0000000128",
+    "promulgatedAt": "2018-07-06",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "430AC0000000071",
+    "amendmentLawNum": "平成三十年法律第七十一号",
+    "amendmentLawName": "働き方改革を推進するための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000128_20190401_430AC0000000071",
+    "lawId": "419AC0000000128",
+    "promulgatedAt": "2018-07-06",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "430AC0000000071",
+    "amendmentLawNum": "平成三十年法律第七十一号",
+    "amendmentLawName": "働き方改革を推進するための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000128_20180706_430AC0000000071",
+    "lawId": "419AC0000000128",
+    "promulgatedAt": "2018-07-06",
+    "enforcedAt": "2018-07-06",
+    "amendmentLawId": "430AC0000000071",
+    "amendmentLawNum": "平成三十年法律第七十一号",
+    "amendmentLawName": "働き方改革を推進するための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000128_20130401_424AC0000000056",
+    "lawId": "419AC0000000128",
+    "promulgatedAt": "2012-08-10",
+    "enforcedAt": "2013-04-01",
+    "amendmentLawId": "424AC0000000056",
+    "amendmentLawNum": "平成二十四年法律第五十六号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

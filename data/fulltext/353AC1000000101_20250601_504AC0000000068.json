@@ -1,0 +1,596 @@
+{
+  "tag": "Law",
+  "attr": {
+    "Era": "Showa",
+    "Lang": "ja",
+    "LawType": "Act",
+    "Num": "101",
+    "Year": "53",
+    "PromulgateMonth": "11",
+    "PromulgateDay": "11"
+  },
+  "children": [
+    {
+      "tag": "LawNum",
+      "attr": {},
+      "children": [
+        "昭和五十三年法律第百一号"
+      ]
+    },
+    {
+      "tag": "LawBody",
+      "attr": {},
+      "children": [
+        {
+          "tag": "LawTitle",
+          "attr": {
+            "Kana": "むげんれんさこうのぼうしにかんするほうりつ",
+            "Abbrev": "ネズミ講防止法",
+            "AbbrevKana": "ネ"
+          },
+          "children": [
+            "無限連鎖講の防止に関する法律"
+          ]
+        },
+        {
+          "tag": "MainProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（目的）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第一条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この法律は、無限連鎖講が、終局において破たんすべき性質のものであるのにかかわらずいたずらに関係者の射幸心をあおり、加入者の相当部分の者に経済的な損失を与えるに至るものであることにかんがみ、これに関与する行為を禁止するとともに、その防止に関する調査及び啓もう活動について規定を設けることにより、無限連鎖講がもたらす社会的な害悪を防止することを目的とする。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "2"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（定義）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この法律において「無限連鎖講」とは、金品（財産権を表彰する証券又は証書を含む。以下この条において同じ。）を出えんする加入者が無限に増加するものであるとして、先に加入した者が先順位者、以下これに連鎖して段階的に二以上の倍率をもつて増加する後続の加入者がそれぞれの段階に応じた後順位者となり、順次先順位者が後順位者の出えんする金品から自己の出えんした金品の価額又は数量を上回る価額又は数量の金品を受領することを内容とする金品の配当組織をいう。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "3"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（無限連鎖講の禁止）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第三条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "何人も、無限連鎖講を開設し、若しくは運営し、無限連鎖講に加入し、若しくは加入することを勧誘し、又はこれらの行為を助長する行為をしてはならない。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "4"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（国及び地方公共団体の任務）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第四条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "国及び地方公共団体は、無限連鎖講の防止に関する調査及び啓もう活動を行うように努めなければならない。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "5"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（罰則）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第五条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "無限連鎖講を開設し、又は運営した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "6"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第六条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "業として無限連鎖講に加入することを勧誘した者は、一年以下の拘禁刑又は三十万円以下の罰金に処する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "7"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第七条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "無限連鎖講に加入することを勧誘した者は、二十万円以下の罰金に処する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、公布の日から起算して六月を経過した日から施行する。"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "昭和六三年五月二日法律第二四号"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、公布の日から起算して三月を経過した日から施行する。"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "令和四年六月一七日法律第六八号",
+            "Extract": "true"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphCaption",
+                  "attr": {},
+                  "children": [
+                    "（施行期日）"
+                  ]
+                },
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": [
+                    "１"
+                  ]
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Function": "main",
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、刑法等一部改正法施行日から施行する。"
+                      ]
+                    },
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Function": "proviso",
+                        "Num": "2",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "Item",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ItemTitle",
+                      "attr": {},
+                      "children": [
+                        "一"
+                      ]
+                    },
+                    {
+                      "tag": "ItemSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Column",
+                          "attr": {
+                            "Num": "1"
+                          },
+                          "children": [
+                            {
+                              "tag": "Sentence",
+                              "attr": {
+                                "Num": "1",
+                                "WritingMode": "vertical"
+                              },
+                              "children": [
+                                "第五百九条の規定"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "Column",
+                          "attr": {
+                            "Num": "2"
+                          },
+                          "children": [
+                            {
+                              "tag": "Sentence",
+                              "attr": {
+                                "Num": "1",
+                                "WritingMode": "vertical"
+                              },
+                              "children": [
+                                "公布の日"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

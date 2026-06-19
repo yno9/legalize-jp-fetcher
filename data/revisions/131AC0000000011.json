@@ -1,0 +1,102 @@
+[
+  {
+    "revisionId": "131AC0000000011_20251001_505AC0000000053",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2025-10-01",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20250601_504AC0000000068",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20230401_503AC0000000024",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2021-04-28",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "503AC0000000024",
+    "amendmentLawNum": "令和三年法律第二十四号",
+    "amendmentLawName": "民法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20220901_501AC0000000071",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2022-09-01",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20220617_504AC0000000068",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20210428_503AC0000000024",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2021-04-28",
+    "enforcedAt": "2021-04-28",
+    "amendmentLawId": "503AC0000000024",
+    "amendmentLawNum": "令和三年法律第二十四号",
+    "amendmentLawName": "民法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20200401_429AC0000000045",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20191211_501AC0000000071",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2019-12-11",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20170602_429AC0000000045",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "131AC0000000011_20160401_426AC0000000069",
+    "lawId": "131AC0000000011",
+    "promulgatedAt": "2014-06-13",
+    "enforcedAt": "2016-04-01",
+    "amendmentLawId": "426AC0000000069",
+    "amendmentLawNum": "平成二十六年法律第六十九号",
+    "amendmentLawName": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  }
+]

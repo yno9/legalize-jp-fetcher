@@ -1,0 +1,42 @@
+[
+  {
+    "revisionId": "414AC0000000067_20250601_504AC0000000068",
+    "lawId": "414AC0000000067",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "414AC0000000067_20221229_504AC0000000097",
+    "lawId": "414AC0000000067",
+    "promulgatedAt": "2022-12-09",
+    "enforcedAt": "2022-12-29",
+    "amendmentLawId": "504AC0000000097",
+    "amendmentLawNum": "令和四年法律第九十七号",
+    "amendmentLawName": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "414AC0000000067_20220617_504AC0000000068",
+    "lawId": "414AC0000000067",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "414AC0000000067_20141211_426AC0000000113",
+    "lawId": "414AC0000000067",
+    "promulgatedAt": "2014-11-21",
+    "enforcedAt": "2014-12-11",
+    "amendmentLawId": "426AC0000000113",
+    "amendmentLawNum": "平成二十六年法律第百十三号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

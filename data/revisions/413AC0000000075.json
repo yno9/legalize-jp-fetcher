@@ -1,0 +1,212 @@
+[
+  {
+    "revisionId": "413AC0000000075_20270401_508AC0000000027",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2026-06-03",
+    "enforcedAt": "2027-04-01",
+    "amendmentLawId": "508AC0000000027",
+    "amendmentLawNum": "令和八年法律第二十七号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "413AC0000000075_20260521_504AC0000000048",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20250601_504AC0000000068",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20250501_506AC0000000032",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2024-05-22",
+    "enforcedAt": "2025-05-01",
+    "amendmentLawId": "506AC0000000032",
+    "amendmentLawNum": "令和六年法律第三十二号",
+    "amendmentLawName": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20241121_506AC0000000032",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2024-05-22",
+    "enforcedAt": "2024-11-21",
+    "amendmentLawId": "506AC0000000032",
+    "amendmentLawNum": "令和六年法律第三十二号",
+    "amendmentLawName": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20241101_505AC0000000080",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2023-11-29",
+    "enforcedAt": "2024-11-01",
+    "amendmentLawId": "505AC0000000080",
+    "amendmentLawNum": "令和五年法律第八十号",
+    "amendmentLawName": "情報通信技術の進展等の環境変化に対応するための社債、株式等の振替に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20241101_505AC0000000079",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2023-11-29",
+    "enforcedAt": "2024-11-01",
+    "amendmentLawId": "505AC0000000079",
+    "amendmentLawNum": "令和五年法律第七十九号",
+    "amendmentLawName": "金融商品取引法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20240522_506AC0000000032",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2024-05-22",
+    "enforcedAt": "2024-05-22",
+    "amendmentLawId": "506AC0000000032",
+    "amendmentLawNum": "令和六年法律第三十二号",
+    "amendmentLawName": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20240401_505AC0000000079",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2023-11-29",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000079",
+    "amendmentLawNum": "令和五年法律第七十九号",
+    "amendmentLawName": "金融商品取引法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20231129_505AC0000000080",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2023-11-29",
+    "enforcedAt": "2023-11-29",
+    "amendmentLawId": "505AC0000000080",
+    "amendmentLawNum": "令和五年法律第八十号",
+    "amendmentLawName": "情報通信技術の進展等の環境変化に対応するための社債、株式等の振替に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20220901_501AC0000000071",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2022-09-01",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20220617_504AC0000000068",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20220525_504AC0000000048",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20210901_503AC0000000037",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-09-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20210519_503AC0000000037",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20210301_501AC0000000071",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2021-03-01",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20191214_501AC0000000037",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-12-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20191211_501AC0000000071",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2019-12-11",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20190914_501AC0000000037",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-09-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20190614_501AC0000000037",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-06-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "413AC0000000075_20160401_426AC0000000069",
+    "lawId": "413AC0000000075",
+    "promulgatedAt": "2014-06-13",
+    "enforcedAt": "2016-04-01",
+    "amendmentLawId": "426AC0000000069",
+    "amendmentLawNum": "平成二十六年法律第六十九号",
+    "amendmentLawName": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  }
+]

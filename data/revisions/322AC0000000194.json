@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "322AC0000000194_20210901_503AC0000000036",
+    "lawId": "322AC0000000194",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-09-01",
+    "amendmentLawId": "503AC0000000036",
+    "amendmentLawNum": "令和三年法律第三十六号",
+    "amendmentLawName": "デジタル庁設置法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000194_20210519_503AC0000000036",
+    "lawId": "322AC0000000194",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000036",
+    "amendmentLawNum": "令和三年法律第三十六号",
+    "amendmentLawName": "デジタル庁設置法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000194_20050401_416AC0000000084",
+    "lawId": "322AC0000000194",
+    "promulgatedAt": "2004-06-09",
+    "enforcedAt": "2005-04-01",
+    "amendmentLawId": "416AC0000000084",
+    "amendmentLawNum": "平成十六年法律第八十四号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

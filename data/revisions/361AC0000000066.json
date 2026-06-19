@@ -1,0 +1,82 @@
+[
+  {
+    "revisionId": "361AC0000000066_20250601_504AC0000000068",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20221101_502AC0000000033",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2020-05-29",
+    "enforcedAt": "2022-11-01",
+    "amendmentLawId": "502AC0000000033",
+    "amendmentLawNum": "令和二年法律第三十三号",
+    "amendmentLawName": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20220617_504AC0000000068",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20200829_502AC0000000033",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2020-05-29",
+    "enforcedAt": "2020-08-29",
+    "amendmentLawId": "502AC0000000033",
+    "amendmentLawNum": "令和二年法律第三十三号",
+    "amendmentLawName": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20191214_501AC0000000037",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-12-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20190914_501AC0000000037",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-09-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20190614_501AC0000000037",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-06-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "361AC0000000066_20160401_426AC0000000069",
+    "lawId": "361AC0000000066",
+    "promulgatedAt": "2014-06-13",
+    "enforcedAt": "2016-04-01",
+    "amendmentLawId": "426AC0000000069",
+    "amendmentLawNum": "平成二十六年法律第六十九号",
+    "amendmentLawName": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  }
+]

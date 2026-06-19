@@ -1,0 +1,720 @@
+{
+  "tag": "Law",
+  "attr": {
+    "Era": "Meiji",
+    "Lang": "ja",
+    "LawType": "Act",
+    "Num": "033",
+    "Year": "33",
+    "PromulgateMonth": "03",
+    "PromulgateDay": "07"
+  },
+  "children": [
+    {
+      "tag": "LawNum",
+      "attr": {},
+      "children": [
+        "明治三十三年法律第三十三号"
+      ]
+    },
+    {
+      "tag": "LawBody",
+      "attr": {},
+      "children": [
+        {
+          "tag": "LawTitle",
+          "attr": {
+            "Kana": "にじっさいみまんのもののきつえんのきんしにかんするほうりつ",
+            "Abbrev": "",
+            "AbbrevKana": ""
+          },
+          "children": [
+            "二十歳未満ノ者ノ喫煙ノ禁止ニ関スル法律"
+          ]
+        },
+        {
+          "tag": "MainProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第一条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "二十歳未満ノ者ハ煙草ヲ喫スルコトヲ得ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "2"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "前条ニ違反シタル者アルトキハ行政ノ処分ヲ以テ喫煙ノ為ニ所持スル煙草及器具ヲ没収ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "3"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第三条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "未成年者ニ対シテ親権ヲ行フ者情ヲ知リテ其ノ喫煙ヲ制止セサルトキハ科料ニ処ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "2",
+                    "OldNum": "true",
+                    "OldStyle": "false"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "親権ヲ行フ者ニ代リテ未成年者ヲ監督スル者亦前項ニ依リテ処断ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "4"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第四条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "煙草又ハ器具ヲ販売スル者ハ二十歳未満ノ者ノ喫煙ノ防止ニ資スル為年齢ノ確認其ノ他ノ必要ナル措置ヲ講ズルモノトス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "5"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第五条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "二十歳未満ノ者ニ其ノ自用ニ供スルモノナルコトヲ知リテ煙草又ハ器具ヲ販売シタル者ハ五十万円以下ノ罰金ニ処ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "6"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第六条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "法人ノ代表者又ハ法人若ハ人ノ代理人、使用人其ノ他ノ従業者ガ其ノ法人又ハ人ノ業務ニ関シ前条ノ違反行為ヲ為シタルトキハ行為者ヲ罰スルノ外其ノ法人又ハ人ニ対シ同条ノ刑ヲ科ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "本法ハ明治三十三年四月一日ヨリ之ヲ施行ス"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "昭和二二年一二月二二日法律第二二三号",
+            "Extract": "true"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "29"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二十九条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この法律は、昭和二十三年一月一日から、これを施行する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "平成一二年一二月一日法律第一三四号"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、公布の日から起算して三十日を経過した日から施行する。"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "平成一三年一二月一二日法律第一五二号",
+            "Extract": "true"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphCaption",
+                  "attr": {},
+                  "children": [
+                    "（施行期日）"
+                  ]
+                },
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": [
+                    "１"
+                  ]
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、公布の日から施行する。"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "平成三〇年六月二〇日法律第五九号",
+            "Extract": "true"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（施行期日）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第一条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Function": "main",
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この法律は、平成三十四年四月一日から施行する。"
+                          ]
+                        },
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Function": "proviso",
+                            "Num": "2",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "ただし、附則第二十六条の規定は、公布の日から施行する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "25"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（罰則に関する経過措置）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二十五条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "施行日前にした行為及び附則第十三条の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "26"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（政令への委任）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二十六条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

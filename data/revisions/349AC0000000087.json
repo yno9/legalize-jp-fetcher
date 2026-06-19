@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "349AC0000000087_20250601_504AC0000000068",
+    "lawId": "349AC0000000087",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "349AC0000000087_20220617_504AC0000000068",
+    "lawId": "349AC0000000087",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "349AC0000000087_19771129_352AC0000000082",
+    "lawId": "349AC0000000087",
+    "promulgatedAt": "1977-11-29",
+    "enforcedAt": "1977-11-29",
+    "amendmentLawId": "352AC0000000082",
+    "amendmentLawNum": "昭和五十二年法律第八十二号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

@@ -1,0 +1,343 @@
+{
+  "tag": "Law",
+  "attr": {
+    "Era": "Meiji",
+    "Lang": "ja",
+    "LawType": "Act",
+    "Num": "028",
+    "Year": "28",
+    "PromulgateMonth": "04",
+    "PromulgateDay": "05"
+  },
+  "children": [
+    {
+      "tag": "LawNum",
+      "attr": {},
+      "children": [
+        "明治二十八年法律第二十八号"
+      ]
+    },
+    {
+      "tag": "LawBody",
+      "attr": {},
+      "children": [
+        {
+          "tag": "LawTitle",
+          "attr": {
+            "Kana": "つうかおよびしょうけんもぞうとりしまりほう",
+            "Abbrev": "",
+            "AbbrevKana": ""
+          },
+          "children": [
+            "通貨及証券模造取締法"
+          ]
+        },
+        {
+          "tag": "MainProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第一条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "貨幣、政府発行紙幣、銀行紙幣、兌換銀行券、国債証券及地方債証券ニ紛ハシキ外観ヲ有スルモノヲ製造シ又ハ販売スルコトヲ得ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "2"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "前条ニ違反シタル者ハ三年以下ノ拘禁刑ニ処ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "3"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第三条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "第一条ニ掲ケタル物件ハ刑法ニ依リ没収スル場合ノ外何人ノ所有ヲ問ハス警察官ニ於テ之ヲ破毀スヘシ"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "4"
+              },
+              "children": [
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第四条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "第一条ニ掲ケタル物件ニハ明治九年布告第五十七号ヲ適用ス"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "令和四年六月一七日法律第六八号",
+            "Extract": "true"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphCaption",
+                  "attr": {},
+                  "children": [
+                    "（施行期日）"
+                  ]
+                },
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": [
+                    "１"
+                  ]
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Function": "main",
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、刑法等一部改正法施行日から施行する。"
+                      ]
+                    },
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Function": "proviso",
+                        "Num": "2",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "Item",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ItemTitle",
+                      "attr": {},
+                      "children": [
+                        "一"
+                      ]
+                    },
+                    {
+                      "tag": "ItemSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Column",
+                          "attr": {
+                            "Num": "1"
+                          },
+                          "children": [
+                            {
+                              "tag": "Sentence",
+                              "attr": {
+                                "Num": "1",
+                                "WritingMode": "vertical"
+                              },
+                              "children": [
+                                "第五百九条の規定"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "Column",
+                          "attr": {
+                            "Num": "2"
+                          },
+                          "children": [
+                            {
+                              "tag": "Sentence",
+                              "attr": {
+                                "Num": "1",
+                                "WritingMode": "vertical"
+                              },
+                              "children": [
+                                "公布の日"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

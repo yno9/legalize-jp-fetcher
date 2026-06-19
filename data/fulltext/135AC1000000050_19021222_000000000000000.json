@@ -1,0 +1,125 @@
+{
+  "tag": "Law",
+  "attr": {
+    "Era": "Meiji",
+    "Year": "35",
+    "Num": "050",
+    "LawType": "Act",
+    "Lang": "ja",
+    "PromulgateMonth": "12",
+    "PromulgateDay": "02"
+  },
+  "children": [
+    {
+      "tag": "LawNum",
+      "attr": {},
+      "children": [
+        "明治三十五年法律第五十号"
+      ]
+    },
+    {
+      "tag": "LawBody",
+      "attr": {},
+      "children": [
+        {
+          "tag": "LawTitle",
+          "attr": {
+            "Kana": "ねんれいけいさんにかんするほうりつ",
+            "Abbrev": "",
+            "AbbrevKana": ""
+          },
+          "children": [
+            "明治三十五年法律第五十号（年齢計算ニ関スル法律）"
+          ]
+        },
+        {
+          "tag": "MainProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1",
+                "OldNum": "true"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {},
+                      "children": [
+                        "年齢ハ出生ノ日ヨリ之ヲ起算ス"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "2",
+                "OldNum": "true"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {},
+                      "children": [
+                        "民法第百四十三条ノ規定ハ年齢ノ計算ニ之ヲ準用ス"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "3",
+                "OldNum": "true"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {},
+                      "children": [
+                        "明治六年第三十六号布告ハ之ヲ廃止ス"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

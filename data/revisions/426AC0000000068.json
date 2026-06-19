@@ -1,0 +1,112 @@
+[
+  {
+    "revisionId": "426AC0000000068_20260521_505AC0000000063",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2023-06-16",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "505AC0000000063",
+    "amendmentLawNum": "令和五年法律第六十三号",
+    "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20250601_504AC0000000068",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20240401_505AC0000000063",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2023-06-16",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000063",
+    "amendmentLawNum": "令和五年法律第六十三号",
+    "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20240401_504AC0100000052",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "504AC0100000052",
+    "amendmentLawNum": "令和四年法律第五十二号",
+    "amendmentLawName": "困難な問題を抱える女性への支援に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20230616_505AC0000000063",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2023-06-16",
+    "enforcedAt": "2023-06-16",
+    "amendmentLawId": "505AC0000000063",
+    "amendmentLawNum": "令和五年法律第六十三号",
+    "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20220617_504AC0000000068",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20220525_504AC0100000052",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0100000052",
+    "amendmentLawNum": "令和四年法律第五十二号",
+    "amendmentLawName": "困難な問題を抱える女性への支援に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20210901_503AC0000000037",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-09-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20210519_503AC0000000037",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20180401_429AC0000000004",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2017-03-31",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000004",
+    "amendmentLawNum": "平成二十九年法律第四号",
+    "amendmentLawName": "所得税法等の一部を改正する等の法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "426AC0000000068_20170401_429AC0000000004",
+    "lawId": "426AC0000000068",
+    "promulgatedAt": "2017-03-31",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "429AC0000000004",
+    "amendmentLawNum": "平成二十九年法律第四号",
+    "amendmentLawName": "所得税法等の一部を改正する等の法律",
+    "isFuture": false
+  }
+]

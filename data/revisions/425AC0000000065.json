@@ -1,0 +1,42 @@
+[
+  {
+    "revisionId": "425AC0000000065_20250601_504AC0000000068",
+    "lawId": "425AC0000000065",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "425AC0000000065_20240401_503AC0000000056",
+    "lawId": "425AC0000000065",
+    "promulgatedAt": "2021-06-04",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "503AC0000000056",
+    "amendmentLawNum": "令和三年法律第五十六号",
+    "amendmentLawName": "障害を理由とする差別の解消の推進に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "425AC0000000065_20220617_504AC0000000068",
+    "lawId": "425AC0000000065",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "425AC0000000065_20160401_000000000000000",
+    "lawId": "425AC0000000065",
+    "promulgatedAt": "2013-06-26",
+    "enforcedAt": "2016-04-01",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "revisionId": "506AC0000000052_20280613_000000000000000",
+    "lawId": "506AC0000000052",
+    "promulgatedAt": "2024-06-14",
+    "enforcedAt": "2028-06-13",
+    "amendmentLawId": "000000000000000",
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": true
+  },
+  {
+    "revisionId": "506AC0000000052_20271205_507AC0000000057",
+    "lawId": "506AC0000000052",
+    "promulgatedAt": "2025-06-06",
+    "enforcedAt": "2027-12-05",
+    "amendmentLawId": "507AC0000000057",
+    "amendmentLawNum": "令和七年法律第五十七号",
+    "amendmentLawName": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "506AC0000000052_20260525_000000000000000",
+    "lawId": "506AC0000000052",
+    "promulgatedAt": "2024-06-14",
+    "enforcedAt": "2026-05-25",
+    "amendmentLawId": "000000000000000",
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  },
+  {
+    "revisionId": "506AC0000000052_20250606_507AC0000000057",
+    "lawId": "506AC0000000052",
+    "promulgatedAt": "2025-06-06",
+    "enforcedAt": "2025-06-06",
+    "amendmentLawId": "507AC0000000057",
+    "amendmentLawNum": "令和七年法律第五十七号",
+    "amendmentLawName": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "506AC0000000052_20240614_000000000000000",
+    "lawId": "506AC0000000052",
+    "promulgatedAt": "2024-06-14",
+    "enforcedAt": "2024-06-14",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]
