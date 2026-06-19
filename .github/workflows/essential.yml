@@ -1,0 +1,64 @@
+name: Essential update (lawcode-jp)
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 15:00 UTC = 00:00 JST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      DATA_DIR: ${{ github.workspace }}/data
+      LAWCODE_REPO_PATH: ${{ github.workspace }}/lawcode-jp
+
+    steps:
+      - name: Checkout legalize-jp-fetcher
+        uses: actions/checkout@v4
+
+      - name: Checkout lawcode-jp
+        uses: actions/checkout@v4
+        with:
+          repository: yno9/lawcode-jp
+          token: ${{ secrets.LAWCODE_JP_PAT }}
+          path: lawcode-jp
+          fetch-depth: 0
+
+      - name: Fetch all branches in lawcode-jp
+        run: |
+          cd lawcode-jp
+          git fetch --all
+          git branch -r | grep -v '\->' | while read remote; do
+            git branch --track "${remote#origin/}" "$remote" 2>/dev/null || true
+          done
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch new JSON
+        run: npm run fetch:json
+
+      - name: Generate MD (essential)
+        run: npm run generate:md
+        env:
+          MD_MODE: essential
+
+      - name: Commit to lawcode-jp
+        run: npm run commit:md:branch
+
+      - name: Push lawcode-jp
+        run: |
+          cd lawcode-jp
+          git push origin current 2>/dev/null || true
+          git branch | grep 'future/' | while read branch; do
+            git push origin "$branch" 2>/dev/null || true
+          done

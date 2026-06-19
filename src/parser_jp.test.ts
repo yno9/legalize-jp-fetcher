@@ -20,12 +20,12 @@ import { readFileSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 import { describe, it, expect } from 'vitest'
-import { parseFullText } from './parseFullText.js'
-import { toMarkdown } from './toMarkdown.js'
+import { parseFullText } from './parseJSON.js'
+import { toMarkdown } from './convertMD.js'
 import type { LawNode } from './types.js'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const FIXTURES = join(__dirname, '../../research/fixtures/jp')
+const FIXTURES = join(__dirname, '../research/fixtures/jp')
 
 function loadFixture(filename: string): LawNode {
   return JSON.parse(readFileSync(join(FIXTURES, filename), 'utf-8')) as LawNode

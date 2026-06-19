@@ -29,8 +29,8 @@ interface CommitOptions {
   normId: string     // law_id
 }
 
-const COMMITTER_NAME = 'Legalize'
-const COMMITTER_EMAIL = 'legalize@legalize.dev'
+const COMMITTER_NAME = 'github-actions[bot]'
+const COMMITTER_EMAIL = 'github-actions[bot]@users.noreply.github.com'
 
 function buildCommitMessage(commitType: CommitType, title: string, sourceId: string, normId: string): string {
   return `[${commitType}] ${title}\n\nSource-Id: ${sourceId}\nSource-Date: ${sourceId.split('_')[1] ?? ''}\nNorm-Id: ${normId}`
@@ -59,6 +59,8 @@ export async function commitRevision(opts: CommitOptions): Promise<void> {
 
   const env = {
     GIT_AUTHOR_DATE: useDate,
+    GIT_AUTHOR_NAME: COMMITTER_NAME,
+    GIT_AUTHOR_EMAIL: COMMITTER_EMAIL,
     GIT_COMMITTER_DATE: useDate,
     GIT_COMMITTER_NAME: COMMITTER_NAME,
     GIT_COMMITTER_EMAIL: COMMITTER_EMAIL,
@@ -98,7 +100,14 @@ export async function createFuturePR(
   const date = new Date(authorDate.length === 10 ? `${authorDate}T00:00:00Z` : authorDate)
   const year = date.getFullYear()
   const useDate = year >= 1970 && year < 2100 ? date.toISOString() : new Date().toISOString()
-  const env = { GIT_AUTHOR_DATE: useDate, GIT_COMMITTER_DATE: useDate }
+  const env = {
+    GIT_AUTHOR_DATE: useDate,
+    GIT_AUTHOR_NAME: COMMITTER_NAME,
+    GIT_AUTHOR_EMAIL: COMMITTER_EMAIL,
+    GIT_COMMITTER_DATE: useDate,
+    GIT_COMMITTER_NAME: COMMITTER_NAME,
+    GIT_COMMITTER_EMAIL: COMMITTER_EMAIL,
+  }
   await git.env(env).commit(message)
 
   // Return to base branch

@@ -4,9 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch:all": "tsx src/fetchAll.ts",
-    "generate:md": "tsx src/generateMd.ts",
-    "commit:md": "tsx src/commitMd.ts",
+    "fetch:json": "tsx src/fetchJSON.ts",
+    "generate:md": "tsx src/generateMD.ts",
+    "commit:md": "tsx src/commitMD.ts",
+    "commit:md:branch": "COMMIT_MODE=branch tsx src/commitMD.ts",
     "daily": "tsx src/daily.ts",
     "test": "vitest run",
     "test:watch": "vitest"

@@ -5,13 +5,13 @@ import { dirname, join } from 'path'
 import path from 'path'
 import { execSync } from 'child_process'
 import { EGovDataSource } from './datasource/EGovDataSource.js'
-import { toMarkdown } from './toMarkdown.js'
+import { toMarkdown } from './convertMD.js'
 import { commitRevision, ensureBranch } from './gitCommit.js'
-import { parseFullText } from './parseFullText.js'
+import { parseFullText } from './parseJSON.js'
 import type { LawEntry, LawNode, RevisionEntry, RevisionSummary } from './types.js'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../../data')
+const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../data')
 const JSON_DIR = join(DATA_DIR, 'json')
 const MD_DIR = join(DATA_DIR, 'md')
 const REVISIONS_DIR = join(DATA_DIR, 'revisions')

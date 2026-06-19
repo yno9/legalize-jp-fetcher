@@ -1,0 +1,54 @@
+name: Full update (legalize-jp)
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 16:00 UTC = 01:00 JST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      DATA_DIR: ${{ github.workspace }}/data
+      LAWMD_REPO_PATH: ${{ github.workspace }}/legalize-jp
+
+    steps:
+      - name: Checkout legalize-jp-fetcher
+        uses: actions/checkout@v4
+
+      - name: Checkout legalize-jp
+        uses: actions/checkout@v4
+        with:
+          repository: yno9/legalize-jp
+          token: ${{ secrets.LEGALIZE_JP_PAT }}
+          path: legalize-jp
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch new JSON
+        run: npm run fetch:json
+
+      - name: Generate MD (full)
+        run: npm run generate:md
+
+      - name: Commit to legalize-jp
+        run: npm run commit:md
+
+      - name: Push legalize-jp
+        run: |
+          if git -C legalize-jp diff --quiet HEAD; then
+            echo "No new commits, nothing to push"
+          else
+            git -C legalize-jp push origin main
+          fi
