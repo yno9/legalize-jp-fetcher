@@ -42,7 +42,11 @@ async function main() {
 
     if (!law.current && law.future.length === 0) continue
 
-    const allRevisions = [...(law.past ?? []), ...(law.current ? [law.current] : [])]
+    const allRevisions = [
+      ...(law.past ?? []),
+      ...(law.current ? [law.current] : []),
+      ...law.future,
+    ]
     const lawMdDir = join(MD_DIR, law.lawId)
 
     for (const revision of allRevisions) {
