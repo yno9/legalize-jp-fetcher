@@ -77,6 +77,11 @@ jobs:
       - name: Push lawcode-jp
         run: |
           cd lawcode-jp
+          echo "=== local branch ==="
+          git branch
+          echo "=== log (last 5) ==="
+          git log --oneline -5
+          echo "=== push ==="
           git push origin current
           git branch | grep 'future/' | while read branch; do
             git push origin "$branch" || true
