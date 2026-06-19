@@ -1,0 +1,42 @@
+[
+  {
+    "revisionId": "411AC0000000042_20220401_503AC0000000037",
+    "lawId": "411AC0000000042",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "411AC0000000042_20210519_503AC0000000037",
+    "lawId": "411AC0000000042",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "411AC0000000042_20170530_428AC0000000051",
+    "lawId": "411AC0000000042",
+    "promulgatedAt": "2016-05-27",
+    "enforcedAt": "2017-05-30",
+    "amendmentLawId": "428AC0000000051",
+    "amendmentLawNum": "平成二十八年法律第五十一号",
+    "amendmentLawName": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "411AC0000000042_20160527_428AC0000000051",
+    "lawId": "411AC0000000042",
+    "promulgatedAt": "2016-05-27",
+    "enforcedAt": "2016-05-27",
+    "amendmentLawId": "428AC0000000051",
+    "amendmentLawNum": "平成二十八年法律第五十一号",
+    "amendmentLawName": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+    "isFuture": false
+  }
+]

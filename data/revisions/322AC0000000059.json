@@ -1,0 +1,142 @@
+[
+  {
+    "revisionId": "322AC0000000059_20280613_505AC0000000053",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2028-06-13",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000059_20260521_505AC0000000053",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20260521_504AC0000000048",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20251001_505AC0000000053",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2025-10-01",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20250601_504AC0000000068",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20230614_505AC0000000053",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2023-06-14",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20221001_501AC0000000044",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2019-06-26",
+    "enforcedAt": "2022-10-01",
+    "amendmentLawId": "501AC0000000044",
+    "amendmentLawNum": "令和元年法律第四十四号",
+    "amendmentLawName": "法科大学院の教育と司法試験等との連携等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20220617_504AC0000000068",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20220525_504AC0000000048",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20190626_501AC0000000044",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2019-06-26",
+    "enforcedAt": "2019-06-26",
+    "amendmentLawId": "501AC0000000044",
+    "amendmentLawNum": "令和元年法律第四十四号",
+    "amendmentLawName": "法科大学院の教育と司法試験等との連携等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20190401_430AC0000000033",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2018-05-30",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "430AC0000000033",
+    "amendmentLawNum": "平成三十年法律第三十三号",
+    "amendmentLawName": "不正競争防止法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20171101_429AC0000000023",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2017-04-26",
+    "enforcedAt": "2017-11-01",
+    "amendmentLawId": "429AC0000000023",
+    "amendmentLawNum": "平成二十九年法律第二十三号",
+    "amendmentLawName": "裁判所法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20170810_429AC0000000067",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2017-06-21",
+    "enforcedAt": "2017-08-10",
+    "amendmentLawId": "429AC0000000067",
+    "amendmentLawNum": "平成二十九年法律第六十七号",
+    "amendmentLawName": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000059_20140401_425AC0000000048",
+    "lawId": "322AC0000000059",
+    "promulgatedAt": "2013-06-19",
+    "enforcedAt": "2014-04-01",
+    "amendmentLawId": "425AC0000000048",
+    "amendmentLawNum": "平成二十五年法律第四十八号",
+    "amendmentLawName": "国際的な子の奪取の民事上の側面に関する条約の実施に関する法律",
+    "isFuture": false
+  }
+]

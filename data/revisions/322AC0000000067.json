@@ -1,0 +1,1932 @@
+[
+  {
+    "revisionId": "322AC0000000067_20310604_508AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-06-05",
+    "enforcedAt": "2031-06-04",
+    "amendmentLawId": "508AC0000000031",
+    "amendmentLawNum": "令和八年法律第三十一号",
+    "amendmentLawName": "健康保険法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20281211_507AC0000000087",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-12-12",
+    "enforcedAt": "2028-12-11",
+    "amendmentLawId": "507AC0000000087",
+    "amendmentLawNum": "令和七年法律第八十七号",
+    "amendmentLawName": "医療法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20280604_508AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-06-05",
+    "enforcedAt": "2028-06-04",
+    "amendmentLawId": "508AC0000000031",
+    "amendmentLawNum": "令和八年法律第三十一号",
+    "amendmentLawName": "健康保険法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20270604_508AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-06-05",
+    "enforcedAt": "2027-06-04",
+    "amendmentLawId": "508AC0000000031",
+    "amendmentLawNum": "令和八年法律第三十一号",
+    "amendmentLawName": "健康保険法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20270526_508AC0000000023",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-05-27",
+    "enforcedAt": "2027-05-26",
+    "amendmentLawId": "508AC0000000023",
+    "amendmentLawNum": "令和八年法律第二十三号",
+    "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20270520_507AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-21",
+    "enforcedAt": "2027-05-20",
+    "amendmentLawId": "507AC0000000037",
+    "amendmentLawNum": "令和七年法律第三十七号",
+    "amendmentLawName": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20270401_508AC0000000027",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-06-03",
+    "enforcedAt": "2027-04-01",
+    "amendmentLawId": "508AC0000000027",
+    "amendmentLawNum": "令和八年法律第二十七号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20270101_507AC1000000002",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-01-08",
+    "enforcedAt": "2027-01-01",
+    "amendmentLawId": "507AC1000000002",
+    "amendmentLawNum": "令和七年法律第二号",
+    "amendmentLawName": "政治資金規正法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20261203_508AC0000000027",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-06-03",
+    "enforcedAt": "2026-12-03",
+    "amendmentLawId": "508AC0000000027",
+    "amendmentLawNum": "令和八年法律第二十七号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20260924_506AC0000000065",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-26",
+    "enforcedAt": "2026-09-24",
+    "amendmentLawId": "506AC0000000065",
+    "amendmentLawNum": "令和六年法律第六十五号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20260903_508AC0000000027",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-06-03",
+    "enforcedAt": "2026-09-03",
+    "amendmentLawId": "508AC0000000027",
+    "amendmentLawNum": "令和八年法律第二十七号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000067_20260614_506AC0000000059",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-21",
+    "enforcedAt": "2026-06-14",
+    "amendmentLawId": "506AC0000000059",
+    "amendmentLawNum": "令和六年法律第五十九号",
+    "amendmentLawName": "出入国管理及び難民認定法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260601_504AC0000000096",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-09",
+    "enforcedAt": "2026-06-01",
+    "amendmentLawId": "504AC0000000096",
+    "amendmentLawNum": "令和四年法律第九十六号",
+    "amendmentLawName": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260527_507AC0000000046",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-28",
+    "enforcedAt": "2026-05-27",
+    "amendmentLawId": "507AC0000000046",
+    "amendmentLawNum": "令和七年法律第四十六号",
+    "amendmentLawName": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260521_504AC0000000048",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260401_508AC0000000008",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-03-31",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": "508AC0000000008",
+    "amendmentLawNum": "令和八年法律第八号",
+    "amendmentLawName": "高等学校等就学支援金の支給に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260401_508AC0000000003",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2026-03-31",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": "508AC0000000003",
+    "amendmentLawNum": "令和八年法律第三号",
+    "amendmentLawName": "地方交付税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260401_507AC0000000089",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-12-24",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": "507AC0000000089",
+    "amendmentLawNum": "令和七年法律第八十九号",
+    "amendmentLawName": "一般職の職員の給与に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260401_507AC0000000047",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-30",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": "507AC0000000047",
+    "amendmentLawNum": "令和七年法律第四十七号",
+    "amendmentLawName": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260401_506AC0000000066",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-26",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": "506AC0000000066",
+    "amendmentLawNum": "令和六年法律第六十六号",
+    "amendmentLawName": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260401_506AC0000000065",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-26",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": "506AC0000000065",
+    "amendmentLawNum": "令和六年法律第六十五号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20260101_506AC1000000064",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-26",
+    "enforcedAt": "2026-01-01",
+    "amendmentLawId": "506AC1000000064",
+    "amendmentLawNum": "令和六年法律第六十四号",
+    "amendmentLawName": "政治資金規正法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20251201_507AC0000000035",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-16",
+    "enforcedAt": "2025-12-01",
+    "amendmentLawId": "507AC0000000035",
+    "amendmentLawNum": "令和七年法律第三十五号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20251128_507AC0000000047",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-30",
+    "enforcedAt": "2025-11-28",
+    "amendmentLawId": "507AC0000000047",
+    "amendmentLawNum": "令和七年法律第四十七号",
+    "amendmentLawName": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20251001_507AC0000000022",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-04-16",
+    "enforcedAt": "2025-10-01",
+    "amendmentLawId": "507AC0000000022",
+    "amendmentLawNum": "令和七年法律第二十二号",
+    "amendmentLawName": "道路法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250601_504AC0000000068",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250530_507AC0000000047",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-30",
+    "enforcedAt": "2025-05-30",
+    "amendmentLawId": "507AC0000000047",
+    "amendmentLawNum": "令和七年法律第四十七号",
+    "amendmentLawName": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250516_507AC0000000035",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-05-16",
+    "enforcedAt": "2025-05-16",
+    "amendmentLawId": "507AC0000000035",
+    "amendmentLawNum": "令和七年法律第三十五号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250401_507AC0000000014",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-03-31",
+    "enforcedAt": "2025-04-01",
+    "amendmentLawId": "507AC0000000014",
+    "amendmentLawNum": "令和七年法律第十四号",
+    "amendmentLawName": "土地改良法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250401_506AC0000000072",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-12-25",
+    "enforcedAt": "2025-04-01",
+    "amendmentLawId": "506AC0000000072",
+    "amendmentLawNum": "令和六年法律第七十二号",
+    "amendmentLawName": "一般職の職員の給与に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250401_506AC0000000056",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-19",
+    "enforcedAt": "2025-04-01",
+    "amendmentLawId": "506AC0000000056",
+    "amendmentLawNum": "令和六年法律第五十六号",
+    "amendmentLawName": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250401_505AC0000000021",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-05-08",
+    "enforcedAt": "2025-04-01",
+    "amendmentLawId": "505AC0000000021",
+    "amendmentLawNum": "令和五年法律第二十一号",
+    "amendmentLawName": "私立学校法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250301_505AC0000000084",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-12-13",
+    "enforcedAt": "2025-03-01",
+    "amendmentLawId": "505AC0000000084",
+    "amendmentLawNum": "令和五年法律第八十四号",
+    "amendmentLawName": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250117_506AC1000000070",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-10-17",
+    "enforcedAt": "2025-01-17",
+    "amendmentLawId": "506AC1000000070",
+    "amendmentLawNum": "令和六年法律第七十号",
+    "amendmentLawName": "旧優生保護法に基づく優生手術等を受けた者等に対する補償金等の支給等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20250108_507AC1000000002",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2025-01-08",
+    "enforcedAt": "2025-01-08",
+    "amendmentLawId": "507AC1000000002",
+    "amendmentLawNum": "令和七年法律第二号",
+    "amendmentLawName": "政治資金規正法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20241212_505AC0000000084",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-12-13",
+    "enforcedAt": "2024-12-12",
+    "amendmentLawId": "505AC0000000084",
+    "amendmentLawNum": "令和五年法律第八十四号",
+    "amendmentLawName": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20241202_505AC0000000048",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-06-09",
+    "enforcedAt": "2024-12-02",
+    "amendmentLawId": "505AC0000000048",
+    "amendmentLawNum": "令和五年法律第四十八号",
+    "amendmentLawName": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20241001_506AC0000000047",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-12",
+    "enforcedAt": "2024-10-01",
+    "amendmentLawId": "506AC0000000047",
+    "amendmentLawNum": "令和六年法律第四十七号",
+    "amendmentLawName": "子ども・子育て支援法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240926_506AC0000000065",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-26",
+    "enforcedAt": "2024-09-26",
+    "amendmentLawId": "506AC0000000065",
+    "amendmentLawNum": "令和六年法律第六十五号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240626_506AC0000000065",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-26",
+    "enforcedAt": "2024-06-26",
+    "amendmentLawId": "506AC0000000065",
+    "amendmentLawNum": "令和六年法律第六十五号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240621_506AC0000000059",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-21",
+    "enforcedAt": "2024-06-21",
+    "amendmentLawId": "506AC0000000059",
+    "amendmentLawNum": "令和六年法律第五十九号",
+    "amendmentLawName": "出入国管理及び難民認定法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240612_506AC0000000047",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2024-06-12",
+    "enforcedAt": "2024-06-12",
+    "amendmentLawId": "506AC0000000047",
+    "amendmentLawNum": "令和六年法律第四十七号",
+    "amendmentLawName": "子ども・子育て支援法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240527_505AC0000000048",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-06-09",
+    "enforcedAt": "2024-05-27",
+    "amendmentLawId": "505AC0000000048",
+    "amendmentLawNum": "令和五年法律第四十八号",
+    "amendmentLawName": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240527_503AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2024-05-27",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240525_503AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-26",
+    "enforcedAt": "2024-05-25",
+    "amendmentLawId": "503AC0000000044",
+    "amendmentLawNum": "令和三年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_505AC0000000073",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-11-24",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000073",
+    "amendmentLawNum": "令和五年法律第七十三号",
+    "amendmentLawName": "一般職の職員の給与に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_505AC0000000063",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-06-16",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000063",
+    "amendmentLawNum": "令和五年法律第六十三号",
+    "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_505AC0000000058",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-06-16",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000058",
+    "amendmentLawNum": "令和五年法律第五十八号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_505AC0000000034",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-05-26",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000034",
+    "amendmentLawNum": "令和五年法律第三十四号",
+    "amendmentLawName": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_505AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-05-19",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000031",
+    "amendmentLawNum": "令和五年法律第三十一号",
+    "amendmentLawName": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_505AC0000000019",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-05-08",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000019",
+    "amendmentLawNum": "令和五年法律第十九号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_504AC0100000052",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "504AC0100000052",
+    "amendmentLawNum": "令和四年法律第五十二号",
+    "amendmentLawName": "困難な問題を抱える女性への支援に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_504AC0000000104",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_504AC0000000096",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-09",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "504AC0000000096",
+    "amendmentLawNum": "令和四年法律第九十六号",
+    "amendmentLawName": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240401_503AC0000000039",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "503AC0000000039",
+    "amendmentLawNum": "令和三年法律第三十九号",
+    "amendmentLawName": "預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240301_504AC0000000004",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-03-31",
+    "enforcedAt": "2024-03-01",
+    "amendmentLawId": "504AC0000000004",
+    "amendmentLawNum": "令和四年法律第四号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20240101_431AC0000000003",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-03-29",
+    "enforcedAt": "2024-01-01",
+    "amendmentLawId": "431AC0000000003",
+    "amendmentLawNum": "平成三十一年法律第三号",
+    "amendmentLawName": "森林環境税及び森林環境譲与税に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20231230_505AC1000000089",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-12-20",
+    "enforcedAt": "2023-12-30",
+    "amendmentLawId": "505AC1000000089",
+    "amendmentLawNum": "令和五年法律第八十九号",
+    "amendmentLawName": "特定不法行為等に係る被害者の迅速かつ円滑な救済に資するための日本司法支援センターの業務の特例並びに宗教法人による財産の処分及び管理の特例に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20231213_505AC0000000084",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-12-13",
+    "enforcedAt": "2023-12-13",
+    "amendmentLawId": "505AC0000000084",
+    "amendmentLawNum": "令和五年法律第八十四号",
+    "amendmentLawName": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230901_505AC0000000014",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-04-28",
+    "enforcedAt": "2023-09-01",
+    "amendmentLawId": "505AC0000000014",
+    "amendmentLawNum": "令和五年法律第十四号",
+    "amendmentLawName": "新型インフルエンザ等対策特別措置法及び内閣法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230508_505AC0000000019",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2023-05-08",
+    "enforcedAt": "2023-05-08",
+    "amendmentLawId": "505AC0000000019",
+    "amendmentLawNum": "令和五年法律第十九号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230401_504AC0000000104",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230401_504AC0000000096",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-09",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000096",
+    "amendmentLawNum": "令和四年法律第九十六号",
+    "amendmentLawName": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230401_504AC0000000056",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-27",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000056",
+    "amendmentLawNum": "令和四年法律第五十六号",
+    "amendmentLawName": "農業経営基盤強化促進法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230401_504AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-20",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000044",
+    "amendmentLawNum": "令和四年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230401_504AC0000000004",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-03-31",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000004",
+    "amendmentLawNum": "令和四年法律第四号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230401_503AC0000000063",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-06-11",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "503AC0000000063",
+    "amendmentLawNum": "令和三年法律第六十三号",
+    "amendmentLawName": "地方公務員法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230327_504AC0000000033",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-04-27",
+    "enforcedAt": "2023-03-27",
+    "amendmentLawId": "504AC0000000033",
+    "amendmentLawNum": "令和四年法律第三十三号",
+    "amendmentLawName": "旅券法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20230301_504AC1000000101",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2023-03-01",
+    "amendmentLawId": "504AC1000000101",
+    "amendmentLawNum": "令和四年法律第百一号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221219_504AC0000000096",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-09",
+    "enforcedAt": "2022-12-19",
+    "amendmentLawId": "504AC0000000096",
+    "amendmentLawNum": "令和四年法律第九十六号",
+    "amendmentLawName": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221216_504AC1000000101",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2022-12-16",
+    "amendmentLawId": "504AC1000000101",
+    "amendmentLawNum": "令和四年法律第百一号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221216_504AC0000000104",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2022-12-16",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221209_504AC0000000096",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-12-09",
+    "enforcedAt": "2022-12-09",
+    "amendmentLawId": "504AC0000000096",
+    "amendmentLawNum": "令和四年法律第九十六号",
+    "amendmentLawName": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221101_502AC0000000033",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-05-29",
+    "enforcedAt": "2022-11-01",
+    "amendmentLawId": "502AC0000000033",
+    "amendmentLawNum": "令和二年法律第三十三号",
+    "amendmentLawName": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221001_504AC0000000053",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-27",
+    "enforcedAt": "2022-10-01",
+    "amendmentLawId": "504AC0000000053",
+    "amendmentLawNum": "令和四年法律第五十三号",
+    "amendmentLawName": "農山漁村の活性化のための定住等及び地域間交流の促進に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20221001_504AC0000000049",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-10-01",
+    "amendmentLawId": "504AC0000000049",
+    "amendmentLawNum": "令和四年法律第四十九号",
+    "amendmentLawName": "農林水産物及び食品の輸出の促進に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220820_504AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-20",
+    "enforcedAt": "2022-08-20",
+    "amendmentLawId": "504AC0000000044",
+    "amendmentLawNum": "令和四年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220701_504AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-02",
+    "enforcedAt": "2022-07-01",
+    "amendmentLawId": "504AC0000000037",
+    "amendmentLawNum": "令和四年法律第三十七号",
+    "amendmentLawName": "環境と調和のとれた食料システムの確立のための環境負荷低減事業活動の促進等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220617_504AC0000000068",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220601_503AC0000000050",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-28",
+    "enforcedAt": "2022-06-01",
+    "amendmentLawId": "503AC0000000050",
+    "amendmentLawNum": "令和三年法律第五十号",
+    "amendmentLawName": "子ども・子育て支援法及び児童手当法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220527_504AC0000000056",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-27",
+    "enforcedAt": "2022-05-27",
+    "amendmentLawId": "504AC0000000056",
+    "amendmentLawNum": "令和四年法律第五十六号",
+    "amendmentLawName": "農業経営基盤強化促進法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220525_504AC0100000052",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0100000052",
+    "amendmentLawNum": "令和四年法律第五十二号",
+    "amendmentLawName": "困難な問題を抱える女性への支援に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220525_504AC0000000048",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220520_504AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-05-20",
+    "enforcedAt": "2022-05-20",
+    "amendmentLawId": "504AC0000000044",
+    "amendmentLawNum": "令和四年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220427_504AC0000000034",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-04-27",
+    "enforcedAt": "2022-04-27",
+    "amendmentLawId": "504AC0000000034",
+    "amendmentLawNum": "令和四年法律第三十四号",
+    "amendmentLawName": "東日本大震災の被災者に係る一般旅券の発給の特例に関する法律を廃止する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220406_504AC0000000016",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-04-06",
+    "enforcedAt": "2022-04-06",
+    "amendmentLawId": "504AC0000000016",
+    "amendmentLawNum": "令和四年法律第十六号",
+    "amendmentLawName": "国会議員の選挙等の執行経費の基準に関する法律及び公職選挙法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_504AC0000000004",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-03-31",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "504AC0000000004",
+    "amendmentLawNum": "令和四年法律第四号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_504AC0000000001",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2022-03-31",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "504AC0000000001",
+    "amendmentLawNum": "令和四年法律第一号",
+    "amendmentLawName": "地方税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_503AC0000000054",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-06-02",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "503AC0000000054",
+    "amendmentLawNum": "令和三年法律第五十四号",
+    "amendmentLawName": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_503AC0000000047",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-28",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "503AC0000000047",
+    "amendmentLawNum": "令和三年法律第四十七号",
+    "amendmentLawName": "少年法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_503AC0000000043",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-21",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "503AC0000000043",
+    "amendmentLawNum": "令和三年法律第四十三号",
+    "amendmentLawName": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_502AC0000000062",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-06-24",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "502AC0000000062",
+    "amendmentLawNum": "令和二年法律第六十二号",
+    "amendmentLawName": "マンションの管理の適正化の推進に関する法律及びマンションの建替え等の円滑化に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_502AC0000000041",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-06-10",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "502AC0000000041",
+    "amendmentLawNum": "令和二年法律第四十一号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_502AC0000000008",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-03-31",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "502AC0000000008",
+    "amendmentLawNum": "令和二年法律第八号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220401_430AC0000000059",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-20",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "430AC0000000059",
+    "amendmentLawNum": "平成三十年法律第五十九号",
+    "amendmentLawName": "民法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220111_501AC0000000017",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-31",
+    "enforcedAt": "2022-01-11",
+    "amendmentLawId": "501AC0000000017",
+    "amendmentLawNum": "令和元年法律第十七号",
+    "amendmentLawName": "戸籍法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20220104_503AC0000000007",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-03-31",
+    "enforcedAt": "2022-01-04",
+    "amendmentLawId": "503AC0000000007",
+    "amendmentLawNum": "令和三年法律第七号",
+    "amendmentLawName": "地方税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20211201_501AC0000000062",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-12-04",
+    "enforcedAt": "2021-12-01",
+    "amendmentLawId": "501AC0000000062",
+    "amendmentLawNum": "令和元年法律第六十二号",
+    "amendmentLawName": "肥料取締法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20211126_503AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-26",
+    "enforcedAt": "2021-11-26",
+    "amendmentLawId": "503AC0000000044",
+    "amendmentLawNum": "令和三年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20211101_503AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-10",
+    "enforcedAt": "2021-11-01",
+    "amendmentLawId": "503AC0000000031",
+    "amendmentLawNum": "令和三年法律第三十一号",
+    "amendmentLawName": "特定都市河川浸水被害対策法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210901_503AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-09-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210901_503AC0000000036",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-09-01",
+    "amendmentLawId": "503AC0000000036",
+    "amendmentLawNum": "令和三年法律第三十六号",
+    "amendmentLawName": "デジタル庁設置法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210826_503AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-26",
+    "enforcedAt": "2021-08-26",
+    "amendmentLawId": "503AC0000000044",
+    "amendmentLawNum": "令和三年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210801_501AC0000000063",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-12-04",
+    "enforcedAt": "2021-08-01",
+    "amendmentLawId": "501AC0000000063",
+    "amendmentLawNum": "令和元年法律第六十三号",
+    "amendmentLawName": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210715_503AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-10",
+    "enforcedAt": "2021-07-15",
+    "amendmentLawId": "503AC0000000031",
+    "amendmentLawNum": "令和三年法律第三十一号",
+    "amendmentLawName": "特定都市河川浸水被害対策法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210623_503AC1000000082",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-06-18",
+    "enforcedAt": "2021-06-23",
+    "amendmentLawId": "503AC1000000082",
+    "amendmentLawNum": "令和三年法律第八十二号",
+    "amendmentLawName": "特定患者等の郵便等を用いて行う投票方法の特例に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210620_503AC0000000009",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-03-31",
+    "enforcedAt": "2021-06-20",
+    "amendmentLawId": "503AC0000000009",
+    "amendmentLawNum": "令和三年法律第九号",
+    "amendmentLawName": "踏切道改良促進法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210602_503AC0000000054",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-06-02",
+    "enforcedAt": "2021-06-02",
+    "amendmentLawId": "503AC0000000054",
+    "amendmentLawNum": "令和三年法律第五十四号",
+    "amendmentLawName": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210601_430AC0000000046",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-13",
+    "enforcedAt": "2021-06-01",
+    "amendmentLawId": "430AC0000000046",
+    "amendmentLawNum": "平成三十年法律第四十六号",
+    "amendmentLawName": "食品衛生法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210526_503AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-26",
+    "enforcedAt": "2021-05-26",
+    "amendmentLawId": "503AC0000000044",
+    "amendmentLawNum": "令和三年法律第四十四号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210520_503AC0000000030",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-10",
+    "enforcedAt": "2021-05-20",
+    "amendmentLawId": "503AC0000000030",
+    "amendmentLawNum": "令和三年法律第三十号",
+    "amendmentLawName": "災害対策基本法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210519_503AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210519_503AC0000000036",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000036",
+    "amendmentLawNum": "令和三年法律第三十六号",
+    "amendmentLawName": "デジタル庁設置法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210401_503AC0000000009",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-03-31",
+    "enforcedAt": "2021-04-01",
+    "amendmentLawId": "503AC0000000009",
+    "amendmentLawNum": "令和三年法律第九号",
+    "amendmentLawName": "踏切道改良促進法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210401_503AC0000000007",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-03-31",
+    "enforcedAt": "2021-04-01",
+    "amendmentLawId": "503AC0000000007",
+    "amendmentLawNum": "令和三年法律第七号",
+    "amendmentLawName": "地方税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210401_502AC0000000026",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-04-30",
+    "enforcedAt": "2021-04-01",
+    "amendmentLawId": "502AC0000000026",
+    "amendmentLawNum": "令和二年法律第二十六号",
+    "amendmentLawName": "地方税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20210213_503AC0000000005",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2021-02-03",
+    "enforcedAt": "2021-02-13",
+    "amendmentLawId": "503AC0000000005",
+    "amendmentLawNum": "令和三年法律第五号",
+    "amendmentLawName": "新型インフルエンザ等対策特別措置法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20201209_502AC0000000075",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-12-09",
+    "enforcedAt": "2020-12-09",
+    "amendmentLawId": "502AC0000000075",
+    "amendmentLawNum": "令和二年法律第七十五号",
+    "amendmentLawName": "予防接種法及び検疫法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20201201_501AC0000000062",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-12-04",
+    "enforcedAt": "2020-12-01",
+    "amendmentLawId": "501AC0000000062",
+    "amendmentLawNum": "令和元年法律第六十二号",
+    "amendmentLawName": "肥料取締法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20201201_430AC0000000095",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-12-14",
+    "enforcedAt": "2020-12-01",
+    "amendmentLawId": "430AC0000000095",
+    "amendmentLawNum": "平成三十年法律第九十五号",
+    "amendmentLawName": "漁業法等の一部を改正する等の法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20201125_502AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-05-27",
+    "enforcedAt": "2020-11-25",
+    "amendmentLawId": "502AC0000000031",
+    "amendmentLawNum": "令和二年法律第三十一号",
+    "amendmentLawName": "道路法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20201001_502AC0000000041",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-06-10",
+    "enforcedAt": "2020-10-01",
+    "amendmentLawId": "502AC0000000041",
+    "amendmentLawNum": "令和二年法律第四十一号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200929_502AC0000000012",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-03-31",
+    "enforcedAt": "2020-09-29",
+    "amendmentLawId": "502AC0000000012",
+    "amendmentLawNum": "令和二年法律第十二号",
+    "amendmentLawName": "土地基本法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200910_502AC0000000041",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-06-10",
+    "enforcedAt": "2020-09-10",
+    "amendmentLawId": "502AC0000000041",
+    "amendmentLawNum": "令和二年法律第四十一号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200901_501AC0000000063",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-12-04",
+    "enforcedAt": "2020-09-01",
+    "amendmentLawId": "501AC0000000063",
+    "amendmentLawNum": "令和元年法律第六十三号",
+    "amendmentLawName": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200701_502AC0000000016",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-04-03",
+    "enforcedAt": "2020-07-01",
+    "amendmentLawId": "502AC0000000016",
+    "amendmentLawNum": "令和二年法律第十六号",
+    "amendmentLawName": "家畜伝染病予防法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_502AC0000000008",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-03-31",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "502AC0000000008",
+    "amendmentLawNum": "令和二年法律第八号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_502AC0000000005",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-03-31",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "502AC0000000005",
+    "amendmentLawNum": "令和二年法律第五号",
+    "amendmentLawName": "地方税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_501AC0000000063",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-12-04",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "501AC0000000063",
+    "amendmentLawNum": "令和元年法律第六十三号",
+    "amendmentLawName": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_501AC0000000057",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-11-27",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "501AC0000000057",
+    "amendmentLawNum": "令和元年法律第五十七号",
+    "amendmentLawName": "農林水産物及び食品の輸出の促進に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_501AC0000000026",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-06-07",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "501AC0000000026",
+    "amendmentLawNum": "令和元年法律第二十六号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_501AC0000000012",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-24",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "501AC0000000012",
+    "amendmentLawNum": "令和元年法律第十二号",
+    "amendmentLawName": "農地中間管理事業の推進に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_501AC0000000011",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-24",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "501AC0000000011",
+    "amendmentLawNum": "令和元年法律第十一号",
+    "amendmentLawName": "学校教育法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_430AC0000000078",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-07-25",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "430AC0000000078",
+    "amendmentLawNum": "平成三十年法律第七十八号",
+    "amendmentLawName": "健康増進法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_430AC0000000066",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-27",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "430AC0000000066",
+    "amendmentLawNum": "平成三十年法律第六十六号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_429AC0000000061",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-16",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000061",
+    "amendmentLawNum": "平成二十九年法律第六十一号",
+    "amendmentLawName": "廃棄物の処理及び清掃に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_429AC0000000054",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-09",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000054",
+    "amendmentLawNum": "平成二十九年法律第五十四号",
+    "amendmentLawName": "地方自治法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_429AC0000000045",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_429AC0000000029",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-05-17",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000029",
+    "amendmentLawNum": "平成二十九年法律第二十九号",
+    "amendmentLawName": "地方公務員法及び地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200401_428AC0000000013",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-03-31",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "428AC0000000013",
+    "amendmentLawNum": "平成二十八年法律第十三号",
+    "amendmentLawName": "地方税法等の一部を改正する等の法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20200205_502AC1000000002",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2020-02-05",
+    "enforcedAt": "2020-02-05",
+    "amendmentLawId": "502AC1000000002",
+    "amendmentLawNum": "令和二年法律第二号",
+    "amendmentLawName": "家畜伝染病予防法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191216_501AC0000000016",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-31",
+    "enforcedAt": "2019-12-16",
+    "amendmentLawId": "501AC0000000016",
+    "amendmentLawNum": "令和元年法律第十六号",
+    "amendmentLawName": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191214_501AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-12-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191204_501AC0000000063",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-12-04",
+    "enforcedAt": "2019-12-04",
+    "amendmentLawId": "501AC0000000063",
+    "amendmentLawNum": "令和元年法律第六十三号",
+    "amendmentLawName": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191101_501AC0000000012",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-24",
+    "enforcedAt": "2019-11-01",
+    "amendmentLawId": "501AC0000000012",
+    "amendmentLawNum": "令和元年法律第十二号",
+    "amendmentLawName": "農地中間管理事業の推進に関する法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191001_501AC0000000007",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-17",
+    "enforcedAt": "2019-10-01",
+    "amendmentLawId": "501AC0000000007",
+    "amendmentLawNum": "令和元年法律第七号",
+    "amendmentLawName": "子ども・子育て支援法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191001_431AC0000000004",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-03-29",
+    "enforcedAt": "2019-10-01",
+    "amendmentLawId": "431AC0000000004",
+    "amendmentLawNum": "平成三十一年法律第四号",
+    "amendmentLawName": "特別法人事業税及び特別法人事業譲与税に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191001_428AC0000000013",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-03-31",
+    "enforcedAt": "2019-10-01",
+    "amendmentLawId": "428AC0000000013",
+    "amendmentLawNum": "平成二十八年法律第十三号",
+    "amendmentLawName": "地方税法等の一部を改正する等の法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20191001_424AC0000000102",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2012-11-26",
+    "enforcedAt": "2019-10-01",
+    "amendmentLawId": "424AC0000000102",
+    "amendmentLawNum": "平成二十四年法律第百二号",
+    "amendmentLawName": "年金生活者支援給付金の支給に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190914_501AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-09-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190907_501AC0000000026",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-06-07",
+    "enforcedAt": "2019-09-07",
+    "amendmentLawId": "501AC0000000026",
+    "amendmentLawNum": "令和元年法律第二十六号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190620_501AC0000000017",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-31",
+    "enforcedAt": "2019-06-20",
+    "amendmentLawId": "501AC0000000017",
+    "amendmentLawNum": "令和元年法律第十七号",
+    "amendmentLawName": "戸籍法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190614_501AC0000000037",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-06-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190601_430AC0000000049",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-13",
+    "enforcedAt": "2019-06-01",
+    "amendmentLawId": "430AC0000000049",
+    "amendmentLawNum": "平成三十年法律第四十九号",
+    "amendmentLawName": "所有者不明土地の利用の円滑化等に関する特別措置法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190517_501AC0000000007",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-17",
+    "enforcedAt": "2019-05-17",
+    "amendmentLawId": "501AC0000000007",
+    "amendmentLawNum": "令和元年法律第七号",
+    "amendmentLawName": "子ども・子育て支援法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190515_501AC0000000001",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-05-15",
+    "enforcedAt": "2019-05-15",
+    "amendmentLawId": "501AC0000000001",
+    "amendmentLawNum": "令和元年法律第一号",
+    "amendmentLawName": "国会議員の選挙等の執行経費の基準に関する法律及び公職選挙法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190424_431AC1000000014",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-04-24",
+    "enforcedAt": "2019-04-24",
+    "amendmentLawId": "431AC1000000014",
+    "amendmentLawNum": "平成三十一年法律第十四号",
+    "amendmentLawName": "旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190401_431AC0000000006",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2019-03-29",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "431AC0000000006",
+    "amendmentLawNum": "平成三十一年法律第六号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190401_430AC0000000102",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-12-14",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "430AC0000000102",
+    "amendmentLawNum": "平成三十年法律第百二号",
+    "amendmentLawName": "出入国管理及び難民認定法及び法務省設置法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190401_430AC0000000052",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-15",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "430AC0000000052",
+    "amendmentLawNum": "平成三十年法律第五十二号",
+    "amendmentLawName": "災害救助法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20190101_430AC0000000066",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-27",
+    "enforcedAt": "2019-01-01",
+    "amendmentLawId": "430AC0000000066",
+    "amendmentLawNum": "平成三十年法律第六十六号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20181230_428AC0000000108",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-12-16",
+    "enforcedAt": "2018-12-30",
+    "amendmentLawId": "428AC0000000108",
+    "amendmentLawNum": "平成二十八年法律第百八号",
+    "amendmentLawName": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20181201_430AC0000000053",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-15",
+    "enforcedAt": "2018-12-01",
+    "amendmentLawId": "430AC0000000053",
+    "amendmentLawNum": "平成三十年法律第五十三号",
+    "amendmentLawName": "農薬取締法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20181116_430AC0000000023",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-05-18",
+    "enforcedAt": "2018-11-16",
+    "amendmentLawId": "430AC0000000023",
+    "amendmentLawNum": "平成三十年法律第二十三号",
+    "amendmentLawName": "農業経営基盤強化促進法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20181001_430AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-08",
+    "enforcedAt": "2018-10-01",
+    "amendmentLawId": "430AC0000000044",
+    "amendmentLawNum": "平成三十年法律第四十四号",
+    "amendmentLawName": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180930_430AC0000000006",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-03-31",
+    "enforcedAt": "2018-09-30",
+    "amendmentLawId": "430AC0000000006",
+    "amendmentLawNum": "平成三十年法律第六号",
+    "amendmentLawName": "道路法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180901_430AC0000000068",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-27",
+    "enforcedAt": "2018-09-01",
+    "amendmentLawId": "430AC0000000068",
+    "amendmentLawNum": "平成三十年法律第六十八号",
+    "amendmentLawName": "都市農地の貸借の円滑化に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180901_430AC0000000007",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-03-31",
+    "enforcedAt": "2018-09-01",
+    "amendmentLawId": "430AC0000000007",
+    "amendmentLawNum": "平成三十年法律第七号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180620_430AC0000000059",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-20",
+    "enforcedAt": "2018-06-20",
+    "amendmentLawId": "430AC0000000059",
+    "amendmentLawNum": "平成三十年法律第五十九号",
+    "amendmentLawName": "民法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180608_430AC0000000044",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-06-08",
+    "enforcedAt": "2018-06-08",
+    "amendmentLawId": "430AC0000000044",
+    "amendmentLawNum": "平成三十年法律第四十四号",
+    "amendmentLawName": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_430AC0000000007",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2018-03-31",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "430AC0000000007",
+    "amendmentLawNum": "平成三十年法律第七号",
+    "amendmentLawName": "所得税法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_429AC0000000074",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-23",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000074",
+    "amendmentLawNum": "平成二十九年法律第七十四号",
+    "amendmentLawName": "農業災害補償法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_429AC0000000061",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-16",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000061",
+    "amendmentLawNum": "平成二十九年法律第六十一号",
+    "amendmentLawName": "廃棄物の処理及び清掃に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_429AC0000000060",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-16",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000060",
+    "amendmentLawNum": "平成二十九年法律第六十号",
+    "amendmentLawName": "畜産経営の安定に関する法律及び独立行政法人農畜産業振興機構法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_429AC0000000054",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-09",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000054",
+    "amendmentLawNum": "平成二十九年法律第五十四号",
+    "amendmentLawName": "地方自治法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_429AC0000000025",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-04-26",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000025",
+    "amendmentLawNum": "平成二十九年法律第二十五号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_427AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2015-05-29",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "427AC0000000031",
+    "amendmentLawNum": "平成二十七年法律第三十一号",
+    "amendmentLawName": "持続可能な医療保険制度を構築するための国民健康保険法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180401_426AC0000000050",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2014-05-30",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "426AC0000000050",
+    "amendmentLawNum": "平成二十六年法律第五十号",
+    "amendmentLawName": "難病の患者に対する医療等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180331_428AC0000000108",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-12-16",
+    "enforcedAt": "2018-03-31",
+    "amendmentLawId": "428AC0000000108",
+    "amendmentLawNum": "平成二十八年法律第百八号",
+    "amendmentLawName": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20180101_428AC1000000101",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-12-09",
+    "enforcedAt": "2018-01-01",
+    "amendmentLawId": "428AC1000000101",
+    "amendmentLawNum": "平成二十八年法律第百一号",
+    "amendmentLawName": "民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20171201_429AC0000000046",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-12-01",
+    "amendmentLawId": "429AC0000000046",
+    "amendmentLawNum": "平成二十九年法律第四十六号",
+    "amendmentLawName": "不動産特定共同事業法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170623_429AC0000000074",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-23",
+    "enforcedAt": "2017-06-23",
+    "amendmentLawId": "429AC0000000074",
+    "amendmentLawNum": "平成二十九年法律第七十四号",
+    "amendmentLawName": "農業災害補償法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170619_429AC0000000031",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-05-19",
+    "enforcedAt": "2017-06-19",
+    "amendmentLawId": "429AC0000000031",
+    "amendmentLawNum": "平成二十九年法律第三十一号",
+    "amendmentLawName": "水防法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170609_429AC0000000054",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-09",
+    "enforcedAt": "2017-06-09",
+    "amendmentLawId": "429AC0000000054",
+    "amendmentLawNum": "平成二十九年法律第五十四号",
+    "amendmentLawName": "地方自治法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170602_429AC0000000046",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000046",
+    "amendmentLawNum": "平成二十九年法律第四十六号",
+    "amendmentLawName": "不動産特定共同事業法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170602_429AC0000000045",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170601_428AC0000000094",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-12-02",
+    "enforcedAt": "2017-06-01",
+    "amendmentLawId": "428AC0000000094",
+    "amendmentLawNum": "平成二十八年法律第九十四号",
+    "amendmentLawName": "公職選挙法及び最高裁判所裁判官国民審査法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170517_429AC0000000029",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-05-17",
+    "enforcedAt": "2017-05-17",
+    "amendmentLawId": "429AC0000000029",
+    "amendmentLawNum": "平成二十九年法律第二十九号",
+    "amendmentLawName": "地方公務員法及び地方自治法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170426_429AC0000000025",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-04-26",
+    "enforcedAt": "2017-04-26",
+    "amendmentLawId": "429AC0000000025",
+    "amendmentLawNum": "平成二十九年法律第二十五号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170401_429AC0000000004",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2017-03-31",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "429AC0000000004",
+    "amendmentLawNum": "平成二十九年法律第四号",
+    "amendmentLawName": "所得税法等の一部を改正する等の法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170401_428AC0000000039",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-05-18",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "428AC0000000039",
+    "amendmentLawNum": "平成二十八年法律第三十九号",
+    "amendmentLawName": "漁業経営に関する補償制度の改善のための漁船損害等補償法及び漁業災害補償法の一部を改正する等の法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170401_428AC0000000021",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2016-03-31",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "428AC0000000021",
+    "amendmentLawNum": "平成二十八年法律第二十一号",
+    "amendmentLawName": "社会福祉法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000067_20170401_427AC0000000050",
+    "lawId": "322AC0000000067",
+    "promulgatedAt": "2015-06-26",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "427AC0000000050",
+    "amendmentLawNum": "平成二十七年法律第五十号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  }
+]

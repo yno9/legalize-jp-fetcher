@@ -1,0 +1,52 @@
+[
+  {
+    "revisionId": "132AC0000000048_20230401_503AC0000000061",
+    "lawId": "132AC0000000048",
+    "promulgatedAt": "2021-06-11",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "503AC0000000061",
+    "amendmentLawNum": "令和三年法律第六十一号",
+    "amendmentLawName": "国家公務員法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "132AC0000000048_20200401_429AC0000000045",
+    "lawId": "132AC0000000048",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "132AC0000000048_20190401_430AC0000000029",
+    "lawId": "132AC0000000048",
+    "promulgatedAt": "2018-05-25",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "430AC0000000029",
+    "amendmentLawNum": "平成三十年法律第二十九号",
+    "amendmentLawName": "商法及び国際海上物品運送法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "132AC0000000048_20170602_429AC0000000045",
+    "lawId": "132AC0000000048",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "132AC0000000048_20160401_426AC0000000042",
+    "lawId": "132AC0000000048",
+    "promulgatedAt": "2014-05-30",
+    "enforcedAt": "2016-04-01",
+    "amendmentLawId": "426AC0000000042",
+    "amendmentLawNum": "平成二十六年法律第四十二号",
+    "amendmentLawName": "地方自治法の一部を改正する法律",
+    "isFuture": false
+  }
+]

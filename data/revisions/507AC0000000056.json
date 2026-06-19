@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "507AC0000000056_20280613_000000000000000",
+    "lawId": "507AC0000000056",
+    "promulgatedAt": "2025-06-06",
+    "enforcedAt": "2028-06-13",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": true
+  },
+  {
+    "revisionId": "507AC0000000056_20271205_000000000000000",
+    "lawId": "507AC0000000056",
+    "promulgatedAt": "2025-06-06",
+    "enforcedAt": "2027-12-05",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": true
+  },
+  {
+    "revisionId": "507AC0000000056_20250606_000000000000000",
+    "lawId": "507AC0000000056",
+    "promulgatedAt": "2025-06-06",
+    "enforcedAt": "2025-06-06",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

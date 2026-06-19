@@ -1,0 +1,628 @@
+{
+  "tag": "Law",
+  "attr": {
+    "Era": "Showa",
+    "Lang": "ja",
+    "LawType": "Act",
+    "Num": "142",
+    "Year": "45",
+    "PromulgateMonth": "12",
+    "PromulgateDay": "25"
+  },
+  "children": [
+    {
+      "tag": "LawNum",
+      "attr": {},
+      "children": [
+        "昭和四十五年法律第百四十二号"
+      ]
+    },
+    {
+      "tag": "LawBody",
+      "attr": {},
+      "children": [
+        {
+          "tag": "LawTitle",
+          "attr": {
+            "Kana": "ひとのけんこうにかかるこうがいはんざいのしょばつにかんするほうりつ",
+            "Abbrev": "公害罪法",
+            "AbbrevKana": "こ"
+          },
+          "children": [
+            "人の健康に係る公害犯罪の処罰に関する法律"
+          ]
+        },
+        {
+          "tag": "MainProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（目的）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第一条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この法律は、事業活動に伴つて人の健康に係る公害を生じさせる行為等を処罰することにより、公害の防止に関する他の法令に基づく規制と相まつて人の健康に係る公害の防止に資することを目的とする。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "2"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（故意犯）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第二条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "工場又は事業場における事業活動に伴つて人の健康を害する物質（身体に蓄積した場合に人の健康を害することとなる物質を含む。以下同じ。）を排出し、公衆の生命又は身体に危険を生じさせた者は、三年以下の拘禁刑又は三百万円以下の罰金に処する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "2"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": [
+                        "２"
+                      ]
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "前項の罪を犯し、よつて人を死傷させた者は、七年以下の拘禁刑又は五百万円以下の罰金に処する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "3"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（過失犯）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第三条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "業務上必要な注意を怠り、工場又は事業場における事業活動に伴つて人の健康を害する物質を排出し、公衆の生命又は身体に危険を生じさせた者は、二年以下の拘禁刑又は二百万円以下の罰金に処する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "2"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": [
+                        "２"
+                      ]
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "前項の罪を犯し、よつて人を死傷させた者は、五年以下の拘禁刑又は三百万円以下の罰金に処する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "4"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（両罰）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第四条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して前二条の罪を犯したときは、行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "5"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（推定）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第五条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "工場又は事業場における事業活動に伴い、当該排出のみによつても公衆の生命又は身体に危険が生じうる程度に人の健康を害する物質を排出した者がある場合において、その排出によりそのような危険が生じうる地域内に同種の物質による公衆の生命又は身体の危険が生じているときは、その危険は、その者の排出した物質によつて生じたものと推定する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "6"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（公訴の時効期間）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第六条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "第四条の規定により法人又は人に罰金刑を科する場合における時効の期間は、各本条の罪についての時効の期間による。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "Article",
+              "attr": {
+                "Num": "7"
+              },
+              "children": [
+                {
+                  "tag": "ArticleCaption",
+                  "attr": {},
+                  "children": [
+                    "（第一審の裁判権）"
+                  ]
+                },
+                {
+                  "tag": "ArticleTitle",
+                  "attr": {},
+                  "children": [
+                    "第七条"
+                  ]
+                },
+                {
+                  "tag": "Paragraph",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ParagraphNum",
+                      "attr": {},
+                      "children": []
+                    },
+                    {
+                      "tag": "ParagraphSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Sentence",
+                          "attr": {
+                            "Num": "1",
+                            "WritingMode": "vertical"
+                          },
+                          "children": [
+                            "この法律に定める罪に係る訴訟の第一審の裁判権は、地方裁判所に属する。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {},
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": []
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、昭和四十六年七月一日から施行する。"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "SupplProvision",
+          "attr": {
+            "AmendLawNum": "令和四年六月一七日法律第六八号",
+            "Extract": "true"
+          },
+          "children": [
+            {
+              "tag": "SupplProvisionLabel",
+              "attr": {},
+              "children": [
+                "附　則"
+              ]
+            },
+            {
+              "tag": "Paragraph",
+              "attr": {
+                "Num": "1"
+              },
+              "children": [
+                {
+                  "tag": "ParagraphCaption",
+                  "attr": {},
+                  "children": [
+                    "（施行期日）"
+                  ]
+                },
+                {
+                  "tag": "ParagraphNum",
+                  "attr": {},
+                  "children": [
+                    "１"
+                  ]
+                },
+                {
+                  "tag": "ParagraphSentence",
+                  "attr": {},
+                  "children": [
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Function": "main",
+                        "Num": "1",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "この法律は、刑法等一部改正法施行日から施行する。"
+                      ]
+                    },
+                    {
+                      "tag": "Sentence",
+                      "attr": {
+                        "Function": "proviso",
+                        "Num": "2",
+                        "WritingMode": "vertical"
+                      },
+                      "children": [
+                        "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "Item",
+                  "attr": {
+                    "Num": "1"
+                  },
+                  "children": [
+                    {
+                      "tag": "ItemTitle",
+                      "attr": {},
+                      "children": [
+                        "一"
+                      ]
+                    },
+                    {
+                      "tag": "ItemSentence",
+                      "attr": {},
+                      "children": [
+                        {
+                          "tag": "Column",
+                          "attr": {
+                            "Num": "1"
+                          },
+                          "children": [
+                            {
+                              "tag": "Sentence",
+                              "attr": {
+                                "Num": "1",
+                                "WritingMode": "vertical"
+                              },
+                              "children": [
+                                "第五百九条の規定"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "Column",
+                          "attr": {
+                            "Num": "2"
+                          },
+                          "children": [
+                            {
+                              "tag": "Sentence",
+                              "attr": {
+                                "Num": "1",
+                                "WritingMode": "vertical"
+                              },
+                              "children": [
+                                "公布の日"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

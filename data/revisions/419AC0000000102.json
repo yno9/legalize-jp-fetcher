@@ -1,0 +1,112 @@
+[
+  {
+    "revisionId": "419AC0000000102_20280613_505AC0000000053",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2028-06-13",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "419AC0000000102_20251001_505AC0000000053",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2025-10-01",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20250601_504AC0000000068",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20230614_505AC0000000053",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2023-06-14",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20220617_504AC0000000068",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20200401_429AC0000000045",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20191214_501AC0000000037",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-12-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20190914_501AC0000000037",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-09-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20190614_501AC0000000037",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2019-06-14",
+    "enforcedAt": "2019-06-14",
+    "amendmentLawId": "501AC0000000037",
+    "amendmentLawNum": "令和元年法律第三十七号",
+    "amendmentLawName": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20170602_429AC0000000045",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "419AC0000000102_20170401_428AC0000000062",
+    "lawId": "419AC0000000102",
+    "promulgatedAt": "2016-06-03",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "428AC0000000062",
+    "amendmentLawNum": "平成二十八年法律第六十二号",
+    "amendmentLawName": "情報通信技術の進展等の環境変化に対応するための銀行法等の一部を改正する法律",
+    "isFuture": false
+  }
+]

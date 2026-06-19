@@ -1,0 +1,52 @@
+[
+  {
+    "revisionId": "322AC0000000020_20270331_507AC0000000039",
+    "lawId": "322AC0000000020",
+    "promulgatedAt": "2025-05-23",
+    "enforcedAt": "2027-03-31",
+    "amendmentLawId": "507AC0000000039",
+    "amendmentLawNum": "令和七年法律第三十九号",
+    "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC0000000020_20250601_504AC0000000068",
+    "lawId": "322AC0000000020",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000020_20250523_507AC0000000039",
+    "lawId": "322AC0000000020",
+    "promulgatedAt": "2025-05-23",
+    "enforcedAt": "2025-05-23",
+    "amendmentLawId": "507AC0000000039",
+    "amendmentLawNum": "令和七年法律第三十九号",
+    "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000020_20220617_504AC0000000068",
+    "lawId": "322AC0000000020",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000020_20160601_425AC0000000049",
+    "lawId": "322AC0000000020",
+    "promulgatedAt": "2013-06-19",
+    "enforcedAt": "2016-06-01",
+    "amendmentLawId": "425AC0000000049",
+    "amendmentLawNum": "平成二十五年法律第四十九号",
+    "amendmentLawName": "刑法等の一部を改正する法律",
+    "isFuture": false
+  }
+]

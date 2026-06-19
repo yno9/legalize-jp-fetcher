@@ -1,0 +1,282 @@
+[
+  {
+    "revisionId": "417AC0000000123_20281211_507AC0000000087",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2025-12-12",
+    "enforcedAt": "2028-12-11",
+    "amendmentLawId": "507AC0000000087",
+    "amendmentLawNum": "令和七年法律第八十七号",
+    "amendmentLawName": "医療法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "417AC0000000123_20271211_507AC0000000087",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2025-12-12",
+    "enforcedAt": "2027-12-11",
+    "amendmentLawId": "507AC0000000087",
+    "amendmentLawNum": "令和七年法律第八十七号",
+    "amendmentLawName": "医療法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "417AC0000000123_20270401_508AC0000000031",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2026-06-05",
+    "enforcedAt": "2027-04-01",
+    "amendmentLawId": "508AC0000000031",
+    "amendmentLawNum": "令和八年法律第三十一号",
+    "amendmentLawName": "健康保険法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "417AC0000000123_20270401_507AC0000000087",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2025-12-12",
+    "enforcedAt": "2027-04-01",
+    "amendmentLawId": "507AC0000000087",
+    "amendmentLawNum": "令和七年法律第八十七号",
+    "amendmentLawName": "医療法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "417AC0000000123_20261001_507AC0000000087",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2025-12-12",
+    "enforcedAt": "2026-10-01",
+    "amendmentLawId": "507AC0000000087",
+    "amendmentLawNum": "令和七年法律第八十七号",
+    "amendmentLawName": "医療法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "417AC0000000123_20260903_508AC0000000027",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2026-06-03",
+    "enforcedAt": "2026-09-03",
+    "amendmentLawId": "508AC0000000027",
+    "amendmentLawNum": "令和八年法律第二十七号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "417AC0000000123_20260603_508AC0000000027",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2026-06-03",
+    "enforcedAt": "2026-06-03",
+    "amendmentLawId": "508AC0000000027",
+    "amendmentLawNum": "令和八年法律第二十七号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20251212_507AC0000000087",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2025-12-12",
+    "enforcedAt": "2025-12-12",
+    "amendmentLawId": "507AC0000000087",
+    "amendmentLawNum": "令和七年法律第八十七号",
+    "amendmentLawName": "医療法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20251201_504AC0000000104",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2025-12-01",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20251001_504AC0000000104",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2025-10-01",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20250601_504AC0000000068",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20240401_504AC0000000104",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20240401_504AC0000000066",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-06-15",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "504AC0000000066",
+    "amendmentLawNum": "令和四年法律第六十六号",
+    "amendmentLawName": "児童福祉法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20230401_504AC0000000104",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20230401_504AC0000000076",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-06-22",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "504AC0000000076",
+    "amendmentLawNum": "令和四年法律第七十六号",
+    "amendmentLawName": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20221216_504AC0000000104",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-12-16",
+    "enforcedAt": "2022-12-16",
+    "amendmentLawId": "504AC0000000104",
+    "amendmentLawNum": "令和四年法律第百四号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20220622_504AC0000000076",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-06-22",
+    "enforcedAt": "2022-06-22",
+    "amendmentLawId": "504AC0000000076",
+    "amendmentLawNum": "令和四年法律第七十六号",
+    "amendmentLawName": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20220617_504AC0000000068",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20200401_430AC0000000044",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2018-06-08",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "430AC0000000044",
+    "amendmentLawNum": "平成三十年法律第四十四号",
+    "amendmentLawName": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20200401_429AC0000000045",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20190401_429AC0000000025",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2017-04-26",
+    "enforcedAt": "2019-04-01",
+    "amendmentLawId": "429AC0000000025",
+    "amendmentLawNum": "平成二十九年法律第二十五号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20180608_430AC0000000044",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2018-06-08",
+    "enforcedAt": "2018-06-08",
+    "amendmentLawId": "430AC0000000044",
+    "amendmentLawNum": "平成三十年法律第四十四号",
+    "amendmentLawName": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20180401_429AC0000000052",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "429AC0000000052",
+    "amendmentLawNum": "平成二十九年法律第五十二号",
+    "amendmentLawName": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20180401_428AC0000000065",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2016-06-03",
+    "enforcedAt": "2018-04-01",
+    "amendmentLawId": "428AC0000000065",
+    "amendmentLawNum": "平成二十八年法律第六十五号",
+    "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20170602_429AC0000000052",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000052",
+    "amendmentLawNum": "平成二十九年法律第五十二号",
+    "amendmentLawName": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20170602_429AC0000000045",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20170426_429AC0000000025",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2017-04-26",
+    "enforcedAt": "2017-04-26",
+    "amendmentLawId": "429AC0000000025",
+    "amendmentLawNum": "平成二十九年法律第二十五号",
+    "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "417AC0000000123_20170401_428AC0000000063",
+    "lawId": "417AC0000000123",
+    "promulgatedAt": "2016-06-03",
+    "enforcedAt": "2017-04-01",
+    "amendmentLawId": "428AC0000000063",
+    "amendmentLawNum": "平成二十八年法律第六十三号",
+    "amendmentLawName": "児童福祉法等の一部を改正する法律",
+    "isFuture": false
+  }
+]

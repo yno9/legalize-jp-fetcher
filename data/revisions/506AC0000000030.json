@@ -1,0 +1,22 @@
+[
+  {
+    "revisionId": "506AC0000000030_20260401_000000000000000",
+    "lawId": "506AC0000000030",
+    "promulgatedAt": "2024-05-22",
+    "enforcedAt": "2026-04-01",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  },
+  {
+    "revisionId": "506AC0000000030_20240522_000000000000000",
+    "lawId": "506AC0000000030",
+    "promulgatedAt": "2024-05-22",
+    "enforcedAt": "2024-05-22",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

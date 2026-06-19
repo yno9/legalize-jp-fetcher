@@ -1,0 +1,62 @@
+[
+  {
+    "revisionId": "418AC0000000073_20250601_504AC0000000068",
+    "lawId": "418AC0000000073",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "418AC0000000073_20220617_504AC0000000068",
+    "lawId": "418AC0000000073",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "418AC0000000073_20220401_503AC0000000037",
+    "lawId": "418AC0000000073",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "418AC0000000073_20210519_503AC0000000037",
+    "lawId": "418AC0000000073",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "418AC0000000073_20170530_427AC0000000065",
+    "lawId": "418AC0000000073",
+    "promulgatedAt": "2015-09-09",
+    "enforcedAt": "2017-05-30",
+    "amendmentLawId": "427AC0000000065",
+    "amendmentLawNum": "平成二十七年法律第六十五号",
+    "amendmentLawName": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "418AC0000000073_20130901_424AC0000000079",
+    "lawId": "418AC0000000073",
+    "promulgatedAt": "2012-09-05",
+    "enforcedAt": "2013-09-01",
+    "amendmentLawId": "424AC0000000079",
+    "amendmentLawNum": "平成二十四年法律第七十九号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

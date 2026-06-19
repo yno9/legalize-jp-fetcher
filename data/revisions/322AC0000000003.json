@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "322AC0000000003_20190430_429AC0000000063",
+    "lawId": "322AC0000000003",
+    "promulgatedAt": "2017-06-16",
+    "enforcedAt": "2019-04-30",
+    "amendmentLawId": "429AC0000000063",
+    "amendmentLawNum": "平成二十九年法律第六十三号",
+    "amendmentLawName": "天皇の退位等に関する皇室典範特例法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000003_20170616_429AC0000000063",
+    "lawId": "322AC0000000003",
+    "promulgatedAt": "2017-06-16",
+    "enforcedAt": "2017-06-16",
+    "amendmentLawId": "429AC0000000063",
+    "amendmentLawNum": "平成二十九年法律第六十三号",
+    "amendmentLawName": "天皇の退位等に関する皇室典範特例法",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC0000000003_19490601_324AC0000000134",
+    "lawId": "322AC0000000003",
+    "promulgatedAt": "1949-05-31",
+    "enforcedAt": "1949-06-01",
+    "amendmentLawId": "324AC0000000134",
+    "amendmentLawNum": "昭和二十四年法律第百三十四号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

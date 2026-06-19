@@ -1,0 +1,52 @@
+[
+  {
+    "revisionId": "322AC1000000079_20270331_507AC0000000039",
+    "lawId": "322AC1000000079",
+    "promulgatedAt": "2025-05-23",
+    "enforcedAt": "2027-03-31",
+    "amendmentLawId": "507AC0000000039",
+    "amendmentLawNum": "令和七年法律第三十九号",
+    "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "322AC1000000079_20250523_507AC0000000039",
+    "lawId": "322AC1000000079",
+    "promulgatedAt": "2025-05-23",
+    "enforcedAt": "2025-05-23",
+    "amendmentLawId": "507AC0000000039",
+    "amendmentLawNum": "令和七年法律第三十九号",
+    "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC1000000079_20250516_507AC1000000034",
+    "lawId": "322AC1000000079",
+    "promulgatedAt": "2025-05-15",
+    "enforcedAt": "2025-05-16",
+    "amendmentLawId": "507AC1000000034",
+    "amendmentLawNum": "令和七年法律第三十四号",
+    "amendmentLawName": "国会法及び議院における証人の宣誓及び証言等に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC1000000079_20220422_504AC1000000029",
+    "lawId": "322AC1000000079",
+    "promulgatedAt": "2022-04-22",
+    "enforcedAt": "2022-04-22",
+    "amendmentLawId": "504AC1000000029",
+    "amendmentLawNum": "令和四年法律第二十九号",
+    "amendmentLawName": "国会法及び国会議員の歳費、旅費及び手当等に関する法律の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "322AC1000000079_20141210_426AC0000000086",
+    "lawId": "322AC1000000079",
+    "promulgatedAt": "2014-06-27",
+    "enforcedAt": "2014-12-10",
+    "amendmentLawId": "426AC0000000086",
+    "amendmentLawNum": "平成二十六年法律第八十六号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

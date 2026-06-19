@@ -1,0 +1,24 @@
+{
+  "name": "batch",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:all": "tsx src/fetchAll.ts",
+    "generate:md": "tsx src/generateMd.ts",
+    "daily": "tsx src/daily.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "p-throttle": "^6.2.0",
+    "simple-git": "^3.36.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "dotenv": "^17.4.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.3",
+    "vitest": "^3"
+  }
+}

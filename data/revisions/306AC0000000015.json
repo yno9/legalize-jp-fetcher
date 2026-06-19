@@ -1,0 +1,112 @@
+[
+  {
+    "revisionId": "306AC0000000015_20230401_503AC0000000024",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2021-04-28",
+    "enforcedAt": "2023-04-01",
+    "amendmentLawId": "503AC0000000024",
+    "amendmentLawNum": "令和三年法律第二十四号",
+    "amendmentLawName": "民法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20220901_501AC0000000071",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2022-09-01",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20210901_503AC0000000037",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-09-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20210519_503AC0000000037",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20210428_503AC0000000024",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2021-04-28",
+    "enforcedAt": "2021-04-28",
+    "amendmentLawId": "503AC0000000024",
+    "amendmentLawNum": "令和三年法律第二十四号",
+    "amendmentLawName": "民法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20200401_430AC0000000072",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2018-07-13",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "430AC0000000072",
+    "amendmentLawNum": "平成三十年法律第七十二号",
+    "amendmentLawName": "民法及び家事事件手続法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20200401_429AC0000000045",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20191211_501AC0000000071",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2019-12-11",
+    "enforcedAt": "2019-12-11",
+    "amendmentLawId": "501AC0000000071",
+    "amendmentLawNum": "令和元年法律第七十一号",
+    "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20180713_430AC0000000072",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2018-07-13",
+    "enforcedAt": "2018-07-13",
+    "amendmentLawId": "430AC0000000072",
+    "amendmentLawNum": "平成三十年法律第七十二号",
+    "amendmentLawName": "民法及び家事事件手続法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20170602_429AC0000000045",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "306AC0000000015_20130101_423AC0000000053",
+    "lawId": "306AC0000000015",
+    "promulgatedAt": "2011-05-25",
+    "enforcedAt": "2013-01-01",
+    "amendmentLawId": "423AC0000000053",
+    "amendmentLawNum": "平成二十三年法律第五十三号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

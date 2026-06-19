@@ -1,0 +1,42 @@
+[
+  {
+    "revisionId": "305AC0000000009_20250601_504AC0000000068",
+    "lawId": "305AC0000000009",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "305AC0000000009_20220617_504AC0000000068",
+    "lawId": "305AC0000000009",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "305AC0000000009_20170713_429AC0000000072",
+    "lawId": "305AC0000000009",
+    "promulgatedAt": "2017-06-23",
+    "enforcedAt": "2017-07-13",
+    "amendmentLawId": "429AC0000000072",
+    "amendmentLawNum": "平成二十九年法律第七十二号",
+    "amendmentLawName": "刑法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "305AC0000000009_19300522_000000000000000",
+    "lawId": "305AC0000000009",
+    "promulgatedAt": "1930-05-22",
+    "enforcedAt": "1930-05-22",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

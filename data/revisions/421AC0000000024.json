@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "421AC0000000024_20260521_504AC0000000048",
+    "lawId": "421AC0000000024",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "421AC0000000024_20220525_504AC0000000048",
+    "lawId": "421AC0000000024",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "421AC0000000024_20100401_000000000000000",
+    "lawId": "421AC0000000024",
+    "promulgatedAt": "2009-04-24",
+    "enforcedAt": "2010-04-01",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

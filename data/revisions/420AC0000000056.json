@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "420AC0000000056_20200401_429AC0000000045",
+    "lawId": "420AC0000000056",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "420AC0000000056_20170602_429AC0000000045",
+    "lawId": "420AC0000000056",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "420AC0000000056_20100401_000000000000000",
+    "lawId": "420AC0000000056",
+    "promulgatedAt": "2008-06-06",
+    "enforcedAt": "2010-04-01",
+    "amendmentLawId": null,
+    "amendmentLawNum": null,
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

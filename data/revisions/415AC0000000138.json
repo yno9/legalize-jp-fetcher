@@ -1,0 +1,122 @@
+[
+  {
+    "revisionId": "415AC0000000138_20280613_505AC0000000053",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2028-06-13",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "415AC0000000138_20260521_504AC0000000048",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2026-05-21",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20251001_505AC0000000053",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2025-10-01",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20250601_504AC0000000068",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20240401_505AC0000000015",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2023-04-28",
+    "enforcedAt": "2024-04-01",
+    "amendmentLawId": "505AC0000000015",
+    "amendmentLawNum": "令和五年法律第十五号",
+    "amendmentLawName": "仲裁法の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20240301_504AC0000000048",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2024-03-01",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20230614_505AC0000000053",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2023-06-14",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20220617_504AC0000000068",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20220525_504AC0000000048",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2022-05-25",
+    "enforcedAt": "2022-05-25",
+    "amendmentLawId": "504AC0000000048",
+    "amendmentLawNum": "令和四年法律第四十八号",
+    "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20200401_429AC0000000045",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20170602_429AC0000000045",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "415AC0000000138_20050401_416AC0000000147",
+    "lawId": "415AC0000000138",
+    "promulgatedAt": "2004-12-01",
+    "enforcedAt": "2005-04-01",
+    "amendmentLawId": "416AC0000000147",
+    "amendmentLawNum": "平成十六年法律第百四十七号",
+    "amendmentLawName": null,
+    "isFuture": false
+  }
+]

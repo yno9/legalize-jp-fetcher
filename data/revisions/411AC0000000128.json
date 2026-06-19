@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "411AC0000000128_20250601_504AC0000000068",
+    "lawId": "411AC0000000128",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2025-06-01",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "411AC0000000128_20220617_504AC0000000068",
+    "lawId": "411AC0000000128",
+    "promulgatedAt": "2022-06-17",
+    "enforcedAt": "2022-06-17",
+    "amendmentLawId": "504AC0000000068",
+    "amendmentLawNum": "令和四年法律第六十八号",
+    "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "411AC0000000128_20121101_423AC0000000074",
+    "lawId": "411AC0000000128",
+    "promulgatedAt": "2011-06-24",
+    "enforcedAt": "2012-11-01",
+    "amendmentLawId": "423AC0000000074",
+    "amendmentLawNum": "平成二十三年法律第七十四号",
+    "amendmentLawName": "情報処理の高度化等に対処するための刑法等の一部を改正する法律",
+    "isFuture": false
+  }
+]

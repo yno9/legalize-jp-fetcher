@@ -1,0 +1,52 @@
+[
+  {
+    "revisionId": "307AC0000000020_20280613_505AC0000000053",
+    "lawId": "307AC0000000020",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2028-06-13",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": true
+  },
+  {
+    "revisionId": "307AC0000000020_20230614_505AC0000000053",
+    "lawId": "307AC0000000020",
+    "promulgatedAt": "2023-06-14",
+    "enforcedAt": "2023-06-14",
+    "amendmentLawId": "505AC0000000053",
+    "amendmentLawNum": "令和五年法律第五十三号",
+    "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "307AC0000000020_20200401_429AC0000000045",
+    "lawId": "307AC0000000020",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2020-04-01",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "307AC0000000020_20170602_429AC0000000045",
+    "lawId": "307AC0000000020",
+    "promulgatedAt": "2017-06-02",
+    "enforcedAt": "2017-06-02",
+    "amendmentLawId": "429AC0000000045",
+    "amendmentLawNum": "平成二十九年法律第四十五号",
+    "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "307AC0000000020_20070101_418AC0000000078",
+    "lawId": "307AC0000000020",
+    "promulgatedAt": "2006-06-21",
+    "enforcedAt": "2007-01-01",
+    "amendmentLawId": "418AC0000000078",
+    "amendmentLawNum": "平成十八年法律第七十八号",
+    "amendmentLawName": "法の適用に関する通則法",
+    "isFuture": false
+  }
+]

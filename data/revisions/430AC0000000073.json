@@ -1,0 +1,32 @@
+[
+  {
+    "revisionId": "430AC0000000073_20220401_503AC0000000037",
+    "lawId": "430AC0000000073",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2022-04-01",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "430AC0000000073_20210519_503AC0000000037",
+    "lawId": "430AC0000000073",
+    "promulgatedAt": "2021-05-19",
+    "enforcedAt": "2021-05-19",
+    "amendmentLawId": "503AC0000000037",
+    "amendmentLawNum": "令和三年法律第三十七号",
+    "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+    "isFuture": false
+  },
+  {
+    "revisionId": "430AC0000000073_20200710_000000000000000",
+    "lawId": "430AC0000000073",
+    "promulgatedAt": "2018-07-13",
+    "enforcedAt": "2020-07-10",
+    "amendmentLawId": "",
+    "amendmentLawNum": null,
+    "amendmentLawName": "",
+    "isFuture": false
+  }
+]
