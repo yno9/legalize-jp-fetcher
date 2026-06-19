@@ -71,6 +71,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git add -f data/laws-essential.json
           git diff --cached --quiet || git commit -m "chore: update laws-essential.json"
+          git pull --rebase origin main
           git push origin main
 
       - name: Push lawcode-jp

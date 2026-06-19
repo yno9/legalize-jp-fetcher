@@ -55,6 +55,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git add -f data/laws.json
           git diff --cached --quiet || git commit -m "chore: update laws.json"
+          git pull --rebase origin main
           git push origin main
 
       - name: Push legalize-jp
