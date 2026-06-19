@@ -76,7 +76,7 @@ jobs:
       - name: Push lawcode-jp
         run: |
           cd lawcode-jp
-          git push origin current 2>/dev/null || true
+          git push origin current
           git branch | grep 'future/' | while read branch; do
-            git push origin "$branch" 2>/dev/null || true
+            git push origin "$branch" || true
           done
