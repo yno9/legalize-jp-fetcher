@@ -14,6 +14,7 @@ jobs:
     env:
       DATA_DIR: ${{ github.workspace }}/data
       LAWCODE_REPO_PATH: ${{ github.workspace }}/lawcode-jp
+      MD_MODE: essential
 
     steps:
       - name: Checkout legalize-jp-fetcher
@@ -59,8 +60,6 @@ jobs:
 
       - name: Generate MD (essential)
         run: npm run generate:md
-        env:
-          MD_MODE: essential
 
       - name: Commit to lawcode-jp
         run: npm run commit:md:branch

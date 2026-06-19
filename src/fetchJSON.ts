@@ -10,6 +10,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const DATA_DIR = process.env['DATA_DIR'] ?? join(__dirname, '../data')
 const FULLTEXT_DIR = join(DATA_DIR, 'json')
 const REVISIONS_DIR = join(DATA_DIR, 'revisions')
+const MD_MODE = process.env['MD_MODE'] ?? 'full'
+const CATALOG_PATH = join(DATA_DIR, 'catalog.json')
 
 async function main() {
   mkdirSync(FULLTEXT_DIR, { recursive: true })
@@ -22,12 +24,27 @@ async function main() {
   const laws = await ds.fetchLaws()
   console.log(`[fetchAll] ${laws.length} laws fetched`)
 
+  // In essential mode, only fetch fulltexts for catalog laws
+  let catalogIds: Set<string> | null = null
+  if (MD_MODE === 'essential' && existsSync(CATALOG_PATH)) {
+    const catalog = JSON.parse(readFileSync(CATALOG_PATH, 'utf-8')) as { lawId: string }[]
+    catalogIds = new Set(catalog.map((c) => c.lawId))
+    console.log(`[fetchAll] essential mode: restricting fulltext fetch to ${catalogIds.size} catalog laws`)
+  }
+
   const today = new Date().toISOString().slice(0, 10)
   const entries: LawEntry[] = []
 
-  for (let i = 0; i < laws.length; i++) {
-    const law = laws[i]
-    process.stdout.write(`[${i + 1}/${laws.length}] ${law.title} ... `)
+  // In essential mode, restrict to catalog laws only
+  const lawsToProcess = catalogIds !== null
+    ? laws.filter((l) => catalogIds!.has(l.lawId))
+    : laws
+
+  console.log(`[fetchAll] ${lawsToProcess.length} laws to process`)
+
+  for (let i = 0; i < lawsToProcess.length; i++) {
+    const law = lawsToProcess[i]
+    process.stdout.write(`[${i + 1}/${lawsToProcess.length}] ${law.title} ... `)
 
     // 2. Fetch and save revision list
     const revisions = await ds.fetchRevisions(law.lawId)
