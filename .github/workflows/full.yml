@@ -36,6 +36,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Copy templates to legalize-jp
+        run: |
+          cp templates/legalize-jp/README.md legalize-jp/README.md
+          cp templates/legalize-jp/LICENSE legalize-jp/LICENSE
+          cd legalize-jp
+          git add README.md LICENSE
+          git diff --cached --quiet || git commit -m "chore: update README and LICENSE"
+
       - name: Fetch new JSON
         run: npm run fetch:json
 
