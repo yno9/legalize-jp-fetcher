@@ -81,12 +81,22 @@ async function main() {
   const updatedEntries: LawEntry[] = []
   let newRevisionCount = 0
 
+  let skippedCount = 0
+
   for (let i = 0; i < laws.length; i++) {
     const law = laws[i]!
     const filePath = path.join('jp', `${law.lawId}.md`)
     const lawMdDir = join(MD_DIR, law.lawId)
 
-    // 4. Fetch revisions (always, to detect new ones)
+    // 4. Skip if updatedAt unchanged (no new revisions possible)
+    const existing = existingLaws.get(law.lawId)
+    if (existing && existing.updatedAt === law.updatedAt) {
+      updatedEntries.push(existing)
+      skippedCount++
+      continue
+    }
+
+    // 5. Fetch revisions for new or changed laws
     const revisions = await ds.fetchRevisions(law.lawId)
     writeFileSync(join(REVISIONS_DIR, `${law.lawId}.json`), JSON.stringify(revisions, null, 2))
 
@@ -107,7 +117,7 @@ async function main() {
     }
     updatedEntries.push(entry)
 
-    // 5. Find revisions not yet committed
+    // 6. Find revisions not yet committed
     const allRevisions = [...past, ...(current ? [current] : [])]
     const newRevisions = allRevisions.filter((r) => !committed.has(r.revisionId))
 
@@ -117,7 +127,7 @@ async function main() {
 
     const isFirstEver = !existsSync(path.join(REPO_PATH, filePath))
 
-    // 6. Fetch JSON, generate MD, commit
+    // 7. Fetch JSON, generate MD, commit
     let lawCommitCount = 0
     for (const revision of newRevisions) {
       const jsonPath = join(JSON_DIR, `${revision.revisionId}.json`)
@@ -174,9 +184,9 @@ async function main() {
     console.log('done')
   }
 
-  // 7. Update laws.json
+  // 8. Update laws.json
   writeFileSync(lawsPath, JSON.stringify(updatedEntries, null, 2))
-  console.log(`[daily] laws.json updated (${updatedEntries.length} laws)`)
+  console.log(`[daily] laws.json updated (${updatedEntries.length} laws, ${skippedCount} skipped via updatedAt)`)
   console.log(`[daily] ${newRevisionCount} new revision(s) committed`)
   console.log('[daily] completed')
 }

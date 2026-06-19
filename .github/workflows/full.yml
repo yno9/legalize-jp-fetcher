@@ -46,19 +46,16 @@ jobs:
           git add README.md LICENSE
           git diff --cached --quiet || git commit -m "chore: update README and LICENSE"
 
-      - name: Fetch new JSON
-        run: npm run fetch:json
+      - name: Run daily update
+        run: npm run daily
 
-      - name: Generate MD (full)
-        run: npm run generate:md
-
-      - name: Commit to legalize-jp
-        run: npm run commit:md
+      - name: Persist laws.json
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/laws.json
+          git diff --cached --quiet || git commit -m "chore: update laws.json"
+          git push origin main
 
       - name: Push legalize-jp
-        run: |
-          if git -C legalize-jp diff --quiet HEAD; then
-            echo "No new commits, nothing to push"
-          else
-            git -C legalize-jp push origin main
-          fi
+        run: git -C legalize-jp push origin main
