@@ -1,6 +1,6 @@
 # lawcode-jp
 
-日本の法令をMarkdown形式で提供するリポジトリです。『模範六法 2026』（三省堂）に収録された法令のうち、[e-Gov](https://laws.e-gov.go.jp)（日本政府の法令データベース）で提供中のものをソースにしています。各法令の改正履歴はgitのコミット履歴として記録されます。[legalise-jp-fetcher](https://github.com/yno9/legalise-jp-fetcher/)というオープンソースのプログラムが自動で管理を行っています。
+日本の法令をMarkdown形式で提供するリポジトリです。『模範六法 2026』（三省堂）に収録された法令のうち、[e-Gov](https://laws.e-gov.go.jp)（日本政府の法令データベース）で提供中のものをソースにしています。各法令の改正履歴はgitのコミット履歴として記録されます。[legalize-jp-fetcher](https://github.com/yno9/legalize-jp-fetcher/)というオープンソースのプログラムが自動で管理を行っています。
 
 - **`current` ブランチ** — 現行の法令
 - **`future/*` ブランチ** — 公布済みかつ未施行の法令（施行日に自動マージ）
