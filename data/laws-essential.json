@@ -200,13 +200,13 @@
     "titleKana": "みんぽう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-04-01T00:01:25+09:00",
+    "updatedAt": "2026-06-24T10:54:14+09:00",
     "promulgationDate": "1896-04-27",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "129AC0000000089_20161013_428AC1000000027",
@@ -567,21 +567,45 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "129AC0000000089_20260401_506AC0000000033",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2024-05-24",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506AC0000000033",
+        "amendmentLawNum": "令和六年法律第三十三号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "129AC0000000089_20260401_506AC0000000033",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2024-05-24",
+      "revisionId": "129AC0000000089_20260624_508AC0000000045",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "506AC0000000033",
-      "amendmentLawNum": "令和六年法律第三十三号",
+      "amendmentLawId": "508AC0000000045",
+      "amendmentLawNum": "令和八年法律第四十五号",
       "amendmentLawName": "民法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
+      {
+        "revisionId": "129AC0000000089_20270623_508AC0000000045",
+        "enforcedAt": "2027-06-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2027-06-23",
+        "enforcementComment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "129AC0000000089_20271205_507AC0000000057",
         "enforcedAt": "2027-12-05",
@@ -603,6 +627,30 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "129AC0000000089_20281223_508AC0000000045",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "129AC0000000089_20290623_508AC0000000045",
+        "enforcedAt": "2029-06-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2029-06-23",
+        "enforcementComment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -987,7 +1035,7 @@
     "titleKana": "しょうほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2024-02-19T14:43:58+09:00",
+    "updatedAt": "2026-06-24T10:44:36+09:00",
     "promulgationDate": "1899-03-09",
     "repealStatus": "None",
     "repealDate": null,
@@ -1042,21 +1090,46 @@
         "amendmentLawName": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": "",
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "132AC0000000048_20230401_503AC0000000061",
+        "enforcedAt": "2023-04-01",
+        "promulgatedAt": "2021-06-11",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "503AC0000000061",
+        "amendmentLawNum": "令和三年法律第六十一号",
+        "amendmentLawName": "国家公務員法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "132AC0000000048_20230401_503AC0000000061",
-      "enforcedAt": "2023-04-01",
-      "promulgatedAt": "2021-06-11",
+      "revisionId": "132AC0000000048_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "503AC0000000061",
-      "amendmentLawNum": "令和三年法律第六十一号",
-      "amendmentLawName": "国家公務員法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "132AC0000000048_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "133AC1000000033",
@@ -1759,13 +1832,13 @@
     "titleKana": "こうしょうにんほう",
     "abbrev": null,
     "category": "司法",
-    "updatedAt": "2025-10-01T00:07:28+09:00",
+    "updatedAt": "2026-06-24T10:34:17+09:00",
     "promulgationDate": "1908-04-14",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "141AC0000000053_20130101_423AC0000000053",
@@ -1826,17 +1899,29 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "141AC0000000053_20251001_505AC0000000053",
+        "enforcedAt": "2025-10-01",
+        "promulgatedAt": "2023-06-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000053",
+        "amendmentLawNum": "令和五年法律第五十三号",
+        "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "141AC0000000053_20251001_505AC0000000053",
-      "enforcedAt": "2025-10-01",
-      "promulgatedAt": "2023-06-14",
+      "revisionId": "141AC0000000053_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000053",
-      "amendmentLawNum": "令和五年法律第五十三号",
-      "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -1850,6 +1935,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "141AC0000000053_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -3477,7 +3574,7 @@
     "titleKana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updatedAt": "2025-06-01T01:04:07+09:00",
+    "updatedAt": "2026-06-24T10:38:39+09:00",
     "promulgationDate": "1947-04-07",
     "repealStatus": "None",
     "repealDate": null,
@@ -3604,21 +3701,46 @@
         "amendmentLawName": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000049_20250601_504AC0000000068",
+        "enforcedAt": "2025-06-01",
+        "promulgatedAt": "2022-06-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000068",
+        "amendmentLawNum": "令和四年法律第六十八号",
+        "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "322AC0000000049_20250601_504AC0000000068",
-      "enforcedAt": "2025-06-01",
-      "promulgatedAt": "2022-06-17",
+      "revisionId": "322AC0000000049_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000068",
-      "amendmentLawNum": "令和四年法律第六十八号",
-      "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "322AC0000000049_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "322AC0000000050",
@@ -7345,7 +7467,7 @@
     "titleKana": "じどうふくしほう",
     "abbrev": "児福法",
     "category": "社会福祉",
-    "updatedAt": "2026-06-09T11:34:41+09:00",
+    "updatedAt": "2026-06-24T10:50:03+09:00",
     "promulgationDate": "1947-12-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -8132,17 +8254,29 @@
         "amendmentLawName": "子ども・子育て支援法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000164_20260603_508AC0000000027",
+        "enforcedAt": "2026-06-03",
+        "promulgatedAt": "2026-06-03",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000027",
+        "amendmentLawNum": "令和八年法律第二十七号",
+        "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "322AC0000000164_20260603_508AC0000000027",
-      "enforcedAt": "2026-06-03",
-      "promulgatedAt": "2026-06-03",
+      "revisionId": "322AC0000000164_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000027",
-      "amendmentLawNum": "令和八年法律第二十七号",
-      "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -8242,6 +8376,18 @@
         "amendmentLawName": "医療法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000164_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ]
   },
@@ -8316,13 +8462,13 @@
     "titleKana": "こせきほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-04-01T00:22:46+09:00",
+    "updatedAt": "2026-06-24T10:42:23+09:00",
     "promulgationDate": "1947-12-22",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "322AC0000000224_20160401_426AC0000000069",
@@ -8611,17 +8757,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000224_20260401_506AC0000000033",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2024-05-24",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506AC0000000033",
+        "amendmentLawNum": "令和六年法律第三十三号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "322AC0000000224_20260401_506AC0000000033",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2024-05-24",
+      "revisionId": "322AC0000000224_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "506AC0000000033",
-      "amendmentLawNum": "令和六年法律第三十三号",
-      "amendmentLawName": "民法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -8635,6 +8793,18 @@
         "amendmentLawId": "508AC0000000027",
         "amendmentLawNum": "令和八年法律第二十七号",
         "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000224_20270623_508AC0000000046",
+        "enforcedAt": "2027-06-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2027-06-23",
+        "enforcementComment": "民法等改正法附則第一条第二号に掲げる規定の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -8659,6 +8829,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000224_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -8950,7 +9132,7 @@
     "titleKana": "ぎいんにおけるしょうにんのせんせいおよびしょうげんとうにかんするほうりつ",
     "abbrev": "議院証言法",
     "category": "国会",
-    "updatedAt": "2025-06-01T02:21:13+09:00",
+    "updatedAt": "2026-06-24T09:58:44+09:00",
     "promulgationDate": "1947-12-23",
     "repealStatus": "None",
     "repealDate": null,
@@ -8993,21 +9175,46 @@
         "amendmentLawName": "国会法及び議院における証人の宣誓及び証言等に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC1000000225_20250601_504AC0000000068",
+        "enforcedAt": "2025-06-01",
+        "promulgatedAt": "2022-06-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000068",
+        "amendmentLawNum": "令和四年法律第六十八号",
+        "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "322AC1000000225_20250601_504AC0000000068",
-      "enforcedAt": "2025-06-01",
-      "promulgatedAt": "2022-06-17",
+      "revisionId": "322AC1000000225_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000068",
-      "amendmentLawNum": "令和四年法律第六十八号",
-      "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "322AC1000000225_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "322M40000100023",
@@ -11102,7 +11309,7 @@
     "titleKana": "けいじそしょうほう",
     "abbrev": "刑訴法",
     "category": "刑事",
-    "updatedAt": "2026-01-08T11:36:16+09:00",
+    "updatedAt": "2026-06-24T11:42:38+09:00",
     "promulgationDate": "1948-07-10",
     "repealStatus": "None",
     "repealDate": null,
@@ -11421,17 +11628,29 @@
         "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000131_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "323AC0000000131_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "323AC0000000131_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -11457,6 +11676,18 @@
         "amendmentLawId": "505AC0000000028",
         "amendmentLawNum": "令和五年法律第二十八号",
         "amendmentLawName": "刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000131_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -11592,7 +11823,7 @@
     "titleKana": "けんさつしんさかいほう",
     "abbrev": "検審法",
     "category": "司法",
-    "updatedAt": "2026-05-21T00:16:34+09:00",
+    "updatedAt": "2026-06-24T10:30:32+09:00",
     "promulgationDate": "1948-07-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -11671,17 +11902,29 @@
         "amendmentLawName": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000147_20260521_507AC0000000039",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2025-05-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000039",
+        "amendmentLawNum": "令和七年法律第三十九号",
+        "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "323AC0000000147_20260521_507AC0000000039",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2025-05-23",
+      "revisionId": "323AC0000000147_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000039",
-      "amendmentLawNum": "令和七年法律第三十九号",
-      "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -11695,6 +11938,18 @@
         "amendmentLawId": "507AC0000000039",
         "amendmentLawNum": "令和七年法律第三十九号",
         "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000147_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -11712,7 +11967,7 @@
     "titleKana": "しょうねんほう",
     "abbrev": null,
     "category": "刑事",
-    "updatedAt": "2026-01-08T11:53:33+09:00",
+    "updatedAt": "2026-06-24T11:46:12+09:00",
     "promulgationDate": "1948-07-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -11863,17 +12118,29 @@
         "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000168_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "323AC0000000168_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "323AC0000000168_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -11899,6 +12166,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000168_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -13516,13 +13795,13 @@
     "titleKana": "ろうどうくみあいほう",
     "abbrev": "労組法,労働三法",
     "category": "労働",
-    "updatedAt": "2025-10-01T00:46:56+09:00",
+    "updatedAt": "2026-06-24T10:37:23+09:00",
     "promulgationDate": "1949-06-01",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "324AC0000000174_20160401_426AC0000000069",
@@ -13571,17 +13850,29 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "324AC0000000174_20251001_505AC0000000053",
+        "enforcedAt": "2025-10-01",
+        "promulgatedAt": "2023-06-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000053",
+        "amendmentLawNum": "令和五年法律第五十三号",
+        "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "324AC0000000174_20251001_505AC0000000053",
-      "enforcedAt": "2025-10-01",
-      "promulgatedAt": "2023-06-14",
+      "revisionId": "324AC0000000174_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000053",
-      "amendmentLawNum": "令和五年法律第五十三号",
-      "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -13595,6 +13886,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "324AC0000000174_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -14246,13 +14549,13 @@
     "titleKana": "せいかつほごほう",
     "abbrev": null,
     "category": "社会福祉",
-    "updatedAt": "2026-04-08T16:09:28+09:00",
+    "updatedAt": "2026-06-24T10:48:53+09:00",
     "promulgationDate": "1950-05-04",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "325AC0000000144_20160401_427AC0000000031",
@@ -14661,17 +14964,29 @@
         "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000144_20260401_505AC0000000031",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2023-05-19",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000031",
+        "amendmentLawNum": "令和五年法律第三十一号",
+        "amendmentLawName": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "325AC0000000144_20260401_505AC0000000031",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2023-05-19",
+      "revisionId": "325AC0000000144_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000031",
-      "amendmentLawNum": "令和五年法律第三十一号",
-      "amendmentLawName": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -14697,6 +15012,18 @@
         "amendmentLawId": "507AC0000000087",
         "amendmentLawNum": "令和七年法律第八十七号",
         "amendmentLawName": "医療法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000144_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -15611,7 +15938,7 @@
     "titleKana": "せいしんほけんおよびせいしんしょうがいしゃふくしにかんするほうりつ",
     "abbrev": "精神保健福祉法",
     "category": "厚生",
-    "updatedAt": "2025-10-01T01:23:20+09:00",
+    "updatedAt": "2026-06-24T10:46:40+09:00",
     "promulgationDate": "1950-05-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -15822,17 +16149,29 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0100000123_20251001_504AC0000000104",
+        "enforcedAt": "2025-10-01",
+        "promulgatedAt": "2022-12-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000104",
+        "amendmentLawNum": "令和四年法律第百四号",
+        "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "325AC0100000123_20251001_504AC0000000104",
-      "enforcedAt": "2025-10-01",
-      "promulgatedAt": "2022-12-16",
+      "revisionId": "325AC0100000123_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000104",
-      "amendmentLawNum": "令和四年法律第百四号",
-      "amendmentLawName": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -15846,6 +16185,18 @@
         "amendmentLawId": "507AC0000000087",
         "amendmentLawNum": "令和七年法律第八十七号",
         "amendmentLawName": "医療法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0100000123_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -16762,13 +17113,13 @@
     "titleKana": "とちしゅうようほう",
     "abbrev": null,
     "category": "土地",
-    "updatedAt": "2025-10-01T02:55:04+09:00",
+    "updatedAt": "2026-06-24T10:18:39+09:00",
     "promulgationDate": "1951-06-09",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "326AC0100000219_20160401_426AC0000000072",
@@ -16997,17 +17348,29 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "326AC0100000219_20251001_505AC0000000053",
+        "enforcedAt": "2025-10-01",
+        "promulgatedAt": "2023-06-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000053",
+        "amendmentLawNum": "令和五年法律第五十三号",
+        "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "326AC0100000219_20251001_505AC0000000053",
-      "enforcedAt": "2025-10-01",
-      "promulgatedAt": "2023-06-14",
+      "revisionId": "326AC0100000219_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000053",
-      "amendmentLawNum": "令和五年法律第五十三号",
-      "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -17021,6 +17384,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "326AC0100000219_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -21368,7 +21743,7 @@
     "titleKana": "とっきょほう",
     "abbrev": null,
     "category": "産業通則",
-    "updatedAt": "2026-05-21T01:03:47+09:00",
+    "updatedAt": "2026-06-24T10:30:35+09:00",
     "promulgationDate": "1959-04-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -21699,21 +22074,46 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "334AC0000000121_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "334AC0000000121_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "334AC0000000121_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "334AC0000000121_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "334AC0000000123",
@@ -24552,13 +24952,13 @@
     "titleKana": "こくぜいつうそくほう",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-05-25T00:25:18+09:00",
+    "updatedAt": "2026-06-24T10:22:53+09:00",
     "promulgationDate": "1962-04-02",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "337AC0000000066_20170401_429AC0000000004",
@@ -25099,17 +25499,29 @@
         "amendmentLawName": "所得税法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "337AC0000000066_20260525_506AC0000000052",
+        "enforcedAt": "2026-05-25",
+        "promulgatedAt": "2024-06-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506AC0000000052",
+        "amendmentLawNum": "令和六年法律第五十二号",
+        "amendmentLawName": "事業性融資の推進等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "337AC0000000066_20260525_506AC0000000052",
-      "enforcedAt": "2026-05-25",
-      "promulgatedAt": "2024-06-14",
+      "revisionId": "337AC0000000066_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "506AC0000000052",
-      "amendmentLawNum": "令和六年法律第五十二号",
-      "amendmentLawName": "事業性融資の推進等に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -25171,6 +25583,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "337AC0000000066_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -25630,13 +26054,13 @@
     "titleKana": "しょうぎょうとうきほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-05-21T01:27:46+09:00",
+    "updatedAt": "2026-06-24T11:17:56+09:00",
     "promulgationDate": "1963-07-09",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "338AC0000000125_20160401_426AC0000000069",
@@ -25817,17 +26241,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "338AC0000000125_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "338AC0000000125_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "338AC0000000125_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -25841,6 +26277,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "338AC0000000125_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -27124,13 +27572,13 @@
     "titleKana": "しっこうかんほう",
     "abbrev": null,
     "category": "司法",
-    "updatedAt": "2024-11-21T13:54:48+09:00",
+    "updatedAt": "2026-06-24T10:26:49+09:00",
     "promulgationDate": "1966-07-01",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "341AC0000000111_20070401_419AC0000000018",
@@ -27203,17 +27651,29 @@
         "amendmentLawName": "特許法等の一部を改正する法律",
         "amendmentLawNameKana": "",
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "341AC0000000111_20230614_505AC0000000053",
+        "enforcedAt": "2023-06-14",
+        "promulgatedAt": "2023-06-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000053",
+        "amendmentLawNum": "令和五年法律第五十三号",
+        "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "341AC0000000111_20230614_505AC0000000053",
-      "enforcedAt": "2023-06-14",
-      "promulgatedAt": "2023-06-14",
+      "revisionId": "341AC0000000111_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000053",
-      "amendmentLawNum": "令和五年法律第五十三号",
-      "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -27227,6 +27687,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "341AC0000000111_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -27460,13 +27932,13 @@
     "titleKana": "とうろくめんきょぜいほう",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-06-16T13:27:42+09:00",
+    "updatedAt": "2026-06-24T10:24:16+09:00",
     "promulgationDate": "1967-06-12",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "342AC0000000035_20170401_428AC0000000100",
@@ -29219,17 +29691,29 @@
         "amendmentLawName": "太陽電池廃棄物の再資源化等の推進に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "342AC0000000035_20260610_508AC0000000035",
+        "enforcedAt": "2026-06-10",
+        "promulgatedAt": "2026-06-10",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000035",
+        "amendmentLawNum": "令和八年法律第三十五号",
+        "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "342AC0000000035_20260610_508AC0000000035",
-      "enforcedAt": "2026-06-10",
-      "promulgatedAt": "2026-06-10",
+      "revisionId": "342AC0000000035_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000035",
-      "amendmentLawNum": "令和八年法律第三十五号",
-      "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -29339,6 +29823,18 @@
         "amendmentLawId": "507AC1000000060",
         "amendmentLawNum": "令和七年法律第六十号",
         "amendmentLawName": "貨物自動車運送事業法の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "342AC0000000035_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -32186,13 +32682,13 @@
     "titleKana": "ちょさくけんほう",
     "abbrev": null,
     "category": "文化",
-    "updatedAt": "2026-06-22T16:31:19+09:00",
+    "updatedAt": "2026-06-24T10:26:51+09:00",
     "promulgationDate": "1970-05-06",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "345AC0000000048_20161216_428AC0000000108",
@@ -32613,17 +33109,29 @@
         "amendmentLawName": "民事訴訟法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "345AC0000000048_20260617_508AC0000000037",
+        "enforcedAt": "2026-06-17",
+        "promulgatedAt": "2026-06-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000037",
+        "amendmentLawNum": "令和八年法律第三十七号",
+        "amendmentLawName": "学校教育法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "345AC0000000048_20260617_508AC0000000037",
-      "enforcedAt": "2026-06-17",
-      "promulgatedAt": "2026-06-17",
+      "revisionId": "345AC0000000048_20260624_508AC0000000048",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000037",
-      "amendmentLawNum": "令和八年法律第三十七号",
-      "amendmentLawName": "学校教育法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000048",
+      "amendmentLawNum": "令和八年法律第四十八号",
+      "amendmentLawName": "著作権法の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -32649,6 +33157,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "345AC0000000048_20290623_508AC0000000048",
+        "enforcedAt": "2029-06-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2029-06-23",
+        "enforcementComment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000048",
+        "amendmentLawNum": "令和八年法律第四十八号",
+        "amendmentLawName": "著作権法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -32725,7 +33245,7 @@
     "titleKana": "こうがいふんそうしょりほう",
     "abbrev": null,
     "category": "環境保全",
-    "updatedAt": "2026-05-21T01:31:27+09:00",
+    "updatedAt": "2026-06-24T10:40:30+09:00",
     "promulgationDate": "1970-06-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -32828,21 +33348,46 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "345AC0000000108_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "345AC0000000108_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "345AC0000000108_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "345AC0000000108_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "345AC0000000115",
@@ -33309,13 +33854,13 @@
     "titleKana": "みんじそしょうひようとうにかんするほうりつ",
     "abbrev": "民訴費用法",
     "category": "民事",
-    "updatedAt": "2026-06-23T17:40:34+09:00",
+    "updatedAt": "2026-06-24T11:26:45+09:00",
     "promulgationDate": "1971-04-06",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "346AC0000000040_20161001_425AC0000000096",
@@ -33592,17 +34137,29 @@
         "amendmentLawName": "民事訴訟法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "346AC0000000040_20260525_506AC0000000052",
+        "enforcedAt": "2026-05-25",
+        "promulgatedAt": "2024-06-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506AC0000000052",
+        "amendmentLawNum": "令和六年法律第五十二号",
+        "amendmentLawName": "事業性融資の推進等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "346AC0000000040_20260525_506AC0000000052",
-      "enforcedAt": "2026-05-25",
-      "promulgatedAt": "2024-06-14",
+      "revisionId": "346AC0000000040_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "506AC0000000052",
-      "amendmentLawNum": "令和六年法律第五十二号",
-      "amendmentLawName": "事業性融資の推進等に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -33628,6 +34185,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "346AC0000000040_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -39019,7 +39588,7 @@
     "titleKana": "ぎょうせいてつづきほう",
     "abbrev": "行手法",
     "category": "行政手続",
-    "updatedAt": "2026-05-21T01:58:59+09:00",
+    "updatedAt": "2026-06-24T10:12:17+09:00",
     "promulgationDate": "1993-11-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -39110,21 +39679,46 @@
         "amendmentLawName": "地方自治法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "405AC0000000088_20260521_505AC0000000063",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2023-06-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000063",
+        "amendmentLawNum": "令和五年法律第六十三号",
+        "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "405AC0000000088_20260521_505AC0000000063",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2023-06-16",
+      "revisionId": "405AC0000000088_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000063",
-      "amendmentLawNum": "令和五年法律第六十三号",
-      "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "405AC0000000088_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "405AC0000000091",
@@ -39387,13 +39981,13 @@
     "titleKana": "みんじそしょうほう",
     "abbrev": "民訴法",
     "category": "民事",
-    "updatedAt": "2026-01-08T11:33:47+09:00",
+    "updatedAt": "2026-06-24T11:21:04+09:00",
     "promulgationDate": "1996-06-26",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "PreviousEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "408AC0000000109_20121001_424AC0000000030",
@@ -39574,21 +40168,46 @@
         "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "408AC0000000109_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "408AC0000000109_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "408AC0000000109_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "408AC0000000109_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "409AC0000000081",
@@ -41105,29 +41724,55 @@
     "lawType": "Act",
     "title": "任意後見契約に関する法律",
     "titleKana": "にんいこうけんけいやくにかんするほうりつ",
-    "abbrev": "任意後見契約法,成年後見制度等関連四法",
+    "abbrev": "成年後見制度等関連四法,任意後見契約法",
     "category": "民事",
-    "updatedAt": "2023-11-10T14:48:06+09:00",
+    "updatedAt": "2026-06-24T10:48:40+09:00",
     "promulgationDate": "1999-12-08",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
     "currentRevisionStatus": "CurrentEnforced",
-    "past": [],
+    "past": [
+      {
+        "revisionId": "411AC0000000150_20130101_423AC0000000053",
+        "enforcedAt": "2013-01-01",
+        "promulgatedAt": "2011-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "423AC0000000053",
+        "amendmentLawNum": "平成二十三年法律第五十三号",
+        "amendmentLawName": null,
+        "amendmentLawNameKana": "",
+        "amendmentType": "3"
+      }
+    ],
     "current": {
-      "revisionId": "411AC0000000150_20130101_423AC0000000053",
-      "enforcedAt": "2013-01-01",
-      "promulgatedAt": "2011-05-25",
+      "revisionId": "411AC0000000150_20260624_508AC0000000045",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "423AC0000000053",
-      "amendmentLawNum": "平成二十三年法律第五十三号",
-      "amendmentLawName": null,
-      "amendmentLawNameKana": "",
+      "amendmentLawId": "508AC0000000045",
+      "amendmentLawNum": "令和八年法律第四十五号",
+      "amendmentLawName": "民法等の一部を改正する法律",
+      "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "411AC0000000150_20281223_508AC0000000045",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "411AC0000000152",
@@ -41139,9 +41784,9 @@
     "lawType": "Act",
     "title": "後見登記等に関する法律",
     "titleKana": "こうけんとうきとうにかんするほうりつ",
-    "abbrev": "後見登記法,成年後見制度等関連四法",
+    "abbrev": "成年後見制度等関連四法,後見登記法",
     "category": "民事",
-    "updatedAt": "2024-02-21T10:53:21+09:00",
+    "updatedAt": "2026-06-24T11:29:32+09:00",
     "promulgationDate": "1999-12-08",
     "repealStatus": "None",
     "repealDate": null,
@@ -41244,21 +41889,46 @@
         "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "411AC0000000152_20230401_503AC0000000024",
+        "enforcedAt": "2023-04-01",
+        "promulgatedAt": "2021-04-28",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "503AC0000000024",
+        "amendmentLawNum": "令和三年法律第二十四号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "411AC0000000152_20230401_503AC0000000024",
-      "enforcedAt": "2023-04-01",
-      "promulgatedAt": "2021-04-28",
+      "revisionId": "411AC0000000152_20260624_508AC0000000045",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "503AC0000000024",
-      "amendmentLawNum": "令和三年法律第二十四号",
+      "amendmentLawId": "508AC0000000045",
+      "amendmentLawNum": "令和八年法律第四十五号",
       "amendmentLawName": "民法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "411AC0000000152_20281223_508AC0000000045",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "411AC0000000225",
@@ -41703,7 +42373,7 @@
     "titleKana": "しょうひしゃけいやくほう",
     "abbrev": null,
     "category": "商業",
-    "updatedAt": "2025-06-01T19:23:09+09:00",
+    "updatedAt": "2026-06-24T10:34:23+09:00",
     "promulgationDate": "2000-05-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -41902,21 +42572,46 @@
         "amendmentLawName": "不当景品類及び不当表示防止法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "412AC0000000061_20250601_504AC0000000068",
+        "enforcedAt": "2025-06-01",
+        "promulgatedAt": "2022-06-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000068",
+        "amendmentLawNum": "令和四年法律第六十八号",
+        "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "412AC0000000061_20250601_504AC0000000068",
-      "enforcedAt": "2025-06-01",
-      "promulgatedAt": "2022-06-17",
+      "revisionId": "412AC0000000061_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000068",
-      "amendmentLawNum": "令和四年法律第六十八号",
-      "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "412AC0000000061_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "412AC0000000075",
@@ -43770,15 +44465,15 @@
     "lawType": "Act",
     "title": "配偶者からの暴力の防止及び被害者の保護等に関する法律",
     "titleKana": "はいぐうしゃからのぼうりょくのぼうしおよびひがいしゃのほごとうにかんするほうりつ",
-    "abbrev": "ＤＶ防止法,配偶者暴力防止法",
+    "abbrev": "配偶者暴力防止法,ＤＶ防止法",
     "category": "民事",
-    "updatedAt": "2025-12-30T00:02:05+09:00",
+    "updatedAt": "2026-06-24T11:31:47+09:00",
     "promulgationDate": "2001-04-13",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "413AC0100000031_20141001_426AC0000000028",
@@ -43923,17 +44618,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "413AC0100000031_20251230_507AC0000000084",
+        "enforcedAt": "2025-12-30",
+        "promulgatedAt": "2025-12-10",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000084",
+        "amendmentLawNum": "令和七年法律第八十四号",
+        "amendmentLawName": "配偶者からの暴力の防止及び被害者の保護等に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "413AC0100000031_20251230_507AC0000000084",
-      "enforcedAt": "2025-12-30",
-      "promulgatedAt": "2025-12-10",
+      "revisionId": "413AC0100000031_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000084",
-      "amendmentLawNum": "令和七年法律第八十四号",
-      "amendmentLawName": "配偶者からの暴力の防止及び被害者の保護等に関する法律の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -43947,6 +44654,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "413AC0100000031_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -44979,13 +45698,13 @@
     "titleKana": "こじんじょうほうのほごにかんするほうりつ",
     "abbrev": "個人情報保護法",
     "category": "憲法",
-    "updatedAt": "2026-05-21T02:21:33+09:00",
+    "updatedAt": "2026-06-24T10:04:00+09:00",
     "promulgationDate": "2003-05-30",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "415AC0000000057_20170301_427AC0000000065",
@@ -45274,17 +45993,29 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000057_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "415AC0000000057_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "415AC0000000057_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -45312,6 +46043,18 @@
         "amendmentLawName": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000057_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ]
   },
@@ -45327,7 +46070,7 @@
     "titleKana": "いんたーねっといせいしょうかいじぎょうをりようしてじどうをゆういんするこういのきせいとうにかんするほうりつ",
     "abbrev": "出会い系サイト規制法,出会い系サイト被害防止法",
     "category": "警察",
-    "updatedAt": "2025-06-01T21:06:39+09:00",
+    "updatedAt": "2026-06-24T10:12:48+09:00",
     "promulgationDate": "2003-06-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -45466,21 +46209,46 @@
         "amendmentLawName": "刑法及び刑事訴訟法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000083_20250601_504AC0000000068",
+        "enforcedAt": "2025-06-01",
+        "promulgatedAt": "2022-06-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000068",
+        "amendmentLawNum": "令和四年法律第六十八号",
+        "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "415AC0000000083_20250601_504AC0000000068",
-      "enforcedAt": "2025-06-01",
-      "promulgatedAt": "2022-06-17",
+      "revisionId": "415AC0000000083_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000068",
-      "amendmentLawNum": "令和四年法律第六十八号",
-      "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "415AC0000000083_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "415AC0000000107",
@@ -45528,13 +46296,13 @@
     "titleKana": "じんじそしょうほう",
     "abbrev": "人訴法",
     "category": "民事",
-    "updatedAt": "2026-05-21T02:21:59+09:00",
+    "updatedAt": "2026-06-24T11:36:38+09:00",
     "promulgationDate": "2003-07-16",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "415AC0000000109_20161124_428AC0000000084",
@@ -45703,17 +46471,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000109_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "415AC0000000109_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "415AC0000000109_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -45727,6 +46507,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000109_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -45744,7 +46536,7 @@
     "titleKana": "しんしんそうしつとうのじょうたいでじゅうだいなたがいこういをおこなったもののいりょうおよびかんさつとうにかんするほうりつ",
     "abbrev": "心神喪失者等医療観察法",
     "category": "厚生",
-    "updatedAt": "2026-05-21T02:22:29+09:00",
+    "updatedAt": "2026-06-24T10:48:04+09:00",
     "promulgationDate": "2003-07-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -45895,17 +46687,29 @@
         "amendmentLawName": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000110_20260521_507AC0000000039",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2025-05-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000039",
+        "amendmentLawNum": "令和七年法律第三十九号",
+        "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "415AC0000000110_20260521_507AC0000000039",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2025-05-23",
+      "revisionId": "415AC0000000110_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000039",
-      "amendmentLawNum": "令和七年法律第三十九号",
-      "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -45931,6 +46735,18 @@
         "amendmentLawId": "507AC0000000039",
         "amendmentLawNum": "令和七年法律第三十九号",
         "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "415AC0000000110_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -46307,13 +47123,13 @@
     "titleKana": "さいばんいんのさんかするけいじさいばんにかんするほうりつ",
     "abbrev": "裁判員法",
     "category": "司法",
-    "updatedAt": "2026-05-21T02:29:15+09:00",
+    "updatedAt": "2026-06-24T10:37:42+09:00",
     "promulgationDate": "2004-05-28",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "416AC0000000063_20161201_428AC0000000054",
@@ -46446,17 +47262,29 @@
         "amendmentLawName": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "416AC0000000063_20260521_507AC0000000039",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2025-05-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000039",
+        "amendmentLawNum": "令和七年法律第三十九号",
+        "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "416AC0000000063_20260521_507AC0000000039",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2025-05-23",
+      "revisionId": "416AC0000000063_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000039",
-      "amendmentLawNum": "令和七年法律第三十九号",
-      "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -46482,6 +47310,18 @@
         "amendmentLawId": "505AC0000000028",
         "amendmentLawNum": "令和五年法律第二十八号",
         "amendmentLawName": "刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "416AC0000000063_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -47099,7 +47939,7 @@
     "titleKana": "ふどうさんとうきほう",
     "abbrev": "新不動産登記法,不登法",
     "category": "民事",
-    "updatedAt": "2026-05-21T02:30:32+09:00",
+    "updatedAt": "2026-06-24T11:39:56+09:00",
     "promulgationDate": "2004-06-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -47382,21 +48222,46 @@
         "amendmentLawName": "民法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "416AC0000000123_20260521_505AC0000000063",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2023-06-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000063",
+        "amendmentLawNum": "令和五年法律第六十三号",
+        "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "416AC0000000123_20260521_505AC0000000063",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2023-06-16",
+      "revisionId": "416AC0000000123_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000063",
-      "amendmentLawNum": "令和五年法律第六十三号",
-      "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "416AC0000000123_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "416AC0000000151",
@@ -47753,9 +48618,9 @@
     "lawType": "Act",
     "title": "有限責任事業組合契約に関する法律",
     "titleKana": "ゆうげんせきにんじぎょうくみあいけいやくにかんするほうりつ",
-    "abbrev": "ＬＬＰ法,有限責任事業組合契約法",
+    "abbrev": "有限責任事業組合契約法,ＬＬＰ法",
     "category": "産業通則",
-    "updatedAt": "2023-04-01T18:19:02+09:00",
+    "updatedAt": "2026-06-24T10:29:22+09:00",
     "promulgationDate": "2005-05-06",
     "repealStatus": "None",
     "repealDate": null,
@@ -47846,21 +48711,46 @@
         "amendmentLawName": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "417AC0000000040_20230401_503AC0000000024",
+        "enforcedAt": "2023-04-01",
+        "promulgatedAt": "2021-04-28",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "503AC0000000024",
+        "amendmentLawNum": "令和三年法律第二十四号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": "",
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "417AC0000000040_20230401_503AC0000000024",
-      "enforcedAt": "2023-04-01",
-      "promulgatedAt": "2021-04-28",
+      "revisionId": "417AC0000000040_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "503AC0000000024",
-      "amendmentLawNum": "令和三年法律第二十四号",
-      "amendmentLawName": "民法等の一部を改正する法律",
-      "amendmentLawNameKana": "",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+      "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "417AC0000000040_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "417AC0000000050",
@@ -48090,13 +48980,13 @@
     "titleKana": "かいしゃほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-05-21T02:35:33+09:00",
+    "updatedAt": "2026-06-24T10:58:29+09:00",
     "promulgationDate": "2005-07-26",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "417AC0000000086_20170401_428AC0000000062",
@@ -48373,17 +49263,29 @@
         "amendmentLawName": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "417AC0000000086_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "417AC0000000086_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "417AC0000000086_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -48409,6 +49311,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "417AC0000000086_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -48497,7 +49411,7 @@
     "titleKana": "しょうがいしゃのにちじょうせいかつおよびしゃかいせいかつをそうごうてきにしえんするためのほうりつ",
     "abbrev": "障害者総合支援法",
     "category": "社会福祉",
-    "updatedAt": "2026-06-09T13:02:48+09:00",
+    "updatedAt": "2026-06-24T10:55:33+09:00",
     "promulgationDate": "2005-11-07",
     "repealStatus": "None",
     "repealDate": null,
@@ -48756,17 +49670,29 @@
         "amendmentLawName": "医療法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "417AC0000000123_20260603_508AC0000000027",
+        "enforcedAt": "2026-06-03",
+        "promulgatedAt": "2026-06-03",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000027",
+        "amendmentLawNum": "令和八年法律第二十七号",
+        "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "417AC0000000123_20260603_508AC0000000027",
-      "enforcedAt": "2026-06-03",
-      "promulgatedAt": "2026-06-03",
+      "revisionId": "417AC0000000123_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000027",
-      "amendmentLawNum": "令和八年法律第二十七号",
-      "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -48840,6 +49766,18 @@
         "amendmentLawId": "507AC0000000087",
         "amendmentLawNum": "令和七年法律第八十七号",
         "amendmentLawName": "医療法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "417AC0000000123_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -49308,15 +50246,15 @@
     "lawType": "Act",
     "title": "一般社団法人及び一般財団法人に関する法律",
     "titleKana": "いっぱんしゃだんほうじんおよびいっぱんざいだんほうじんにかんするほうりつ",
-    "abbrev": "一般社団・財団法人法,一般法人法,一般社団・財団法",
+    "abbrev": "一般法人法,一般社団・財団法,一般社団・財団法人法",
     "category": "民事",
-    "updatedAt": "2026-05-21T02:36:46+09:00",
+    "updatedAt": "2026-06-24T11:00:55+09:00",
     "promulgationDate": "2006-06-02",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "418AC0000000048_20150501_426AC0000000091",
@@ -49473,17 +50411,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "418AC0000000048_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "418AC0000000048_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "418AC0000000048_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -49497,6 +50447,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "418AC0000000048_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -49728,27 +50690,53 @@
     "titleKana": "ほうのてきようにかんするつうそくほう",
     "abbrev": "法適用通則法",
     "category": "憲法",
-    "updatedAt": "2023-11-10T15:29:13+09:00",
+    "updatedAt": "2026-06-24T10:06:50+09:00",
     "promulgationDate": "2006-06-21",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
     "currentRevisionStatus": "CurrentEnforced",
-    "past": [],
+    "past": [
+      {
+        "revisionId": "418AC0000000078_20070101_000000000000000",
+        "enforcedAt": "2007-01-01",
+        "promulgatedAt": "2006-06-21",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": null,
+        "amendmentLawNum": null,
+        "amendmentLawName": null,
+        "amendmentLawNameKana": "",
+        "amendmentType": "1"
+      }
+    ],
     "current": {
-      "revisionId": "418AC0000000078_20070101_000000000000000",
-      "enforcedAt": "2007-01-01",
-      "promulgatedAt": "2006-06-21",
+      "revisionId": "418AC0000000078_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": null,
-      "amendmentLawNum": null,
-      "amendmentLawName": null,
-      "amendmentLawNameKana": "",
-      "amendmentType": "1"
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "418AC0000000078_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "418AC0000000108",
@@ -49762,13 +50750,13 @@
     "titleKana": "しんたくほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-04-02T19:28:53+09:00",
+    "updatedAt": "2026-06-24T11:06:53+09:00",
     "promulgationDate": "2006-12-15",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "418AC0000000108_20151005_425AC0000000028",
@@ -49949,17 +50937,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "418AC0000000108_20260401_506AC0000000030",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2024-05-22",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506AC0000000030",
+        "amendmentLawNum": "令和六年法律第三十号",
+        "amendmentLawName": "公益信託に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "418AC0000000108_20260401_506AC0000000030",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2024-05-22",
+      "revisionId": "418AC0000000108_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "506AC0000000030",
-      "amendmentLawNum": "令和六年法律第三十号",
-      "amendmentLawName": "公益信託に関する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -49973,6 +50973,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "418AC0000000108_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -52511,7 +53523,7 @@
     "titleKana": "ひしょうじけんてつづきほう",
     "abbrev": "非訟法",
     "category": "民事",
-    "updatedAt": "2026-01-08T13:05:51+09:00",
+    "updatedAt": "2026-06-24T11:53:07+09:00",
     "promulgationDate": "2011-05-25",
     "repealStatus": "None",
     "repealDate": null,
@@ -52698,17 +53710,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "423AC0000000051_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "423AC0000000051_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "423AC0000000051_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -52722,6 +53746,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "423AC0000000051_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -52739,13 +53775,13 @@
     "titleKana": "かじじけんてつづきほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-05-21T02:44:57+09:00",
+    "updatedAt": "2026-06-24T11:57:49+09:00",
     "promulgationDate": "2011-05-25",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "423AC0000000052_20161013_428AC1000000027",
@@ -53070,21 +54106,45 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "423AC0000000052_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "423AC0000000052_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "423AC0000000052_20260624_508AC0000000045",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000045",
+      "amendmentLawNum": "令和八年法律第四十五号",
+      "amendmentLawName": "民法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
+      {
+        "revisionId": "423AC0000000052_20270623_508AC0000000045",
+        "enforcedAt": "2027-06-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2027-06-23",
+        "enforcementComment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "423AC0000000052_20280613_505AC0000000053",
         "enforcedAt": "2028-06-13",
@@ -53094,6 +54154,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "423AC0000000052_20281223_508AC0000000045",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -54359,13 +55431,13 @@
     "titleKana": "こくさいてきなこのだっしゅのみんじじょうのそくめんにかんするじょうやくのじっしにかんするほうりつ",
     "abbrev": "ハーグ条約実施法",
     "category": "民事",
-    "updatedAt": "2026-05-21T02:49:50+09:00",
+    "updatedAt": "2026-06-24T10:11:06+09:00",
     "promulgationDate": "2013-06-19",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "425AC0000000048_20140401_000000000000000",
@@ -54510,17 +55582,29 @@
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "425AC0000000048_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "425AC0000000048_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "425AC0000000048_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -54534,6 +55618,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "425AC0000000048_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -55076,7 +56172,7 @@
     "titleKana": "しょうねんいんほう",
     "abbrev": null,
     "category": "刑事",
-    "updatedAt": "2026-05-21T02:51:04+09:00",
+    "updatedAt": "2026-06-24T10:13:54+09:00",
     "promulgationDate": "2014-06-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -55179,17 +56275,29 @@
         "amendmentLawName": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "426AC0000000058_20260521_507AC0000000039",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2025-05-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000039",
+        "amendmentLawNum": "令和七年法律第三十九号",
+        "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "426AC0000000058_20260521_507AC0000000039",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2025-05-23",
+      "revisionId": "426AC0000000058_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000039",
-      "amendmentLawNum": "令和七年法律第三十九号",
-      "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -55203,6 +56311,18 @@
         "amendmentLawId": "507AC0000000039",
         "amendmentLawNum": "令和七年法律第三十九号",
         "amendmentLawName": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "426AC0000000058_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -55220,7 +56340,7 @@
     "titleKana": "ぎょうせいふふくしんさほう",
     "abbrev": "行審法,行服法",
     "category": "行政手続",
-    "updatedAt": "2026-05-21T02:51:41+09:00",
+    "updatedAt": "2026-06-24T10:18:18+09:00",
     "promulgationDate": "2014-06-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -55347,21 +56467,46 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "426AC0000000068_20260521_505AC0000000063",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2023-06-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "505AC0000000063",
+        "amendmentLawNum": "令和五年法律第六十三号",
+        "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "426AC0000000068_20260521_505AC0000000063",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2023-06-16",
+      "revisionId": "426AC0000000068_20260624_508AC0000000046",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "505AC0000000063",
-      "amendmentLawNum": "令和五年法律第六十三号",
-      "amendmentLawName": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000046",
+      "amendmentLawNum": "令和八年法律第四十六号",
+      "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "426AC0000000068_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "426AC0000000137",
@@ -55560,7 +56705,7 @@
     "titleKana": "ほうむきょくにおけるいごんしょのほかんとうにかんするほうりつ",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2025-05-19T08:32:23+09:00",
+    "updatedAt": "2026-06-24T11:15:12+09:00",
     "promulgationDate": "2018-07-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -55591,21 +56736,46 @@
         "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "430AC0000000073_20220401_503AC0000000037",
+        "enforcedAt": "2022-04-01",
+        "promulgatedAt": "2021-05-19",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "503AC0000000037",
+        "amendmentLawNum": "令和三年法律第三十七号",
+        "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": "",
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "430AC0000000073_20220401_503AC0000000037",
-      "enforcedAt": "2022-04-01",
-      "promulgatedAt": "2021-05-19",
+      "revisionId": "430AC0000000073_20260624_508AC0000000045",
+      "enforcedAt": "2026-06-24",
+      "promulgatedAt": "2026-06-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "503AC0000000037",
-      "amendmentLawNum": "令和三年法律第三十七号",
-      "amendmentLawName": "デジタル社会の形成を図るための関係法律の整備に関する法律",
-      "amendmentLawNameKana": "",
+      "amendmentLawId": "508AC0000000045",
+      "amendmentLawNum": "令和八年法律第四十五号",
+      "amendmentLawName": "民法等の一部を改正する法律",
+      "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "430AC0000000073_20290623_508AC0000000045",
+        "enforcedAt": "2029-06-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2029-06-23",
+        "enforcementComment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000045",
+        "amendmentLawNum": "令和八年法律第四十五号",
+        "amendmentLawName": "民法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "430CO0000000051",
