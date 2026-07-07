@@ -27177,7 +27177,7 @@
     "titleKana": "きんゆうしょうひんとりひきほうせこうれい",
     "abbrev": "証取法施行令,金商法施行令",
     "category": "金融・保険",
-    "updatedAt": "2026-07-01T00:16:41+09:00",
+    "updatedAt": "2026-07-07T11:06:41+09:00",
     "promulgationDate": "1965-09-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -27664,11 +27664,35 @@
         "amendmentLawName": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "340CO0000000321_20260601_508CO0000000174",
+        "enforcedAt": "2026-06-01",
+        "promulgatedAt": "2026-05-22",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000174",
+        "amendmentLawNum": "令和八年政令第百七十四号",
+        "amendmentLawName": "金融商品取引法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "340CO0000000321_20260625_508CO0000000207",
+        "enforcedAt": "2026-06-25",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000207",
+        "amendmentLawNum": "令和八年政令第二百七号",
+        "amendmentLawName": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "340CO0000000321_20260601_508CO0000000174",
-      "enforcedAt": "2026-06-01",
+      "revisionId": "340CO0000000321_20260701_508CO0000000174",
+      "enforcedAt": "2026-07-01",
       "promulgatedAt": "2026-05-22",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -27678,20 +27702,7 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": [
-      {
-        "revisionId": "340CO0000000321_20260701_508CO0000000174",
-        "enforcedAt": "2026-07-01",
-        "promulgatedAt": "2026-05-22",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508CO0000000174",
-        "amendmentLawNum": "令和八年政令第百七十四号",
-        "amendmentLawName": "金融商品取引法施行令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      }
-    ]
+    "future": []
   },
   {
     "lawId": "341AC0000000111",
