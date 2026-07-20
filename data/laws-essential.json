@@ -24084,7 +24084,7 @@
     "titleKana": "どうろこうつうほう",
     "abbrev": "道交法",
     "category": "警察",
-    "updatedAt": "2026-06-14T00:06:05+09:00",
+    "updatedAt": "2026-07-21T00:01:28+09:00",
     "promulgationDate": "1960-06-25",
     "repealStatus": "None",
     "repealDate": null,
@@ -24477,7 +24477,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "335AC0000000105_20260721_508AC0000000052",
+        "enforcedAt": "2026-07-21",
+        "promulgatedAt": "2026-07-01",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000052",
+        "amendmentLawNum": "令和八年法律第五十二号",
+        "amendmentLawName": "自動車の運転により人を死傷させる行為等の処罰に関する法律及び道路交通法の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "335AC0000000123",
@@ -56528,9 +56541,9 @@
     "lawType": "Act",
     "title": "自動車の運転により人を死傷させる行為等の処罰に関する法律",
     "titleKana": "じどうしゃのうんてんによりひとをししょうさせるこういとうのしょばつにかんするほうりつ",
-    "abbrev": "自動車運転死傷行為処罰法,自動車運転死傷処罰法,悪質運転厳罰法",
+    "abbrev": "自動車運転死傷処罰法,悪質運転厳罰法,自動車運転死傷行為処罰法",
     "category": "刑事",
-    "updatedAt": "2025-06-02T00:41:20+09:00",
+    "updatedAt": "2026-07-21T00:07:37+09:00",
     "promulgationDate": "2013-11-27",
     "repealStatus": "None",
     "repealDate": null,
@@ -56599,7 +56612,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "425AC0000000086_20260721_508AC0000000052",
+        "enforcedAt": "2026-07-21",
+        "promulgatedAt": "2026-07-01",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000052",
+        "amendmentLawNum": "令和八年法律第五十二号",
+        "amendmentLawName": "自動車の運転により人を死傷させる行為等の処罰に関する法律及び道路交通法の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "425AC0000000096",
