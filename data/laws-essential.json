@@ -55685,13 +55685,13 @@
     "titleKana": "ぎょうせいてつづきにおけるとくていのこじんをしきべつするためのばんごうのりようとうにかんするほうりつ",
     "abbrev": "マイナンバー法,個人番号法,番号法",
     "category": "行政手続",
-    "updatedAt": "2026-07-28T10:21:03+09:00",
+    "updatedAt": "2026-06-14T00:28:21+09:00",
     "promulgationDate": "2013-05-31",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "PreviousEnforced",
     "past": [
       {
         "revisionId": "425AC0000000027_20170401_429AC0000000009",
