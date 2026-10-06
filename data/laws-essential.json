@@ -200,13 +200,13 @@
     "titleKana": "みんぽう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-06-24T10:54:14+09:00",
+    "updatedAt": "2026-10-06T09:36:49+09:00",
     "promulgationDate": "1896-04-27",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "PreviousEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "129AC0000000089_20161013_428AC1000000027",
@@ -9834,7 +9834,7 @@
     "titleKana": "きんゆうしょうひんとりひきほう",
     "abbrev": "金商法,証取法",
     "category": "金融・保険",
-    "updatedAt": "2026-08-12T00:02:58+09:00",
+    "updatedAt": "2026-10-06T09:36:21+09:00",
     "promulgationDate": "1948-04-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -10453,11 +10453,23 @@
         "amendmentLawName": "事業性融資の推進等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "323AC0000000025_20260723_508AC0000000064",
+        "enforcedAt": "2026-07-23",
+        "promulgatedAt": "2026-07-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000064",
+        "amendmentLawNum": "令和八年法律第六十四号",
+        "amendmentLawName": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "323AC0000000025_20260723_508AC0000000064",
-      "enforcedAt": "2026-07-23",
+      "revisionId": "323AC0000000025_20260812_508AC0000000064",
+      "enforcedAt": "2026-08-12",
       "promulgatedAt": "2026-07-23",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -10469,14 +10481,14 @@
     },
     "future": [
       {
-        "revisionId": "323AC0000000025_20260812_508AC0000000064",
-        "enforcedAt": "2026-08-12",
-        "promulgatedAt": "2026-07-23",
+        "revisionId": "323AC0000000025_20261130_505AC0000000079",
+        "enforcedAt": "2026-11-30",
+        "promulgatedAt": "2023-11-29",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "508AC0000000064",
-        "amendmentLawNum": "令和八年法律第六十四号",
-        "amendmentLawName": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+        "amendmentLawId": "505AC0000000079",
+        "amendmentLawNum": "令和五年法律第七十九号",
+        "amendmentLawName": "金融商品取引法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -10501,18 +10513,6 @@
         "amendmentLawId": "508AC0000000064",
         "amendmentLawNum": "令和八年法律第六十四号",
         "amendmentLawName": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "323AC0000000025_20270528_505AC0000000079",
-        "enforcedAt": "2027-05-28",
-        "promulgatedAt": "2023-11-29",
-        "scheduledEnforcedAt": "2027-05-28",
-        "enforcementComment": "公布の日から起算して三年六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "505AC0000000079",
-        "amendmentLawNum": "令和五年法律第七十九号",
-        "amendmentLawName": "金融商品取引法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -25610,13 +25610,13 @@
     "titleKana": "こくぜいつうそくほう",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-05-25T00:25:18+09:00",
+    "updatedAt": "2026-10-06T13:10:19+09:00",
     "promulgationDate": "1962-04-02",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "PreviousEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "337AC0000000066_20170401_429AC0000000004",
@@ -26724,13 +26724,13 @@
     "titleKana": "しょうぎょうとうきほう",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-07-02T10:16:23+09:00",
+    "updatedAt": "2026-10-06T09:35:26+09:00",
     "promulgationDate": "1963-07-09",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "PreviousEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "338AC0000000125_20160401_426AC0000000069",
@@ -37478,7 +37478,7 @@
     "titleKana": "みんじしっこうほう",
     "abbrev": "民執法",
     "category": "民事",
-    "updatedAt": "2026-05-21T01:41:40+09:00",
+    "updatedAt": "2026-10-06T09:35:55+09:00",
     "promulgationDate": "1979-03-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -37785,6 +37785,18 @@
         "amendmentLawId": "505AC0000000053",
         "amendmentLawNum": "令和五年法律第五十三号",
         "amendmentLawName": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "354AC0000000004_20281223_508AC0000000046",
+        "enforcedAt": "2028-12-23",
+        "promulgatedAt": "2026-06-24",
+        "scheduledEnforcedAt": "2028-12-23",
+        "enforcementComment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+        "amendmentLawId": "508AC0000000046",
+        "amendmentLawNum": "令和八年法律第四十六号",
+        "amendmentLawName": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -46827,13 +46839,13 @@
     "titleKana": "こじんじょうほうのほごにかんするほうりつ",
     "abbrev": "個人情報保護法",
     "category": "憲法",
-    "updatedAt": "2026-10-01T05:19:26+09:00",
+    "updatedAt": "2026-10-06T09:16:37+09:00",
     "promulgationDate": "2003-05-30",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "PreviousEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "415AC0000000057_20170301_427AC0000000065",
