@@ -17484,7 +17484,7 @@
     "titleKana": "こうしつてんぱん",
     "abbrev": null,
     "category": "憲法",
-    "updatedAt": "2026-07-24T12:03:29+09:00",
+    "updatedAt": "2026-10-24T00:01:32+09:00",
     "promulgationDate": "1947-01-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -17568,7 +17568,7 @@
     "titleKana": "こうしつけいざいほう",
     "abbrev": null,
     "category": "憲法",
-    "updatedAt": "2026-07-24T12:04:42+09:00",
+    "updatedAt": "2026-10-24T00:02:14+09:00",
     "promulgationDate": "1947-01-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -22681,11 +22681,11 @@
     "lawNumType": "Act",
     "lawNumNum": "111",
     "lawType": "Act",
-    "title": "昭和二十二年法律第百十一号（皇族の身分を離れた者及び皇族となつた者の戸籍に関する法律）",
-    "titleKana": "こうぞくのみぶんをはなれたものおよびこうぞくとなつたもののこせきにかんするほうりつ",
+    "title": "皇族の身分を離れた者等の戸籍の取扱い等に関する法律",
+    "titleKana": "こうぞくのみぶんをはなれたものとうのこせきのとりあつかいとうにかんするほうりつ",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-07-24T12:10:01+09:00",
+    "updatedAt": "2026-10-24T00:02:44+09:00",
     "promulgationDate": "1947-09-26",
     "repealStatus": "None",
     "repealDate": null,
@@ -27933,7 +27933,7 @@
     "titleKana": "こうとうふれい",
     "abbrev": null,
     "category": "憲法",
-    "updatedAt": "2023-11-10T16:07:37+09:00",
+    "updatedAt": "2026-10-24T00:03:10+09:00",
     "promulgationDate": "1947-05-03",
     "repealStatus": "None",
     "repealDate": null,
@@ -27953,7 +27953,20 @@
       "amendmentLawNameKana": "",
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "322CO0000000001_20261024_508CO0000000280",
+        "enforcedAt": "2026-10-24",
+        "promulgatedAt": "2026-09-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000280",
+        "amendmentLawNum": "令和八年政令第二百八十号",
+        "amendmentLawName": "皇統譜令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "322CO0000000005",
@@ -61612,7 +61625,7 @@
     "titleKana": "ゆしゅつぼうえきかんりれい",
     "abbrev": "輸出令",
     "category": "外国為替・貿易",
-    "updatedAt": "2026-10-07T15:40:32+09:00",
+    "updatedAt": "2026-10-23T09:45:15+09:00",
     "promulgationDate": "1949-12-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -62159,17 +62172,29 @@
         "amendmentLawName": "輸出貿易管理令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "324CO0000000378_20260605_508CO0000000194",
+        "enforcedAt": "2026-06-05",
+        "promulgatedAt": "2026-06-05",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000194",
+        "amendmentLawNum": "令和八年政令第百九十四号",
+        "amendmentLawName": "外国為替及び外国貿易法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "324CO0000000378_20260605_508CO0000000194",
-      "enforcedAt": "2026-06-05",
-      "promulgatedAt": "2026-06-05",
+      "revisionId": "324CO0000000378_20261016_508CO0000000325",
+      "enforcedAt": "2026-10-16",
+      "promulgatedAt": "2026-10-09",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508CO0000000194",
-      "amendmentLawNum": "令和八年政令第百九十四号",
-      "amendmentLawName": "外国為替及び外国貿易法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+      "amendmentLawId": "508CO0000000325",
+      "amendmentLawNum": "令和八年政令第三百二十五号",
+      "amendmentLawName": "輸出貿易管理令の一部を改正する政令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -271784,7 +271809,7 @@
     "titleKana": "じゅうみんきほんだいちょうほう",
     "abbrev": "住基法,住基台帳法",
     "category": "民事",
-    "updatedAt": "2026-10-01T03:22:24+09:00",
+    "updatedAt": "2026-10-24T00:03:25+09:00",
     "promulgationDate": "1967-07-25",
     "repealStatus": "None",
     "repealDate": null,
@@ -273687,33 +273712,33 @@
         "amendmentLawName": "皇室典範等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "342AC0000000081_20260812_508AC0000000064",
+        "enforcedAt": "2026-08-12",
+        "promulgatedAt": "2026-07-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000064",
+        "amendmentLawNum": "令和八年法律第六十四号",
+        "amendmentLawName": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "342AC0000000081_20260812_508AC0000000064",
-      "enforcedAt": "2026-08-12",
-      "promulgatedAt": "2026-07-23",
+      "revisionId": "342AC0000000081_20261001_507AC0000000087",
+      "enforcedAt": "2026-10-01",
+      "promulgatedAt": "2025-12-12",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000064",
-      "amendmentLawNum": "令和八年法律第六十四号",
-      "amendmentLawName": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+      "amendmentLawId": "507AC0000000087",
+      "amendmentLawNum": "令和七年法律第八十七号",
+      "amendmentLawName": "医療法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "342AC0000000081_20261001_507AC0000000087",
-        "enforcedAt": "2026-10-01",
-        "promulgatedAt": "2025-12-12",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "507AC0000000087",
-        "amendmentLawNum": "令和七年法律第八十七号",
-        "amendmentLawName": "医療法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "342AC0000000081_20261024_508AC0000000066",
         "enforcedAt": "2026-10-24",
@@ -276292,7 +276317,7 @@
     "titleKana": "じゅうみんきほんだいちょうほうせこうれい",
     "abbrev": "住基法施行令,住基台帳法施行令",
     "category": "民事",
-    "updatedAt": "2026-04-15T11:59:35+09:00",
+    "updatedAt": "2026-10-24T00:04:36+09:00",
     "promulgationDate": "1967-09-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -276613,7 +276638,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "342CO0000000292_20261024_508CO0000000281",
+        "enforcedAt": "2026-10-24",
+        "promulgatedAt": "2026-09-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000281",
+        "amendmentLawNum": "令和八年政令第二百八十一号",
+        "amendmentLawName": "住民基本台帳法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "342CO0000000317",
@@ -304147,7 +304185,7 @@
     "titleKana": "はいきぶつのしょりおよびせいそうにかんするほうりつしこうきそく",
     "abbrev": "廃棄物処理法施行規則,ごみ処理法施行規則,廃掃法施行規則",
     "category": "厚生",
-    "updatedAt": "2026-10-02T09:28:25+09:00",
+    "updatedAt": "2026-10-23T10:49:25+09:00",
     "promulgationDate": "1971-09-23",
     "repealStatus": "None",
     "repealDate": null,
@@ -638914,7 +638952,7 @@
     "titleKana": "にほんこくけんぽうのかいせいてつづきにかんするほうりつ",
     "abbrev": null,
     "category": "憲法",
-    "updatedAt": "2026-05-21T02:40:56+09:00",
+    "updatedAt": "2026-10-24T00:08:10+09:00",
     "promulgationDate": "2007-05-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -639079,7 +639117,32 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "419AC1000000051_20261024_508AC0000000066",
+        "enforcedAt": "2026-10-24",
+        "promulgatedAt": "2026-07-24",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000066",
+        "amendmentLawNum": "令和八年法律第六十六号",
+        "amendmentLawName": "皇室典範等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "419AC1000000051_20261031_508AC1000000073",
+        "enforcedAt": "2026-10-31",
+        "promulgatedAt": "2026-07-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC1000000073",
+        "amendmentLawNum": "令和八年法律第七十三号",
+        "amendmentLawName": "日本国憲法の改正手続に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "419AC1000000063",
@@ -831887,13 +831950,13 @@
     "titleKana": "こうぞくのみぶんをはなれたものとうのこせきのとりあつかいとうにかんするほうりつしこうきそく",
     "abbrev": null,
     "category": "民事",
-    "updatedAt": "2026-10-01T14:25:09+09:00",
+    "updatedAt": "2026-10-24T00:08:37+09:00",
     "promulgationDate": "2026-09-16",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "UnEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [],
     "current": null,
     "future": [
