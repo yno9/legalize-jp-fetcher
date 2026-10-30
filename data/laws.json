@@ -468273,13 +468273,13 @@
     "titleKana": "ないかくふせっちほう",
     "abbrev": "中央省庁等改革関連法",
     "category": "行政組織",
-    "updatedAt": "2026-09-25T14:15:48+09:00",
+    "updatedAt": "2026-10-30T10:03:45+09:00",
     "promulgationDate": "1999-07-16",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "UnEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "411AC0000000089_20170401_428AC1000000033",
@@ -469048,33 +469048,33 @@
         "amendmentLawName": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律及び株式会社国際協力銀行法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "411AC0000000089_20261001_507AC0000000070",
+        "enforcedAt": "2026-10-01",
+        "promulgatedAt": "2025-06-18",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000070",
+        "amendmentLawNum": "令和七年法律第七十号",
+        "amendmentLawName": "日本学術会議法",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "411AC0000000089_20261001_507AC0000000070",
-      "enforcedAt": "2026-10-01",
-      "promulgatedAt": "2025-06-18",
+      "revisionId": "411AC0000000089_20261030_508AC1000000078",
+      "enforcedAt": "2026-10-30",
+      "promulgatedAt": "2026-07-31",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000070",
-      "amendmentLawNum": "令和七年法律第七十号",
-      "amendmentLawName": "日本学術会議法",
+      "amendmentLawId": "508AC1000000078",
+      "amendmentLawNum": "令和八年法律第七十八号",
+      "amendmentLawName": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "411AC0000000089_20261030_508AC1000000078",
-        "enforcedAt": "2026-10-30",
-        "promulgatedAt": "2026-07-31",
-        "scheduledEnforcedAt": "2026-10-30",
-        "enforcementComment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC1000000078",
-        "amendmentLawNum": "令和八年法律第七十八号",
-        "amendmentLawName": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "411AC0000000089_20261102_508AC0000000062",
         "enforcedAt": "2026-11-02",
@@ -488859,13 +488859,13 @@
     "titleKana": "ないかくふほんぷそしきれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-10-14T10:06:54+09:00",
+    "updatedAt": "2026-10-30T10:07:20+09:00",
     "promulgationDate": "2000-06-07",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "UnEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "412CO0000000245_20170401_429CO0000000076",
@@ -489394,33 +489394,33 @@
         "amendmentLawName": "内閣府本府組織令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "412CO0000000245_20261001_507CO0000000299",
+        "enforcedAt": "2026-10-01",
+        "promulgatedAt": "2025-08-14",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507CO0000000299",
+        "amendmentLawNum": "令和七年政令第二百九十九号",
+        "amendmentLawName": "日本学術会議法施行令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "412CO0000000245_20261001_507CO0000000299",
-      "enforcedAt": "2026-10-01",
-      "promulgatedAt": "2025-08-14",
+      "revisionId": "412CO0000000245_20261030_508CO0000000302",
+      "enforcedAt": "2026-10-30",
+      "promulgatedAt": "2026-09-30",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507CO0000000299",
-      "amendmentLawNum": "令和七年政令第二百九十九号",
-      "amendmentLawName": "日本学術会議法施行令",
+      "amendmentLawId": "508CO0000000302",
+      "amendmentLawNum": "令和八年政令第三百二号",
+      "amendmentLawName": "内閣府本府組織令の一部を改正する政令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "412CO0000000245_20261030_508CO0000000302",
-        "enforcedAt": "2026-10-30",
-        "promulgatedAt": "2026-09-30",
-        "scheduledEnforcedAt": "2026-10-30",
-        "enforcementComment": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律（令和八年法律第七十八号）の施行の日",
-        "amendmentLawId": "508CO0000000302",
-        "amendmentLawNum": "令和八年政令第三百二号",
-        "amendmentLawName": "内閣府本府組織令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "412CO0000000245_20261102_508CO0000000305",
         "enforcedAt": "2026-11-02",
@@ -639014,7 +639014,7 @@
     "titleKana": "にほんこくけんぽうのかいせいてつづきにかんするほうりつ",
     "abbrev": null,
     "category": "憲法",
-    "updatedAt": "2026-10-24T00:08:10+09:00",
+    "updatedAt": "2026-10-31T00:01:27+09:00",
     "promulgationDate": "2007-05-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -639165,33 +639165,33 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "419AC1000000051_20260521_504AC0000000048",
+        "enforcedAt": "2026-05-21",
+        "promulgatedAt": "2022-05-25",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "504AC0000000048",
+        "amendmentLawNum": "令和四年法律第四十八号",
+        "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "419AC1000000051_20260521_504AC0000000048",
-      "enforcedAt": "2026-05-21",
-      "promulgatedAt": "2022-05-25",
+      "revisionId": "419AC1000000051_20261024_508AC0000000066",
+      "enforcedAt": "2026-10-24",
+      "promulgatedAt": "2026-07-24",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "504AC0000000048",
-      "amendmentLawNum": "令和四年法律第四十八号",
-      "amendmentLawName": "民事訴訟法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000066",
+      "amendmentLawNum": "令和八年法律第六十六号",
+      "amendmentLawName": "皇室典範等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "419AC1000000051_20261024_508AC0000000066",
-        "enforcedAt": "2026-10-24",
-        "promulgatedAt": "2026-07-24",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508AC0000000066",
-        "amendmentLawNum": "令和八年法律第六十六号",
-        "amendmentLawName": "皇室典範等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "419AC1000000051_20261031_508AC1000000073",
         "enforcedAt": "2026-10-31",
@@ -706672,40 +706672,40 @@
     "titleKana": "だいとしちいきにおけるとくべつくのせっちにかんするほうりつ",
     "abbrev": "大都市地域特別区設置法",
     "category": "地方自治",
-    "updatedAt": "2026-08-14T13:09:17+09:00",
+    "updatedAt": "2026-10-30T10:05:40+09:00",
     "promulgationDate": "2012-09-05",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "UnEnforced",
-    "past": [],
-    "current": {
-      "revisionId": "424AC1000000080_20141101_426AC0000000042",
-      "enforcedAt": "2014-11-01",
-      "promulgatedAt": "2014-05-30",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "426AC0000000042",
-      "amendmentLawNum": "平成二十六年法律第四十二号",
-      "amendmentLawName": "地方自治法の一部を改正する法律",
-      "amendmentLawNameKana": "",
-      "amendmentType": "3"
-    },
-    "future": [
+    "currentRevisionStatus": "CurrentEnforced",
+    "past": [
       {
-        "revisionId": "424AC1000000080_20261030_508AC1000000078",
-        "enforcedAt": "2026-10-30",
-        "promulgatedAt": "2026-07-31",
-        "scheduledEnforcedAt": "2026-10-30",
-        "enforcementComment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC1000000078",
-        "amendmentLawNum": "令和八年法律第七十八号",
-        "amendmentLawName": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
-        "amendmentLawNameKana": null,
+        "revisionId": "424AC1000000080_20141101_426AC0000000042",
+        "enforcedAt": "2014-11-01",
+        "promulgatedAt": "2014-05-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "426AC0000000042",
+        "amendmentLawNum": "平成二十六年法律第四十二号",
+        "amendmentLawName": "地方自治法の一部を改正する法律",
+        "amendmentLawNameKana": "",
         "amendmentType": "3"
       }
-    ]
+    ],
+    "current": {
+      "revisionId": "424AC1000000080_20261030_508AC1000000078",
+      "enforcedAt": "2026-10-30",
+      "promulgatedAt": "2026-07-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508AC1000000078",
+      "amendmentLawNum": "令和八年法律第七十八号",
+      "amendmentLawName": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": []
   },
   {
     "lawId": "424AC1000000081",
@@ -830447,29 +830447,27 @@
     "titleKana": "こっかしゃかいきのうけいぞくせいかくほしさくおよびふくしゅとのせいびにかかるしさくのすいしんにかんするほうりつ",
     "abbrev": null,
     "category": "国土開発",
-    "updatedAt": "2026-08-14T13:10:52+09:00",
+    "updatedAt": "2026-10-30T10:02:39+09:00",
     "promulgationDate": "2026-07-31",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "UnEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [],
-    "current": null,
-    "future": [
-      {
-        "revisionId": "508AC1000000078_20261030_000000000000000",
-        "enforcedAt": "2026-10-30",
-        "promulgatedAt": "2026-07-31",
-        "scheduledEnforcedAt": "2026-10-30",
-        "enforcementComment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
-        "amendmentLawId": null,
-        "amendmentLawNum": null,
-        "amendmentLawName": null,
-        "amendmentLawNameKana": null,
-        "amendmentType": "1"
-      }
-    ]
+    "current": {
+      "revisionId": "508AC1000000078_20261030_000000000000000",
+      "enforcedAt": "2026-10-30",
+      "promulgatedAt": "2026-07-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": null,
+      "amendmentLawNum": null,
+      "amendmentLawName": null,
+      "amendmentLawNameKana": null,
+      "amendmentType": "1"
+    },
+    "future": []
   },
   {
     "lawId": "508CO0000000015",
