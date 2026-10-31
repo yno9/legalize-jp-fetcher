@@ -44485,7 +44485,7 @@
     "titleKana": "じどうふくしほうしこうれい",
     "abbrev": "児福法施行令",
     "category": "社会福祉",
-    "updatedAt": "2026-10-01T00:53:11+09:00",
+    "updatedAt": "2026-11-01T00:01:08+09:00",
     "promulgationDate": "1948-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -45140,21 +45140,19 @@
         "amendmentLawName": "児童福祉法施行令等の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "323CO0000000074_20260701_507CO0000000346",
-      "enforcedAt": "2026-07-01",
-      "promulgatedAt": "2025-10-08",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "507CO0000000346",
-      "amendmentLawNum": "令和七年政令第三百四十六号",
-      "amendmentLawName": "児童福祉法施行令の一部を改正する政令",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "323CO0000000074_20260701_507CO0000000346",
+        "enforcedAt": "2026-07-01",
+        "promulgatedAt": "2025-10-08",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507CO0000000346",
+        "amendmentLawNum": "令和七年政令第三百四十六号",
+        "amendmentLawName": "児童福祉法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "323CO0000000074_20261001_508CO0000000274",
         "enforcedAt": "2026-10-01",
@@ -45166,19 +45164,21 @@
         "amendmentLawName": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "323CO0000000074_20261001_508CO0000000074",
-        "enforcedAt": "2026-10-01",
-        "promulgatedAt": "2026-03-27",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508CO0000000074",
-        "amendmentLawNum": "令和八年政令第七十四号",
-        "amendmentLawName": "児童福祉法施行令及び地方自治法施行令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "323CO0000000074_20261001_508CO0000000074",
+      "enforcedAt": "2026-10-01",
+      "promulgatedAt": "2026-03-27",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508CO0000000074",
+      "amendmentLawNum": "令和八年政令第七十四号",
+      "amendmentLawName": "児童福祉法施行令及び地方自治法施行令の一部を改正する政令",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "323CO0000000074_20261101_508CO0000000012",
         "enforcedAt": "2026-11-01",
@@ -72154,7 +72154,7 @@
     "titleKana": "ちほうぜいほう",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-10-16T00:01:17+09:00",
+    "updatedAt": "2026-11-01T00:01:42+09:00",
     "promulgationDate": "1950-07-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -74585,39 +74585,39 @@
         "amendmentLawName": "日本学術会議法",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000226_20261001_507AC0000000007",
+        "enforcedAt": "2026-10-01",
+        "promulgatedAt": "2025-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000007",
+        "amendmentLawNum": "令和七年法律第七号",
+        "amendmentLawName": "地方税法及び地方税法等の一部を改正する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "325AC0000000226_20261001_507AC0000000007",
-      "enforcedAt": "2026-10-01",
-      "promulgatedAt": "2025-03-31",
+      "revisionId": "325AC0000000226_20261016_508AC0000000002",
+      "enforcedAt": "2026-10-16",
+      "promulgatedAt": "2026-03-31",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000007",
-      "amendmentLawNum": "令和七年法律第七号",
-      "amendmentLawName": "地方税法及び地方税法等の一部を改正する法律の一部を改正する法律",
+      "amendmentLawId": "508AC0000000002",
+      "amendmentLawNum": "令和八年法律第二号",
+      "amendmentLawName": "地方税法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
       {
-        "revisionId": "325AC0000000226_20261016_508AC0000000002",
-        "enforcedAt": "2026-10-16",
+        "revisionId": "325AC0000000226_20261101_508AC0000000002",
+        "enforcedAt": "2026-11-01",
         "promulgatedAt": "2026-03-31",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "508AC0000000002",
-        "amendmentLawNum": "令和八年法律第二号",
-        "amendmentLawName": "地方税法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "325AC0000000226_20261119_508AC0000000002",
-        "enforcedAt": "2026-11-19",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": "2026-11-19",
-        "enforcementComment": "物資の流通の効率化に関する法律の一部を改正する法律（令和八年法律第二十一号）の施行の日",
         "amendmentLawId": "508AC0000000002",
         "amendmentLawNum": "令和八年法律第二号",
         "amendmentLawName": "地方税法等の一部を改正する法律",
@@ -80866,13 +80866,13 @@
     "titleKana": "ちほうぜいほうしこうれい",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-09-08T11:15:58+09:00",
+    "updatedAt": "2026-11-01T00:05:46+09:00",
     "promulgationDate": "1950-07-31",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "PreviousEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [
       {
         "revisionId": "325CO0000000245_20170401_429CO0000000118",
@@ -82413,6 +82413,18 @@
     },
     "future": [
       {
+        "revisionId": "325CO0000000245_20261101_508CO0000000083",
+        "enforcedAt": "2026-11-01",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000083",
+        "amendmentLawNum": "令和八年政令第八十三号",
+        "amendmentLawName": "地方税法施行令等の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
         "revisionId": "325CO0000000245_20261101_507CO0000000119",
         "enforcedAt": "2026-11-01",
         "promulgatedAt": "2025-03-31",
@@ -82421,18 +82433,6 @@
         "amendmentLawId": "507CO0000000119",
         "amendmentLawNum": "令和七年政令第百十九号",
         "amendmentLawName": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "325CO0000000245_20261119_508CO0000000083",
-        "enforcedAt": "2026-11-19",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": "2026-11-19",
-        "enforcementComment": "物資の流通の効率化に関する法律の一部を改正する法律（令和八年法律第二十一号）の施行の日",
-        "amendmentLawId": "508CO0000000083",
-        "amendmentLawNum": "令和八年政令第八十三号",
-        "amendmentLawName": "地方税法施行令等の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -82936,7 +82936,7 @@
     "titleKana": "けんちくきじゅんほうしこうれい",
     "abbrev": "建基法施行令",
     "category": "建築・住宅",
-    "updatedAt": "2026-02-18T18:37:00+09:00",
+    "updatedAt": "2026-11-01T00:08:20+09:00",
     "promulgationDate": "1950-11-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -83269,7 +83269,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "325CO0000000338_20261101_508CO0000000284",
+        "enforcedAt": "2026-11-01",
+        "promulgatedAt": "2026-09-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000284",
+        "amendmentLawNum": "令和八年政令第二百八十四号",
+        "amendmentLawName": "建築基準法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "325CO0000000349",
@@ -151990,7 +152003,7 @@
     "titleKana": "ちほうぜいほうしこうきそく",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-10-27T14:52:27+09:00",
+    "updatedAt": "2026-11-01T00:13:30+09:00",
     "promulgationDate": "1954-05-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -172115,7 +172128,7 @@
     "titleKana": "そぜいとくべつそちほう",
     "abbrev": "租特法",
     "category": "国税",
-    "updatedAt": "2026-10-16T00:08:37+09:00",
+    "updatedAt": "2026-11-01T00:15:19+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -174042,33 +174055,33 @@
         "amendmentLawName": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "332AC0000000026_20261001_508AC0000000012",
+        "enforcedAt": "2026-10-01",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000012",
+        "amendmentLawNum": "令和八年法律第十二号",
+        "amendmentLawName": "所得税法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "332AC0000000026_20261001_508AC0000000012",
-      "enforcedAt": "2026-10-01",
-      "promulgatedAt": "2026-03-31",
+      "revisionId": "332AC0000000026_20261016_508AC0000000035",
+      "enforcedAt": "2026-10-16",
+      "promulgatedAt": "2026-06-10",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000012",
-      "amendmentLawNum": "令和八年法律第十二号",
-      "amendmentLawName": "所得税法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000035",
+      "amendmentLawNum": "令和八年法律第三十五号",
+      "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "332AC0000000026_20261016_508AC0000000035",
-        "enforcedAt": "2026-10-16",
-        "promulgatedAt": "2026-06-10",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508AC0000000035",
-        "amendmentLawNum": "令和八年法律第三十五号",
-        "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "332AC0000000026_20261101_507AC0000000013",
         "enforcedAt": "2026-11-01",
@@ -176947,7 +176960,7 @@
     "titleKana": "そぜいとくべつそちほうしこうれい",
     "abbrev": "租特法施行令",
     "category": "国税",
-    "updatedAt": "2026-10-16T00:12:03+09:00",
+    "updatedAt": "2026-11-01T00:18:39+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -178622,33 +178635,33 @@
         "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "332CO0000000043_20260731_508CO0000000098",
+        "enforcedAt": "2026-07-31",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000098",
+        "amendmentLawNum": "令和八年政令第九十八号",
+        "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "332CO0000000043_20260731_508CO0000000098",
-      "enforcedAt": "2026-07-31",
-      "promulgatedAt": "2026-03-31",
+      "revisionId": "332CO0000000043_20261016_508CO0000000270",
+      "enforcedAt": "2026-10-16",
+      "promulgatedAt": "2026-09-04",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508CO0000000098",
-      "amendmentLawNum": "令和八年政令第九十八号",
-      "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
+      "amendmentLawId": "508CO0000000270",
+      "amendmentLawNum": "令和八年政令第二百七十号",
+      "amendmentLawName": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "332CO0000000043_20261016_508CO0000000270",
-        "enforcedAt": "2026-10-16",
-        "promulgatedAt": "2026-09-04",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508CO0000000270",
-        "amendmentLawNum": "令和八年政令第二百七十号",
-        "amendmentLawName": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "332CO0000000043_20261101_507CO0000000127",
         "enforcedAt": "2026-11-01",
@@ -181938,7 +181951,7 @@
     "titleKana": "そぜいとくべつそちほうしこうきそく",
     "abbrev": "租特法施行規則",
     "category": "国税",
-    "updatedAt": "2026-10-09T17:59:05+09:00",
+    "updatedAt": "2026-11-01T00:21:59+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -224652,7 +224665,7 @@
     "titleKana": "こくぜいつうそくほう",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-10-06T13:10:19+09:00",
+    "updatedAt": "2026-11-01T00:24:13+09:00",
     "promulgationDate": "1962-04-02",
     "repealStatus": "None",
     "repealDate": null,
@@ -232175,7 +232188,7 @@
     "titleKana": "こくぜいつうそくほうしこうきそく",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-05-21T01:27:07+09:00",
+    "updatedAt": "2026-11-01T00:24:49+09:00",
     "promulgationDate": "1962-04-02",
     "repealStatus": "None",
     "repealDate": null,
@@ -269511,7 +269524,7 @@
     "titleKana": "とうろくめんきょぜいほう",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-10-19T14:52:41+09:00",
+    "updatedAt": "2026-11-01T00:27:36+09:00",
     "promulgationDate": "1967-06-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -271346,11 +271359,11 @@
     },
     "future": [
       {
-        "revisionId": "342AC0000000035_20261119_508AC0000000021",
-        "enforcedAt": "2026-11-19",
+        "revisionId": "342AC0000000035_20261101_508AC0000000021",
+        "enforcedAt": "2026-11-01",
         "promulgatedAt": "2026-05-20",
-        "scheduledEnforcedAt": "2026-11-19",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000021",
         "amendmentLawNum": "令和八年法律第二十一号",
         "amendmentLawName": "物資の流通の効率化に関する法律の一部を改正する法律",
@@ -345118,7 +345131,7 @@
     "titleKana": "でんしじょうほうしょりそしきによるゆしゅつにゅうとうかんれんぎょうむのしょりとうにかんするほうりつしこうれい",
     "abbrev": "ＮＡＣＣＳ特例法施行令",
     "category": "国税",
-    "updatedAt": "2026-08-24T09:40:58+09:00",
+    "updatedAt": "2026-11-01T00:28:42+09:00",
     "promulgationDate": "1977-06-24",
     "repealStatus": "None",
     "repealDate": null,
@@ -388676,7 +388689,7 @@
     "titleKana": "しょうひぜいほう",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-10-01T03:58:03+09:00",
+    "updatedAt": "2026-11-01T00:29:07+09:00",
     "promulgationDate": "1988-12-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -389319,21 +389332,19 @@
         "amendmentLawName": "地方税法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "363AC0000000108_20260401_506AC0000000008",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2024-03-30",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "506AC0000000008",
-      "amendmentLawNum": "令和六年法律第八号",
-      "amendmentLawName": "所得税法等の一部を改正する法律",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "363AC0000000108_20260401_506AC0000000008",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2024-03-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506AC0000000008",
+        "amendmentLawNum": "令和六年法律第八号",
+        "amendmentLawName": "所得税法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "363AC0000000108_20261001_507AC0000000070",
         "enforcedAt": "2026-10-01",
@@ -389357,19 +389368,21 @@
         "amendmentLawName": "所得税法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "363AC0000000108_20261001_428AC0000000015",
-        "enforcedAt": "2026-10-01",
-        "promulgatedAt": "2016-03-31",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "428AC0000000015",
-        "amendmentLawNum": "平成二十八年法律第十五号",
-        "amendmentLawName": "所得税法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "363AC0000000108_20261001_428AC0000000015",
+      "enforcedAt": "2026-10-01",
+      "promulgatedAt": "2016-03-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "428AC0000000015",
+      "amendmentLawNum": "平成二十八年法律第十五号",
+      "amendmentLawName": "所得税法等の一部を改正する法律",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "363AC0000000108_20261101_507AC0000000013",
         "enforcedAt": "2026-11-01",
@@ -390455,7 +390468,7 @@
     "titleKana": "しょうひぜいほうしこうれい",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-10-01T03:59:04+09:00",
+    "updatedAt": "2026-11-01T00:29:44+09:00",
     "promulgationDate": "1988-12-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -391014,21 +391027,19 @@
         "amendmentLawName": "消費税法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "363CO0000000360_20260901_508CO0000000096",
-      "enforcedAt": "2026-09-01",
-      "promulgatedAt": "2026-03-31",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "508CO0000000096",
-      "amendmentLawNum": "令和八年政令第九十六号",
-      "amendmentLawName": "消費税法施行令の一部を改正する政令",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "363CO0000000360_20260901_508CO0000000096",
+        "enforcedAt": "2026-09-01",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000096",
+        "amendmentLawNum": "令和八年政令第九十六号",
+        "amendmentLawName": "消費税法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "363CO0000000360_20261001_508CO0000000108",
         "enforcedAt": "2026-10-01",
@@ -391040,19 +391051,21 @@
         "amendmentLawName": "消費税法施行令等の一部を改正する政令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "363CO0000000360_20261001_508CO0000000096",
-        "enforcedAt": "2026-10-01",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508CO0000000096",
-        "amendmentLawNum": "令和八年政令第九十六号",
-        "amendmentLawName": "消費税法施行令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "363CO0000000360_20261001_508CO0000000096",
+      "enforcedAt": "2026-10-01",
+      "promulgatedAt": "2026-03-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508CO0000000096",
+      "amendmentLawNum": "令和八年政令第九十六号",
+      "amendmentLawName": "消費税法施行令の一部を改正する政令",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "363CO0000000360_20261101_507CO0000000125",
         "enforcedAt": "2026-11-01",
@@ -391859,7 +391872,7 @@
     "titleKana": "しょうひぜいほうせこうきそく",
     "abbrev": null,
     "category": "国税",
-    "updatedAt": "2026-10-01T03:59:50+09:00",
+    "updatedAt": "2026-11-01T00:30:19+09:00",
     "promulgationDate": "1988-12-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -392310,11 +392323,23 @@
         "amendmentLawName": "消費税法施行規則の一部を改正する省令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "363M50000040053_20260901_508M60000040019",
+        "enforcedAt": "2026-09-01",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000040019",
+        "amendmentLawNum": "令和八年財務省令第十九号",
+        "amendmentLawName": "消費税法施行規則等の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "363M50000040053_20260901_508M60000040019",
-      "enforcedAt": "2026-09-01",
+      "revisionId": "363M50000040053_20261001_508M60000040019",
+      "enforcedAt": "2026-10-01",
       "promulgatedAt": "2026-03-31",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -392325,18 +392350,6 @@
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "363M50000040053_20261001_508M60000040019",
-        "enforcedAt": "2026-10-01",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "508M60000040019",
-        "amendmentLawNum": "令和八年財務省令第十九号",
-        "amendmentLawName": "消費税法施行規則等の一部を改正する省令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "363M50000040053_20261101_507M60000040022",
         "enforcedAt": "2026-11-01",
@@ -542230,7 +542243,7 @@
     "titleKana": "どくりつぎょうせいほうじんてつどうけんせつうんゆしせつせいびしえんきこうほう",
     "abbrev": "鉄運機構法",
     "category": "行政組織",
-    "updatedAt": "2025-06-01T20:44:31+09:00",
+    "updatedAt": "2026-11-01T00:30:46+09:00",
     "promulgationDate": "2002-12-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -542433,11 +542446,11 @@
     },
     "future": [
       {
-        "revisionId": "414AC0000000180_20261119_508AC0000000021",
-        "enforcedAt": "2026-11-19",
+        "revisionId": "414AC0000000180_20261101_508AC0000000021",
+        "enforcedAt": "2026-11-01",
         "promulgatedAt": "2026-05-20",
-        "scheduledEnforcedAt": "2026-11-19",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000021",
         "amendmentLawNum": "令和八年法律第二十一号",
         "amendmentLawName": "物資の流通の効率化に関する法律の一部を改正する法律",
@@ -560460,7 +560473,7 @@
     "titleKana": "こうぞうかいかくとくべつくいきほうしこうれい",
     "abbrev": "特区法施行令,構造改革特区法施行令",
     "category": "地方自治",
-    "updatedAt": "2025-09-10T18:26:27+09:00",
+    "updatedAt": "2026-11-01T00:31:10+09:00",
     "promulgationDate": "2003-03-26",
     "repealStatus": "None",
     "repealDate": null,
@@ -597625,7 +597638,7 @@
     "titleKana": "ぶっしのりゅうつうのこうりつかにかんするほうりつ",
     "abbrev": "物流総合効率化法",
     "category": "産業通則",
-    "updatedAt": "2026-10-16T00:16:29+09:00",
+    "updatedAt": "2026-11-01T00:31:28+09:00",
     "promulgationDate": "2005-07-22",
     "repealStatus": "None",
     "repealDate": null,
@@ -597776,39 +597789,39 @@
         "amendmentLawName": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "417AC0000000085_20260520_508AC0000000021",
+        "enforcedAt": "2026-05-20",
+        "promulgatedAt": "2026-05-20",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000021",
+        "amendmentLawNum": "令和八年法律第二十一号",
+        "amendmentLawName": "物資の流通の効率化に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "417AC0000000085_20260520_508AC0000000021",
-      "enforcedAt": "2026-05-20",
-      "promulgatedAt": "2026-05-20",
+      "revisionId": "417AC0000000085_20261016_508AC0000000035",
+      "enforcedAt": "2026-10-16",
+      "promulgatedAt": "2026-06-10",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000021",
-      "amendmentLawNum": "令和八年法律第二十一号",
-      "amendmentLawName": "物資の流通の効率化に関する法律の一部を改正する法律",
+      "amendmentLawId": "508AC0000000035",
+      "amendmentLawNum": "令和八年法律第三十五号",
+      "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
       {
-        "revisionId": "417AC0000000085_20261016_508AC0000000035",
-        "enforcedAt": "2026-10-16",
-        "promulgatedAt": "2026-06-10",
+        "revisionId": "417AC0000000085_20261101_508AC0000000021",
+        "enforcedAt": "2026-11-01",
+        "promulgatedAt": "2026-05-20",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "508AC0000000035",
-        "amendmentLawNum": "令和八年法律第三十五号",
-        "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "417AC0000000085_20261119_508AC0000000021",
-        "enforcedAt": "2026-11-19",
-        "promulgatedAt": "2026-05-20",
-        "scheduledEnforcedAt": "2026-11-19",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
         "amendmentLawId": "508AC0000000021",
         "amendmentLawNum": "令和八年法律第二十一号",
         "amendmentLawName": "物資の流通の効率化に関する法律の一部を改正する法律",
@@ -598680,7 +598693,7 @@
     "titleKana": "にほんゆうびんかぶしきがいしゃほう",
     "abbrev": null,
     "category": "郵務",
-    "updatedAt": "2026-07-08T13:11:41+09:00",
+    "updatedAt": "2026-11-01T00:31:48+09:00",
     "promulgationDate": "2005-10-21",
     "repealStatus": "None",
     "repealDate": null,
@@ -598799,11 +598812,11 @@
     },
     "future": [
       {
-        "revisionId": "417AC0000000100_20261124_508AC1000000050",
-        "enforcedAt": "2026-11-24",
+        "revisionId": "417AC0000000100_20261101_508AC1000000050",
+        "enforcedAt": "2026-11-01",
         "promulgatedAt": "2026-06-25",
-        "scheduledEnforcedAt": "2026-11-24",
-        "enforcementComment": "公布の日から起算して五月を超えない範囲内において政令で定める日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC1000000050",
         "amendmentLawNum": "令和八年法律第五十号",
         "amendmentLawName": "郵政民営化法等の一部を改正する法律",
@@ -598811,11 +598824,11 @@
         "amendmentType": "3"
       },
       {
-        "revisionId": "417AC0000000100_20261224_508AC1000000050",
-        "enforcedAt": "2026-12-24",
+        "revisionId": "417AC0000000100_20261201_508AC1000000050",
+        "enforcedAt": "2026-12-01",
         "promulgatedAt": "2026-06-25",
-        "scheduledEnforcedAt": "2026-12-24",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC1000000050",
         "amendmentLawNum": "令和八年法律第五十号",
         "amendmentLawName": "郵政民営化法等の一部を改正する法律",
@@ -662107,7 +662120,7 @@
     "titleKana": "ざいむしょうかんけいこうぞうかいかくとくべつくいきほうしこうきそく",
     "abbrev": null,
     "category": "地方自治",
-    "updatedAt": "2024-07-12T15:41:00+09:00",
+    "updatedAt": "2026-11-01T00:32:05+09:00",
     "promulgationDate": "2008-05-21",
     "repealStatus": "None",
     "repealDate": null,
