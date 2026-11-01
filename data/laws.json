@@ -18238,7 +18238,7 @@
     "titleKana": "ざいせいほう",
     "abbrev": null,
     "category": "財務通則",
-    "updatedAt": "2026-07-24T11:39:07+09:00",
+    "updatedAt": "2026-11-02T00:01:22+09:00",
     "promulgationDate": "1947-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -18309,11 +18309,11 @@
     },
     "future": [
       {
-        "revisionId": "322AC0000000034_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "322AC0000000034_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -19572,7 +19572,7 @@
     "titleKana": "ちほうじちほう",
     "abbrev": "地自法",
     "category": "地方自治",
-    "updatedAt": "2026-09-24T00:01:26+09:00",
+    "updatedAt": "2026-11-02T00:02:24+09:00",
     "promulgationDate": "1947-04-17",
     "repealStatus": "None",
     "repealDate": null,
@@ -21787,30 +21787,42 @@
         "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000067_20260916_508AC0000000043",
+        "enforcedAt": "2026-09-16",
+        "promulgatedAt": "2026-06-19",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000043",
+        "amendmentLawNum": "令和八年法律第四十三号",
+        "amendmentLawName": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "322AC0000000067_20260916_508AC0000000043",
-      "enforcedAt": "2026-09-16",
-      "promulgatedAt": "2026-06-19",
+      "revisionId": "322AC0000000067_20260924_506AC0000000065",
+      "enforcedAt": "2026-09-24",
+      "promulgatedAt": "2024-06-26",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000043",
-      "amendmentLawNum": "令和八年法律第四十三号",
-      "amendmentLawName": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+      "amendmentLawId": "506AC0000000065",
+      "amendmentLawNum": "令和六年法律第六十五号",
+      "amendmentLawName": "地方自治法の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
       {
-        "revisionId": "322AC0000000067_20260924_506AC0000000065",
-        "enforcedAt": "2026-09-24",
-        "promulgatedAt": "2024-06-26",
+        "revisionId": "322AC0000000067_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "506AC0000000065",
-        "amendmentLawNum": "令和六年法律第六十五号",
-        "amendmentLawName": "地方自治法の一部を改正する法律",
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -21823,18 +21835,6 @@
         "amendmentLawId": "508AC0000000027",
         "amendmentLawNum": "令和八年法律第二十七号",
         "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "322AC0000000067_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-        "amendmentLawId": "508AC0000000062",
-        "amendmentLawNum": "令和八年法律第六十二号",
-        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -21871,6 +21871,18 @@
         "amendmentLawId": "508AC0000000071",
         "amendmentLawNum": "令和八年法律第七十一号",
         "amendmentLawName": "重要品種の育成及びその種苗の生産の振興に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "322AC0000000067_20270301_508AC0000000031",
+        "enforcedAt": "2027-03-01",
+        "promulgatedAt": "2026-06-05",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000031",
+        "amendmentLawNum": "令和八年法律第三十一号",
+        "amendmentLawName": "健康保険法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -21919,18 +21931,6 @@
         "amendmentLawId": "508AC0000000023",
         "amendmentLawNum": "令和八年法律第二十三号",
         "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "322AC0000000067_20270604_508AC0000000031",
-        "enforcedAt": "2027-06-04",
-        "promulgatedAt": "2026-06-05",
-        "scheduledEnforcedAt": "2027-06-04",
-        "enforcementComment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000031",
-        "amendmentLawNum": "令和八年法律第三十一号",
-        "amendmentLawName": "健康保険法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -22813,7 +22813,7 @@
     "titleKana": "さいがいきゅうじょほう",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:09:52+09:00",
+    "updatedAt": "2026-11-02T00:05:27+09:00",
     "promulgationDate": "1947-10-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -22932,11 +22932,11 @@
     },
     "future": [
       {
-        "revisionId": "322AC0000000118_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "322AC0000000118_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -22957,7 +22957,7 @@
     "titleKana": "こっかこうむいんほう",
     "abbrev": "国公法",
     "category": "国家公務員",
-    "updatedAt": "2026-10-01T00:39:14+09:00",
+    "updatedAt": "2026-11-02T00:07:05+09:00",
     "promulgationDate": "1947-10-21",
     "repealStatus": "None",
     "repealDate": null,
@@ -23216,21 +23216,19 @@
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "322AC0000000120_20260731_508AC0000000028",
-      "enforcedAt": "2026-07-31",
-      "promulgatedAt": "2026-06-03",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "508AC0000000028",
-      "amendmentLawNum": "令和八年法律第二十八号",
-      "amendmentLawName": "国家情報会議設置法",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "322AC0000000120_20260731_508AC0000000028",
+        "enforcedAt": "2026-07-31",
+        "promulgatedAt": "2026-06-03",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000028",
+        "amendmentLawNum": "令和八年法律第二十八号",
+        "amendmentLawName": "国家情報会議設置法",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "322AC0000000120_20261001_507AC0000000070",
         "enforcedAt": "2026-10-01",
@@ -23242,25 +23240,27 @@
         "amendmentLawName": "日本学術会議法",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "322AC0000000120_20261001_507AC0000000043",
+      "enforcedAt": "2026-10-01",
+      "promulgatedAt": "2025-05-23",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "507AC0000000043",
+      "amendmentLawNum": "令和七年法律第四十三号",
+      "amendmentLawName": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
-        "revisionId": "322AC0000000120_20261001_507AC0000000043",
-        "enforcedAt": "2026-10-01",
-        "promulgatedAt": "2025-05-23",
+        "revisionId": "322AC0000000120_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "507AC0000000043",
-        "amendmentLawNum": "令和七年法律第四十三号",
-        "amendmentLawName": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "322AC0000000120_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -26152,7 +26152,7 @@
     "titleKana": "くにのりがいにかんけいのあるそしょうについてのほうむだいじんのけんげんとうにかんするほうりつ",
     "abbrev": "法務大臣権限法",
     "category": "行政組織",
-    "updatedAt": "2026-07-23T13:38:45+09:00",
+    "updatedAt": "2026-11-02T00:12:11+09:00",
     "promulgationDate": "1947-12-17",
     "repealStatus": "None",
     "repealDate": null,
@@ -26211,11 +26211,11 @@
     },
     "future": [
       {
-        "revisionId": "322AC0000000194_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "322AC0000000194_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -30397,7 +30397,7 @@
     "titleKana": "さいがいきゅうじょほうせこうれい",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2025-07-01T00:07:00+09:00",
+    "updatedAt": "2026-11-02T00:12:58+09:00",
     "promulgationDate": "1947-10-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -30454,7 +30454,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "322CO0000000225_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "322CO0000000251",
@@ -36372,7 +36385,7 @@
     "titleKana": "こくゆうざいさんほう",
     "abbrev": null,
     "category": "国有財産",
-    "updatedAt": "2026-07-24T11:42:47+09:00",
+    "updatedAt": "2026-11-02T00:13:39+09:00",
     "promulgationDate": "1948-06-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -36455,11 +36468,11 @@
     },
     "future": [
       {
-        "revisionId": "323AC0000000073_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "323AC0000000073_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -37831,7 +37844,7 @@
     "titleKana": "こっかぎょうせいそしきほう",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-07-23T13:13:47+09:00",
+    "updatedAt": "2026-11-02T00:15:18+09:00",
     "promulgationDate": "1948-07-10",
     "repealStatus": "None",
     "repealDate": null,
@@ -37914,11 +37927,11 @@
     },
     "future": [
       {
-        "revisionId": "323AC0000000120_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "323AC0000000120_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -54163,7 +54176,7 @@
     "titleKana": "こっかこうむいんしゅくしゃほう",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2026-07-24T08:50:45+09:00",
+    "updatedAt": "2026-11-02T00:17:37+09:00",
     "promulgationDate": "1949-05-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -54234,11 +54247,11 @@
     },
     "future": [
       {
-        "revisionId": "324AC0000000117_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "324AC0000000117_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -71350,7 +71363,7 @@
     "titleKana": "ちほうこうふぜいほう",
     "abbrev": "交付税法",
     "category": "地方財政",
-    "updatedAt": "2026-07-23T13:13:17+09:00",
+    "updatedAt": "2026-11-02T00:18:40+09:00",
     "promulgationDate": "1950-05-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -71805,11 +71818,11 @@
     },
     "future": [
       {
-        "revisionId": "325AC0000000211_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "325AC0000000211_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -96867,7 +96880,7 @@
     "titleKana": "りょけんほう",
     "abbrev": null,
     "category": "外事",
-    "updatedAt": "2026-07-24T13:23:28+09:00",
+    "updatedAt": "2026-11-02T00:19:45+09:00",
     "promulgationDate": "1951-11-28",
     "repealStatus": "None",
     "repealDate": null,
@@ -97034,11 +97047,11 @@
     },
     "future": [
       {
-        "revisionId": "326AC0000000267_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "326AC0000000267_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -121150,7 +121163,7 @@
     "titleKana": "ないかくほうせいきょくせっちほうしこうれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2024-06-24T11:15:49+09:00",
+    "updatedAt": "2026-11-02T00:21:33+09:00",
     "promulgationDate": "1952-07-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -121207,7 +121220,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "327CO0000000290_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "327CO0000000307",
@@ -148718,9 +148744,9 @@
     "lawType": "CabinetOrder",
     "title": "日米相互防衛援助協定等に伴う秘密保護法施行令",
     "titleKana": "にちべいそうごぼうえいえんじょきょうていとうにともなうひみつほごほうしこうれい",
-    "abbrev": "日米秘密保護法施行令,ＭＳＡ秘密保護法施行令,ＭＤＡ秘密保護法施行令,防衛秘密保護法施行令",
+    "abbrev": "防衛秘密保護法施行令,日米秘密保護法施行令,ＭＤＡ秘密保護法施行令,ＭＳＡ秘密保護法施行令",
     "category": "防衛",
-    "updatedAt": "2023-07-11T15:56:59+09:00",
+    "updatedAt": "2026-11-02T00:22:11+09:00",
     "promulgationDate": "1954-06-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -148753,7 +148779,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "329CO0000000149_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "329CO0000000150",
@@ -150285,7 +150324,7 @@
     "titleKana": "じえいたいほうせこうれい",
     "abbrev": null,
     "category": "防衛",
-    "updatedAt": "2026-10-15T12:58:33+09:00",
+    "updatedAt": "2026-11-02T00:22:33+09:00",
     "promulgationDate": "1954-06-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -160339,7 +160378,7 @@
     "titleKana": "げんしりょくきほんほう",
     "abbrev": null,
     "category": "工業",
-    "updatedAt": "2026-07-24T11:03:34+09:00",
+    "updatedAt": "2026-11-02T00:23:19+09:00",
     "promulgationDate": "1955-12-19",
     "repealStatus": "None",
     "repealDate": null,
@@ -160398,11 +160437,11 @@
     },
     "future": [
       {
-        "revisionId": "330AC1000000186_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "330AC1000000186_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -168403,7 +168442,7 @@
     "titleKana": "くにのさいけんのかんりとうにかんするほうりつしこうれい",
     "abbrev": "債権管理法施行令",
     "category": "財務通則",
-    "updatedAt": "2025-10-01T03:21:54+09:00",
+    "updatedAt": "2026-11-02T00:23:56+09:00",
     "promulgationDate": "1956-11-10",
     "repealStatus": "None",
     "repealDate": null,
@@ -168556,7 +168595,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "331CO0000000337_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "331CO0000000339",
@@ -193580,7 +193632,7 @@
     "titleKana": "たいふうじょうしゅうちたいのしていきじゅんにかんするせいれい",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2023-11-10T17:17:54+09:00",
+    "updatedAt": "2026-11-02T00:25:38+09:00",
     "promulgationDate": "1958-07-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -193600,7 +193652,20 @@
       "amendmentLawNameKana": "",
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "333CO0000000216_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "333CO0000000226",
@@ -218049,7 +218114,7 @@
     "titleKana": "さいがいたいさくきほんほう",
     "abbrev": "災対法",
     "category": "災害対策",
-    "updatedAt": "2026-09-16T00:04:19+09:00",
+    "updatedAt": "2026-11-02T00:25:53+09:00",
     "promulgationDate": "1961-11-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -218200,39 +218265,39 @@
         "amendmentLawName": "災害対策基本法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "336AC0000000223_20260717_508AC0000000062",
+        "enforcedAt": "2026-07-17",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "336AC0000000223_20260717_508AC0000000062",
-      "enforcedAt": "2026-07-17",
-      "promulgatedAt": "2026-07-17",
+      "revisionId": "336AC0000000223_20260916_508AC0000000043",
+      "enforcedAt": "2026-09-16",
+      "promulgatedAt": "2026-06-19",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000062",
-      "amendmentLawNum": "令和八年法律第六十二号",
-      "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+      "amendmentLawId": "508AC0000000043",
+      "amendmentLawNum": "令和八年法律第四十三号",
+      "amendmentLawName": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
       {
-        "revisionId": "336AC0000000223_20260916_508AC0000000043",
-        "enforcedAt": "2026-09-16",
-        "promulgatedAt": "2026-06-19",
+        "revisionId": "336AC0000000223_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "508AC0000000043",
-        "amendmentLawNum": "令和八年法律第四十三号",
-        "amendmentLawName": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "336AC0000000223_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -229026,7 +229091,7 @@
     "titleKana": "さいがいたいさくきほんほうしこうれい",
     "abbrev": "災対法施行令",
     "category": "災害対策",
-    "updatedAt": "2026-10-15T12:49:24+09:00",
+    "updatedAt": "2026-11-02T00:26:16+09:00",
     "promulgationDate": "1962-07-09",
     "repealStatus": "None",
     "repealDate": null,
@@ -237094,7 +237159,7 @@
     "titleKana": "していとしまたはちゅうかくしのしていがあつたばあいにおけるひつようなじこうをさだめるせいれい",
     "abbrev": null,
     "category": "地方自治",
-    "updatedAt": "2023-05-15T13:23:12+09:00",
+    "updatedAt": "2026-11-02T00:28:25+09:00",
     "promulgationDate": "1963-01-28",
     "repealStatus": "None",
     "repealDate": null,
@@ -237111,6 +237176,18 @@
         "amendmentLawId": "428CO0000000027",
         "amendmentLawNum": "平成二十八年政令第二十七号",
         "amendmentLawName": "農業協同組合法施行令等の一部を改正する等の政令",
+        "amendmentLawNameKana": "",
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "338CO0000000011_20160401_427CO0000000030",
+        "enforcedAt": "2016-04-01",
+        "promulgatedAt": "2015-01-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "427CO0000000030",
+        "amendmentLawNum": "平成二十七年政令第三十号",
+        "amendmentLawName": "地方自治法施行令等の一部を改正する政令",
         "amendmentLawNameKana": "",
         "amendmentType": "3"
       },
@@ -237139,7 +237216,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "338CO0000000011_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "338CO0000000054",
@@ -260973,7 +261063,7 @@
     "titleKana": "ぎょうせいそうだんいいんほう",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-07-23T13:33:30+09:00",
+    "updatedAt": "2026-11-02T00:28:57+09:00",
     "promulgationDate": "1966-06-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -261032,11 +261122,11 @@
     },
     "future": [
       {
-        "revisionId": "341AC0000000099_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "341AC0000000099_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -279819,7 +279909,7 @@
     "titleKana": "しょうひしゃほごきほんほう",
     "abbrev": null,
     "category": "商業",
-    "updatedAt": "2026-07-24T11:10:49+09:00",
+    "updatedAt": "2026-11-02T00:29:35+09:00",
     "promulgationDate": "1968-05-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -279878,11 +279968,11 @@
     },
     "future": [
       {
-        "revisionId": "343AC1000000078_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "343AC1000000078_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -283256,7 +283346,7 @@
     "titleKana": "ぎょうせいきかんのしょくいんのていいんにかんするほうりつ",
     "abbrev": "総定員法",
     "category": "行政組織",
-    "updatedAt": "2026-07-23T13:28:53+09:00",
+    "updatedAt": "2026-11-02T00:30:13+09:00",
     "promulgationDate": "1969-05-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -283315,11 +283405,11 @@
     },
     "future": [
       {
-        "revisionId": "344AC0000000033_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "344AC0000000033_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -285329,7 +285419,7 @@
     "titleKana": "ぎょうせいきかんしょくいんていいんれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-08-17T11:38:04+09:00",
+    "updatedAt": "2026-11-02T00:30:50+09:00",
     "promulgationDate": "1969-05-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -285674,7 +285764,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "344CO0000000121_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "344CO0000000158",
@@ -292148,7 +292251,7 @@
     "titleKana": "こうつうあんぜんたいさくきほんほう",
     "abbrev": null,
     "category": "警察",
-    "updatedAt": "2026-07-23T13:20:47+09:00",
+    "updatedAt": "2026-11-02T00:34:29+09:00",
     "promulgationDate": "1970-06-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -292219,11 +292322,11 @@
     },
     "future": [
       {
-        "revisionId": "345AC0000000110_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "345AC0000000110_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -321133,7 +321236,7 @@
     "titleKana": "さいがいちょういきんのしきゅうとうにかんするほうりつ",
     "abbrev": "災害弔慰金法,災害弔慰金支給法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:17:05+09:00",
+    "updatedAt": "2026-11-02T00:35:17+09:00",
     "promulgationDate": "1973-09-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -321228,11 +321331,11 @@
     },
     "future": [
       {
-        "revisionId": "348AC0100000082_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "348AC0100000082_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -321253,7 +321356,7 @@
     "titleKana": "かつどうかざんたいさくとくべつそちほう",
     "abbrev": "活火山法",
     "category": "災害対策",
-    "updatedAt": "2026-07-24T13:09:52+09:00",
+    "updatedAt": "2026-11-02T00:36:17+09:00",
     "promulgationDate": "1973-07-24",
     "repealStatus": "None",
     "repealDate": null,
@@ -321300,11 +321403,11 @@
     },
     "future": [
       {
-        "revisionId": "348AC1000000061_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "348AC1000000061_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -347824,7 +347927,7 @@
     "titleKana": "だいきぼじしんたいさくとくべつそちほう",
     "abbrev": "大震法,地震対策法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:20:34+09:00",
+    "updatedAt": "2026-11-02T00:36:49+09:00",
     "promulgationDate": "1978-06-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -347967,11 +348070,11 @@
     },
     "future": [
       {
-        "revisionId": "353AC0000000073_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "353AC0000000073_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -349343,7 +349446,7 @@
     "titleKana": "だいきぼじしんたいさくとくべつそちほうしこうれい",
     "abbrev": "大震法施行令,地震対策法施行令",
     "category": "災害対策",
-    "updatedAt": "2025-10-01T06:42:59+09:00",
+    "updatedAt": "2026-11-02T00:38:20+09:00",
     "promulgationDate": "1978-12-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -349484,7 +349587,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "353CO0000000385_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "353M50000002010",
@@ -354457,7 +354573,7 @@
     "titleKana": "はんざいひがいしゃとうきゅうふきんのしきゅうとうによるはんざいひがいしゃとうのしえんにかんするほうりつ",
     "abbrev": "犯給法",
     "category": "警察",
-    "updatedAt": "2024-09-27T00:01:38+09:00",
+    "updatedAt": "2026-11-02T00:39:53+09:00",
     "promulgationDate": "1980-05-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -354550,7 +354666,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "355AC0000000036_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "355AC0000000037",
@@ -355523,7 +355652,7 @@
     "titleKana": "じしんぼうさいたいさくきょうかちいきにおけるじしんたいさくきんきゅうせいびじぎょうにかかるくにのざいせいじょうのとくべつそちにかんするほうりつしこうれい",
     "abbrev": "地震財特法施行令",
     "category": "災害対策",
-    "updatedAt": "2023-11-13T08:39:29+09:00",
+    "updatedAt": "2026-11-02T00:40:48+09:00",
     "promulgationDate": "1980-06-20",
     "repealStatus": "None",
     "repealDate": null,
@@ -355543,7 +355672,20 @@
       "amendmentLawNameKana": "",
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "355CO0000000174_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "355CO0000000178",
@@ -384444,7 +384586,7 @@
     "titleKana": "こくさいきんきゅうえんじょたいのはけんにかんするほうりつ",
     "abbrev": "国際緊急援助隊法,ＪＤＲ法",
     "category": "外事",
-    "updatedAt": "2026-07-24T11:54:49+09:00",
+    "updatedAt": "2026-11-02T00:41:04+09:00",
     "promulgationDate": "1987-09-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -384479,11 +384621,11 @@
     },
     "future": [
       {
-        "revisionId": "362AC0000000093_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "362AC0000000093_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -388432,7 +388574,7 @@
     "titleKana": "たきょくぶんさんがたこくどけいせいそくしんほう",
     "abbrev": "四全総法",
     "category": "国土開発",
-    "updatedAt": "2026-07-24T13:01:48+09:00",
+    "updatedAt": "2026-11-02T00:41:26+09:00",
     "promulgationDate": "1988-06-14",
     "repealStatus": "None",
     "repealDate": null,
@@ -388491,11 +388633,11 @@
     },
     "future": [
       {
-        "revisionId": "363AC0000000083_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "363AC0000000083_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -409352,7 +409494,7 @@
     "titleKana": "こくさいれんごうへいわいじかつどうとうにたいするきょうりょくにかんするほうりつ",
     "abbrev": "ＰＫＯ協力法,国連平和協力法,ＰＫＯ法",
     "category": "外事",
-    "updatedAt": "2026-07-23T16:38:00+09:00",
+    "updatedAt": "2026-11-02T00:42:21+09:00",
     "promulgationDate": "1992-06-19",
     "repealStatus": "None",
     "repealDate": null,
@@ -409483,11 +409625,11 @@
     },
     "future": [
       {
-        "revisionId": "404AC0000000079_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "404AC0000000079_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -410370,9 +410512,9 @@
     "lawType": "CabinetOrder",
     "title": "国際連合平和維持活動等に対する協力に関する法律施行令",
     "titleKana": "こくさいれんごうへいわいじかつどうとうにたいするきょうりょくにかんするほうりつしこうれい",
-    "abbrev": "ＰＫＯ協力法施行令,ＰＫＯ法施行令,国連平和協力法施行令",
+    "abbrev": "ＰＫＯ協力法施行令,国連平和協力法施行令,ＰＫＯ法施行令",
     "category": "外事",
-    "updatedAt": "2024-07-10T14:04:53+09:00",
+    "updatedAt": "2026-11-02T00:43:45+09:00",
     "promulgationDate": "1992-08-07",
     "repealStatus": "None",
     "repealDate": null,
@@ -410441,7 +410583,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "404CO0000000268_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "404CO0000000273",
@@ -414496,7 +414651,7 @@
     "titleKana": "かんきょうきほんほう",
     "abbrev": null,
     "category": "環境保全",
-    "updatedAt": "2026-07-24T11:36:48+09:00",
+    "updatedAt": "2026-11-02T00:44:32+09:00",
     "promulgationDate": "1993-11-19",
     "repealStatus": "None",
     "repealDate": null,
@@ -414567,11 +414722,11 @@
     },
     "future": [
       {
-        "revisionId": "405AC0000000091_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "405AC0000000091_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -430474,7 +430629,7 @@
     "titleKana": "こうれいしゃかいたいさくきほんほう",
     "abbrev": null,
     "category": "労働",
-    "updatedAt": "2026-07-24T11:30:34+09:00",
+    "updatedAt": "2026-11-02T00:45:18+09:00",
     "promulgationDate": "1995-11-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -430533,11 +430688,11 @@
     },
     "future": [
       {
-        "revisionId": "407AC0100000129_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "407AC0100000129_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -431739,7 +431894,7 @@
     "titleKana": "じしんぼうさいたいさくとくべつそちほうしこうれい",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2025-04-02T02:43:34+09:00",
+    "updatedAt": "2026-11-02T00:45:55+09:00",
     "promulgationDate": "1995-07-14",
     "repealStatus": "None",
     "repealDate": null,
@@ -431772,7 +431927,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "407CO0000000295_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "407CO0000000296",
@@ -437144,7 +437312,7 @@
     "titleKana": "とくていひじょうさいがいのひがいしゃのけんりりえきのほぜんとうをはかるためのとくべつそちにかんするほうりつ",
     "abbrev": "特定非常災害法,特定非常災害特別措置法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:04:08+09:00",
+    "updatedAt": "2026-11-02T00:46:19+09:00",
     "promulgationDate": "1996-06-14",
     "repealStatus": "None",
     "repealDate": null,
@@ -437239,11 +437407,11 @@
     },
     "future": [
       {
-        "revisionId": "408AC0000000085_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "408AC0000000085_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -442548,7 +442716,7 @@
     "titleKana": "いっぱんしょくのにんきつきけんきゅういんのさいようきゅうよおよびきんむじかんのとくれいにかんするほうりつ",
     "abbrev": "任期付研究員法",
     "category": "国家公務員",
-    "updatedAt": "2026-07-23T17:05:00+09:00",
+    "updatedAt": "2026-11-02T00:46:36+09:00",
     "promulgationDate": "1997-06-04",
     "repealStatus": "None",
     "repealDate": null,
@@ -442799,11 +442967,11 @@
     },
     "future": [
       {
-        "revisionId": "409AC0000000065_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "409AC0000000065_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -442858,7 +443026,7 @@
     "titleKana": "かんきょうえいきょうひょうかほう",
     "abbrev": "環境アセスメント法,環境アセス法",
     "category": "環境保全",
-    "updatedAt": "2026-07-24T11:43:15+09:00",
+    "updatedAt": "2026-11-02T00:49:20+09:00",
     "promulgationDate": "1997-06-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -442929,11 +443097,11 @@
     },
     "future": [
       {
-        "revisionId": "409AC0000000081_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "409AC0000000081_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -442941,11 +443109,11 @@
         "amendmentType": "3"
       },
       {
-        "revisionId": "409AC0000000081_20270619_507AC0000000073",
-        "enforcedAt": "2027-06-19",
+        "revisionId": "409AC0000000081_20270401_507AC0000000073",
+        "enforcedAt": "2027-04-01",
         "promulgatedAt": "2025-06-20",
-        "scheduledEnforcedAt": "2027-06-19",
-        "enforcementComment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "507AC0000000073",
         "amendmentLawNum": "令和七年法律第七十三号",
         "amendmentLawName": "環境影響評価法の一部を改正する法律",
@@ -454245,7 +454413,7 @@
     "titleKana": "ひさいしゃせいかつさいけんしえんほう",
     "abbrev": "被災者支援法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:24:03+09:00",
+    "updatedAt": "2026-11-02T00:49:38+09:00",
     "promulgationDate": "1998-05-22",
     "repealStatus": "None",
     "repealDate": null,
@@ -454316,11 +454484,11 @@
     },
     "future": [
       {
-        "revisionId": "410AC0100000066_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "410AC0100000066_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -456574,7 +456742,7 @@
     "titleKana": "ひさいしゃせいかつさいけんしえんほうしこうれい",
     "abbrev": "被災者支援法施行令",
     "category": "災害対策",
-    "updatedAt": "2024-05-27T16:18:28+09:00",
+    "updatedAt": "2026-11-02T00:50:25+09:00",
     "promulgationDate": "1998-11-05",
     "repealStatus": "None",
     "repealDate": null,
@@ -456619,7 +456787,20 @@
       "amendmentLawNameKana": "",
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "410CO0000000361_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "410CO0000000363",
@@ -467681,7 +467862,7 @@
     "titleKana": "ぎょうせいきかんのほゆうするじょうほうのこうかいにかんするほうりつ",
     "abbrev": "行政機関情報公開法,情報公開法,行情法",
     "category": "行政手続",
-    "updatedAt": "2026-07-23T13:36:52+09:00",
+    "updatedAt": "2026-11-02T00:50:56+09:00",
     "promulgationDate": "1999-05-14",
     "repealStatus": "None",
     "repealDate": null,
@@ -467752,11 +467933,11 @@
     },
     "future": [
       {
-        "revisionId": "411AC0000000042_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "411AC0000000042_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -467860,7 +468041,7 @@
     "titleKana": "じゅうようえいきょうじたいにさいしてわがくにのへいわおよびあんぜんをかくほするためのそちにかんするほうりつ",
     "abbrev": "ガイドライン関連法,周辺事態法,周辺事態安全確保法",
     "category": "外事",
-    "updatedAt": "2026-07-24T13:03:51+09:00",
+    "updatedAt": "2026-11-02T00:51:43+09:00",
     "promulgationDate": "1999-05-28",
     "repealStatus": "None",
     "repealDate": null,
@@ -467919,11 +468100,11 @@
     },
     "future": [
       {
-        "revisionId": "411AC0000000060_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "411AC0000000060_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -468286,7 +468467,7 @@
     "titleKana": "ないかくふせっちほう",
     "abbrev": "中央省庁等改革関連法",
     "category": "行政組織",
-    "updatedAt": "2026-10-30T10:03:45+09:00",
+    "updatedAt": "2026-11-02T00:52:22+09:00",
     "promulgationDate": "1999-07-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -469126,7 +469307,7 @@
     "titleKana": "そうむしょうせっちほう",
     "abbrev": "中央省庁等改革関連法",
     "category": "行政組織",
-    "updatedAt": "2026-07-23T15:10:16+09:00",
+    "updatedAt": "2026-11-02T00:52:55+09:00",
     "promulgationDate": "1999-07-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -469401,11 +469582,11 @@
     },
     "future": [
       {
-        "revisionId": "411AC0000000091_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "411AC0000000091_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -472691,7 +472872,7 @@
     "titleKana": "げんしりょくさいがいたいさくとくべつそちほう",
     "abbrev": "原災法,原子力災害特措法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T15:44:46+09:00",
+    "updatedAt": "2026-11-02T00:55:56+09:00",
     "promulgationDate": "1999-12-17",
     "repealStatus": "None",
     "repealDate": null,
@@ -472822,11 +473003,11 @@
     },
     "future": [
       {
-        "revisionId": "411AC0000000156_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "411AC0000000156_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -477814,9 +477995,9 @@
     "lawType": "CabinetOrder",
     "title": "重要影響事態に際して我が国の平和及び安全を確保するための措置に関する法律第三条第一項第四号の関係行政機関を定める政令",
     "titleKana": "じゅうようえいきょうじたいにさいしてわがくにのへいわおよびあんぜんをかくほするためのそちにかんするほうりつだいさんじょうだいいっこうだいよんごうのかんけいぎょうせいきかんをさだめるせいれい",
-    "abbrev": "周辺事態安全確保法第三条第一項第四号の関係行政機関を定める政令,周辺事態法第三条第一項第四号の関係行政機関を定める政令,ガイドライン関連法第三条第一項第四号の関係行政機関を定める政令",
+    "abbrev": "ガイドライン関連法第三条第一項第四号の関係行政機関を定める政令,周辺事態法第三条第一項第四号の関係行政機関を定める政令,周辺事態安全確保法第三条第一項第四号の関係行政機関を定める政令",
     "category": "外事",
-    "updatedAt": "2023-05-15T13:29:06+09:00",
+    "updatedAt": "2026-11-02T00:57:22+09:00",
     "promulgationDate": "1999-08-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -477873,7 +478054,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "411CO0000000253_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "411CO0000000279",
@@ -487951,7 +488145,7 @@
     "titleKana": "ぎょうせいきかんのほゆうするじょうほうのこうかいにかんするほうりつしこうれい",
     "abbrev": "行政機関情報公開法施行令,情報公開法施行令",
     "category": "行政手続",
-    "updatedAt": "2026-08-12T13:43:47+09:00",
+    "updatedAt": "2026-11-02T00:58:03+09:00",
     "promulgationDate": "2000-02-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -488056,7 +488250,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "412CO0000000041_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "412CO0000000057",
@@ -488172,7 +488379,7 @@
     "titleKana": "こっかこうむいんりんりきてい",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2026-04-20T10:14:12+09:00",
+    "updatedAt": "2026-11-02T00:59:11+09:00",
     "promulgationDate": "2000-03-28",
     "repealStatus": "None",
     "repealDate": null,
@@ -488241,7 +488448,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "412CO0000000101_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "412CO0000000102",
@@ -488872,7 +489092,7 @@
     "titleKana": "ないかくふほんぷそしきれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-10-30T10:07:20+09:00",
+    "updatedAt": "2026-11-02T00:59:57+09:00",
     "promulgationDate": "2000-06-07",
     "repealStatus": "None",
     "repealDate": null,
@@ -489460,7 +489680,7 @@
     "titleKana": "そうむしょうそしきれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-08-17T11:39:12+09:00",
+    "updatedAt": "2026-11-02T01:06:02+09:00",
     "promulgationDate": "2000-06-07",
     "repealStatus": "None",
     "repealDate": null,
@@ -490021,7 +490241,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "412CO0000000246_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "412CO0000000248",
@@ -508461,7 +508694,7 @@
     "titleKana": "ぎょうせいきかんがおこなうせいさくのひょうかにかんするほうりつ",
     "abbrev": "行政機関政策評価法",
     "category": "行政組織",
-    "updatedAt": "2026-07-23T14:11:49+09:00",
+    "updatedAt": "2026-11-02T01:13:06+09:00",
     "promulgationDate": "2001-06-29",
     "repealStatus": "None",
     "repealDate": null,
@@ -508556,11 +508789,11 @@
     },
     "future": [
       {
-        "revisionId": "413AC0000000086_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "413AC0000000086_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -511926,7 +512159,7 @@
     "titleKana": "でんぱほうしこうれい",
     "abbrev": null,
     "category": "電気通信",
-    "updatedAt": "2026-09-03T00:22:33+09:00",
+    "updatedAt": "2026-11-02T01:14:09+09:00",
     "promulgationDate": "2001-07-23",
     "repealStatus": "None",
     "repealDate": null,
@@ -512053,30 +512286,42 @@
         "amendmentLawName": "電波法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "413CO0000000245_20260731_508CO0000000234",
+        "enforcedAt": "2026-07-31",
+        "promulgatedAt": "2026-07-29",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000234",
+        "amendmentLawNum": "令和八年政令第二百三十四号",
+        "amendmentLawName": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "413CO0000000245_20260731_508CO0000000234",
-      "enforcedAt": "2026-07-31",
-      "promulgatedAt": "2026-07-29",
+      "revisionId": "413CO0000000245_20260903_508CO0000000255",
+      "enforcedAt": "2026-09-03",
+      "promulgatedAt": "2026-08-07",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508CO0000000234",
-      "amendmentLawNum": "令和八年政令第二百三十四号",
-      "amendmentLawName": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+      "amendmentLawId": "508CO0000000255",
+      "amendmentLawNum": "令和八年政令第二百五十五号",
+      "amendmentLawName": "電波法施行令の一部を改正する政令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
       {
-        "revisionId": "413CO0000000245_20260903_508CO0000000255",
-        "enforcedAt": "2026-09-03",
-        "promulgatedAt": "2026-08-07",
+        "revisionId": "413CO0000000245_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "508CO0000000255",
-        "amendmentLawNum": "令和八年政令第二百五十五号",
-        "amendmentLawName": "電波法施行令の一部を改正する政令",
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -512874,7 +513119,7 @@
     "titleKana": "ぎょうせいきかんがおこなうせいさくのひょうかにかんするほうりつせこうれい",
     "abbrev": "行政機関政策評価法施行令",
     "category": "行政組織",
-    "updatedAt": "2021-12-09T00:00:05+09:00",
+    "updatedAt": "2026-11-02T01:15:46+09:00",
     "promulgationDate": "2001-09-27",
     "repealStatus": "None",
     "repealDate": null,
@@ -512907,7 +513152,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "413CO0000000323_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "413CO0000000326",
@@ -514850,7 +515108,7 @@
     "titleKana": "そうむしょうそしききそく",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-08-19T11:54:34+09:00",
+    "updatedAt": "2026-11-02T01:16:10+09:00",
     "promulgationDate": "2001-01-06",
     "repealStatus": "None",
     "repealDate": null,
@@ -515255,7 +515513,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "413M60000008001_20261102_508M60000008118",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-10-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000008118",
+        "amendmentLawNum": "令和八年総務省令第百十八号",
+        "amendmentLawName": "総務省組織規則の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "413M60000008004",
@@ -519105,7 +519376,7 @@
     "titleKana": "もんぶかがくしょうそしききそく",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-10-13T09:44:03+09:00",
+    "updatedAt": "2026-11-02T01:21:08+09:00",
     "promulgationDate": "2001-01-06",
     "repealStatus": "None",
     "repealDate": null,
@@ -540158,7 +540429,7 @@
     "titleKana": "じょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするほうりつ",
     "abbrev": "デジタル手続法,行政手続オンライン化法,デジタル行政推進法",
     "category": "行政手続",
-    "updatedAt": "2026-07-24T09:25:30+09:00",
+    "updatedAt": "2026-11-02T01:25:06+09:00",
     "promulgationDate": "2002-12-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -540397,11 +540668,11 @@
     },
     "future": [
       {
-        "revisionId": "414AC0000000151_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "414AC0000000151_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -542863,7 +543134,7 @@
     "titleKana": "こうぞうかいかくとくべつくいきほう",
     "abbrev": "特区法,構造改革特区法",
     "category": "地方自治",
-    "updatedAt": "2026-10-27T16:17:12+09:00",
+    "updatedAt": "2026-11-02T01:25:27+09:00",
     "promulgationDate": "2002-12-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -544045,7 +544316,7 @@
     "titleKana": "なんかいとらふじしんにかかるじしんぼうさいたいさくのすいしんにかんするとくべつそちほう",
     "abbrev": "南海トラフ法",
     "category": "災害対策",
-    "updatedAt": "2026-07-24T13:19:07+09:00",
+    "updatedAt": "2026-11-02T01:26:07+09:00",
     "promulgationDate": "2002-07-26",
     "repealStatus": "None",
     "repealDate": null,
@@ -544140,11 +544411,11 @@
     },
     "future": [
       {
-        "revisionId": "414AC1000000092_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "414AC1000000092_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -556699,7 +556970,7 @@
     "titleKana": "こじんじょうほうのほごにかんするほうりつ",
     "abbrev": "個人情報保護法",
     "category": "憲法",
-    "updatedAt": "2026-10-06T09:16:37+09:00",
+    "updatedAt": "2026-11-02T01:26:24+09:00",
     "promulgationDate": "2003-05-30",
     "repealStatus": "None",
     "repealDate": null,
@@ -557450,7 +557721,7 @@
     "titleKana": "ぶりょくこうげきじたいとうおよびそんりつききじたいにおけるわがくにのへいわとどくりつならびにくにおよびこくみんのあんぜんのかくほにかんするほうりつ",
     "abbrev": "武力攻撃事態対処法,事態対処法",
     "category": "外事",
-    "updatedAt": "2026-07-24T13:07:47+09:00",
+    "updatedAt": "2026-11-02T01:26:51+09:00",
     "promulgationDate": "2003-06-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -557509,11 +557780,11 @@
     },
     "future": [
       {
-        "revisionId": "415AC0000000079_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "415AC0000000079_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -561190,7 +561461,7 @@
     "titleKana": "ぶりょくこうげきじたいとうおよびそんりつききじたいにおけるわがくにのへいわとどくりつならびにくにおよびこくみんのあんぜんのかくほにかんするほうりつしこうれい",
     "abbrev": "武力攻撃事態対処法施行令,事態対処法施行令",
     "category": "外事",
-    "updatedAt": "2026-07-07T11:15:29+09:00",
+    "updatedAt": "2026-11-02T01:27:34+09:00",
     "promulgationDate": "2003-06-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -561343,7 +561614,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "415CO0000000252_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "415CO0000000263",
@@ -561810,7 +562094,7 @@
     "titleKana": "なんかいとらふじしんにかかるじしんぼうさいたいさくのすいしんにかんするとくべつそちほうしこうれい",
     "abbrev": "南海トラフ法施行令",
     "category": "災害対策",
-    "updatedAt": "2026-04-14T09:41:35+09:00",
+    "updatedAt": "2026-11-02T01:29:05+09:00",
     "promulgationDate": "2003-07-24",
     "repealStatus": "None",
     "repealDate": null,
@@ -561963,7 +562247,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "415CO0000000324_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "415CO0000000326",
@@ -562839,7 +563136,7 @@
     "titleKana": "じせだいいくせいしえんたいさくすいしんほうせこうれい",
     "abbrev": "次世代法施行令",
     "category": "社会福祉",
-    "updatedAt": "2022-03-30T00:10:19+09:00",
+    "updatedAt": "2026-11-02T01:30:46+09:00",
     "promulgationDate": "2003-08-08",
     "repealStatus": "None",
     "repealDate": null,
@@ -562872,7 +563169,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "415CO0000000372_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "415CO0000000379",
@@ -565026,7 +565336,7 @@
     "titleKana": "こじんじょうほうのほごにかんするほうりつしこうれい",
     "abbrev": "個人情報保護法施行令",
     "category": "憲法",
-    "updatedAt": "2026-10-15T10:19:43+09:00",
+    "updatedAt": "2026-11-02T01:31:09+09:00",
     "promulgationDate": "2003-12-10",
     "repealStatus": "None",
     "repealDate": null,
@@ -579916,7 +580226,7 @@
     "titleKana": "ぶりょくこうげきじたいとうにおけるこくみんのほごのためのそちにかんするほうりつ",
     "abbrev": "国民保護法",
     "category": "外事",
-    "updatedAt": "2026-09-16T00:08:35+09:00",
+    "updatedAt": "2026-11-02T01:33:25+09:00",
     "promulgationDate": "2004-06-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -580031,39 +580341,39 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "416AC0000000112_20250701_507AC0000000051",
+        "enforcedAt": "2025-07-01",
+        "promulgatedAt": "2025-06-04",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000051",
+        "amendmentLawNum": "令和七年法律第五十一号",
+        "amendmentLawName": "災害対策基本法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "416AC0000000112_20250701_507AC0000000051",
-      "enforcedAt": "2025-07-01",
-      "promulgatedAt": "2025-06-04",
+      "revisionId": "416AC0000000112_20260916_508AC0000000043",
+      "enforcedAt": "2026-09-16",
+      "promulgatedAt": "2026-06-19",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000051",
-      "amendmentLawNum": "令和七年法律第五十一号",
-      "amendmentLawName": "災害対策基本法等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000043",
+      "amendmentLawNum": "令和八年法律第四十三号",
+      "amendmentLawName": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
       {
-        "revisionId": "416AC0000000112_20260916_508AC0000000043",
-        "enforcedAt": "2026-09-16",
-        "promulgatedAt": "2026-06-19",
+        "revisionId": "416AC0000000112_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "508AC0000000043",
-        "amendmentLawNum": "令和八年法律第四十三号",
-        "amendmentLawName": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "416AC0000000112_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -580091,18 +580401,6 @@
         "amendmentLawId": "507AC0000000037",
         "amendmentLawNum": "令和七年法律第三十七号",
         "amendmentLawName": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "416AC0000000112_20270604_508AC0000000031",
-        "enforcedAt": "2027-06-04",
-        "promulgatedAt": "2026-06-05",
-        "scheduledEnforcedAt": "2027-06-04",
-        "enforcementComment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000031",
-        "amendmentLawNum": "令和八年法律第三十一号",
-        "amendmentLawName": "健康保険法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -580641,7 +580939,7 @@
     "titleKana": "こうえきつうほうしゃほごほう",
     "abbrev": null,
     "category": "労働",
-    "updatedAt": "2026-07-24T11:17:19+09:00",
+    "updatedAt": "2026-11-02T01:33:51+09:00",
     "promulgationDate": "2004-06-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -580748,6 +581046,18 @@
     },
     "future": [
       {
+        "revisionId": "416AC0000000122_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
         "revisionId": "416AC0000000122_20261201_507AC0000000062",
         "enforcedAt": "2026-12-01",
         "promulgatedAt": "2025-06-11",
@@ -580756,18 +581066,6 @@
         "amendmentLawId": "507AC0000000062",
         "amendmentLawNum": "令和七年法律第六十二号",
         "amendmentLawName": "公益通報者保護法の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "416AC0000000122_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-        "amendmentLawId": "508AC0000000062",
-        "amendmentLawNum": "令和八年法律第六十二号",
-        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -581467,7 +581765,7 @@
     "titleKana": "みんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするほうりつ",
     "abbrev": "電子文書法,ｅ－文書法",
     "category": "行政手続",
-    "updatedAt": "2026-07-23T13:08:28+09:00",
+    "updatedAt": "2026-11-02T01:34:09+09:00",
     "promulgationDate": "2004-12-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -581574,11 +581872,11 @@
     },
     "future": [
       {
-        "revisionId": "416AC0000000149_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "416AC0000000149_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -582210,7 +582508,7 @@
     "titleKana": "にほんかいこうちしまかいこうしゅうへんかいこうがたじしんにかかるじしんぼうさいたいさくのすいしんにかんするとくべつそちほう",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:29:42+09:00",
+    "updatedAt": "2026-11-02T01:35:18+09:00",
     "promulgationDate": "2004-04-02",
     "repealStatus": "None",
     "repealDate": null,
@@ -582293,11 +582591,11 @@
     },
     "future": [
       {
-        "revisionId": "416AC1000000027_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "416AC1000000027_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -584612,7 +584910,7 @@
     "titleKana": "ぶりょくこうげきじたいとうにおけるこくみんのほごのためのそちにかんするほうりつしこうれい",
     "abbrev": "国民保護法施行令",
     "category": "外事",
-    "updatedAt": "2026-07-17T17:33:29+09:00",
+    "updatedAt": "2026-11-02T01:35:36+09:00",
     "promulgationDate": "2004-09-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -584981,7 +585279,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "416CO0000000275_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "416CO0000000278",
@@ -586189,7 +586500,7 @@
     "titleKana": "ぶりょくこうげきじたいおよびそんりつききじたいにおけるがいこくぐんようひんとうのかいじょうゆそうのきせいにかんするほうりつしこうれい",
     "abbrev": "外国軍用品等海上輸送規制法施行令",
     "category": "外事",
-    "updatedAt": "2024-03-12T15:25:41+09:00",
+    "updatedAt": "2026-11-02T01:39:27+09:00",
     "promulgationDate": "2004-12-10",
     "repealStatus": "None",
     "repealDate": null,
@@ -586222,7 +586533,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "416CO0000000392_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "416CO0000000393",
@@ -603804,7 +604128,7 @@
     "titleKana": "にほんかいこうちしまかいこうしゅうへんかいこうがたじしんにかかるじしんぼうさいたいさくのすいしんにかんするとくべつそちほうしこうれい",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2026-04-14T09:42:06+09:00",
+    "updatedAt": "2026-11-02T01:39:51+09:00",
     "promulgationDate": "2005-08-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -603945,7 +604269,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "417CO0000000282_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "417CO0000000289",
@@ -619436,7 +619773,7 @@
     "titleKana": "きょうそうのどうにゅうによるこうきょうさーびすのかいかくにかんするほうりつ",
     "abbrev": "公共サービス改革法,市場化テスト法",
     "category": "産業通則",
-    "updatedAt": "2026-07-23T15:41:00+09:00",
+    "updatedAt": "2026-11-02T01:41:23+09:00",
     "promulgationDate": "2006-06-02",
     "repealStatus": "None",
     "repealDate": null,
@@ -619639,11 +619976,11 @@
     },
     "future": [
       {
-        "revisionId": "418AC0000000051_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "418AC0000000051_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -620871,7 +621208,7 @@
     "titleKana": "どうしゅうせいとくべつくいきにおけるこういきぎょうせいのすいしんにかんするほうりつ",
     "abbrev": "道州制特区法,道州制特区推進法",
     "category": "地方自治",
-    "updatedAt": "2026-07-23T15:48:10+09:00",
+    "updatedAt": "2026-11-02T01:44:47+09:00",
     "promulgationDate": "2006-12-20",
     "repealStatus": "None",
     "repealDate": null,
@@ -621014,11 +621351,11 @@
     },
     "future": [
       {
-        "revisionId": "418AC0000000116_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "418AC0000000116_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -640703,7 +641040,7 @@
     "titleKana": "とくべつかいけいにかんするほうりつせこうれい",
     "abbrev": "特別会計法施行令,特会法施行令",
     "category": "財務通則",
-    "updatedAt": "2026-10-01T05:44:06+09:00",
+    "updatedAt": "2026-11-02T01:45:10+09:00",
     "promulgationDate": "2007-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -641120,7 +641457,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "419CO0000000124_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "419CO0000000127",
@@ -655615,7 +655965,7 @@
     "titleKana": "かがくぎじゅついのべーしょんそうしゅつのかっせいかにかんするほうりつ",
     "abbrev": "研究開発力強化法,科技イノベ活性化法",
     "category": "産業通則",
-    "updatedAt": "2026-07-23T12:08:43+09:00",
+    "updatedAt": "2026-11-02T01:49:37+09:00",
     "promulgationDate": "2008-06-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -655758,14 +656108,26 @@
     },
     "future": [
       {
-        "revisionId": "420AC0100000063_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "420AC0100000063_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "420AC0100000063_20270416_508AC0000000059",
+        "enforcedAt": "2027-04-16",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": "2027-04-16",
+        "enforcementComment": "公布の日から起算して九月を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000059",
+        "amendmentLawNum": "令和八年法律第五十九号",
+        "amendmentLawName": "科学技術・イノベーション創出の活性化に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -656175,7 +656537,7 @@
     "titleKana": "おうむしんりきょうはんざいひがいしゃとうをきゅうさいするためのきゅうふきんのしきゅうにかんするほうりつ",
     "abbrev": "オウム真理教犯罪被害者救済法",
     "category": "厚生",
-    "updatedAt": "2025-06-11T08:23:21+09:00",
+    "updatedAt": "2026-11-02T01:49:59+09:00",
     "promulgationDate": "2008-06-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -656269,6 +656631,18 @@
       "amendmentType": "3"
     },
     "future": [
+      {
+        "revisionId": "420AC1000000080_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "420AC1000000080_20270331_507AC0000000039",
         "enforcedAt": "2027-03-31",
@@ -659094,7 +659468,7 @@
     "titleKana": "しょくいんのたいしょくかんりにかんするせいれい",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2026-10-08T14:01:32+09:00",
+    "updatedAt": "2026-11-02T01:50:17+09:00",
     "promulgationDate": "2008-12-25",
     "repealStatus": "None",
     "repealDate": null,
@@ -670823,7 +671197,7 @@
     "titleKana": "こうぶんしょとうのかんりにかんするほうりつ",
     "abbrev": "公文書管理法",
     "category": "行政手続",
-    "updatedAt": "2026-10-27T16:25:23+09:00",
+    "updatedAt": "2026-11-02T01:50:45+09:00",
     "promulgationDate": "2009-07-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -672025,7 +672399,7 @@
     "titleKana": "ひょうじゅんてきなかんしょくをさだめるせいれい",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2026-08-06T15:28:58+09:00",
+    "updatedAt": "2026-11-02T01:51:05+09:00",
     "promulgationDate": "2009-03-06",
     "repealStatus": "None",
     "repealDate": null,
@@ -672130,7 +672504,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "421CO0000000030_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "421CO0000000031",
@@ -683416,7 +683803,7 @@
     "titleKana": "こうぶんしょとうのかんりにかんするほうりつせこうれい",
     "abbrev": "公文書管理法施行令",
     "category": "行政手続",
-    "updatedAt": "2024-12-02T02:44:48+09:00",
+    "updatedAt": "2026-11-02T01:52:12+09:00",
     "promulgationDate": "2010-12-22",
     "repealStatus": "None",
     "repealDate": null,
@@ -683485,7 +683872,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "422CO0000000250_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "422CO0000000257",
@@ -689401,7 +689801,7 @@
     "titleKana": "そうごうとくべつくいきほう",
     "abbrev": "総合特区法",
     "category": "地方自治",
-    "updatedAt": "2026-07-23T16:08:09+09:00",
+    "updatedAt": "2026-11-02T01:52:58+09:00",
     "promulgationDate": "2011-06-29",
     "repealStatus": "None",
     "repealDate": null,
@@ -689628,6 +690028,18 @@
     },
     "future": [
       {
+        "revisionId": "423AC0000000081_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
         "revisionId": "423AC0000000081_20261204_508AC0000000029",
         "enforcedAt": "2026-12-04",
         "promulgatedAt": "2026-06-05",
@@ -689636,18 +690048,6 @@
         "amendmentLawId": "508AC0000000029",
         "amendmentLawNum": "令和八年法律第二十九号",
         "amendmentLawName": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "423AC0000000081_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-        "amendmentLawId": "508AC0000000062",
-        "amendmentLawNum": "令和八年法律第六十二号",
-        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -690735,7 +691135,7 @@
     "titleKana": "ひがしにほんだいしんさいふっこうとくべつくいきほう",
     "abbrev": "復興特区法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:35:02+09:00",
+    "updatedAt": "2026-11-02T01:53:24+09:00",
     "promulgationDate": "2011-12-14",
     "repealStatus": "None",
     "repealDate": null,
@@ -691010,6 +691410,18 @@
     },
     "future": [
       {
+        "revisionId": "423AC0000000122_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
         "revisionId": "423AC0000000122_20261204_508AC0000000029",
         "enforcedAt": "2026-12-04",
         "promulgatedAt": "2026-06-05",
@@ -691018,18 +691430,6 @@
         "amendmentLawId": "508AC0000000029",
         "amendmentLawNum": "令和八年法律第二十九号",
         "amendmentLawName": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "423AC0000000122_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-        "amendmentLawId": "508AC0000000062",
-        "amendmentLawNum": "令和八年法律第六十二号",
-        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -691047,7 +691447,7 @@
     "titleKana": "つなみぼうさいちいきづくりにかんするほうりつ",
     "abbrev": "津波防災地域づくり法",
     "category": "都市計画",
-    "updatedAt": "2026-07-23T13:49:52+09:00",
+    "updatedAt": "2026-11-02T01:53:50+09:00",
     "promulgationDate": "2011-12-14",
     "repealStatus": "None",
     "repealDate": null,
@@ -691166,11 +691566,11 @@
     },
     "future": [
       {
-        "revisionId": "423AC0000000123_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "423AC0000000123_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -691191,7 +691591,7 @@
     "titleKana": "ふっこうちょうせっちほう",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-07-23T14:25:28+09:00",
+    "updatedAt": "2026-11-02T01:55:10+09:00",
     "promulgationDate": "2011-12-16",
     "repealStatus": "None",
     "repealDate": null,
@@ -691466,11 +691866,11 @@
     },
     "future": [
       {
-        "revisionId": "423AC0000000125_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "423AC0000000125_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -691822,7 +692222,7 @@
     "titleKana": "かぶしきがいしゃひがしにほんだいしんさいじぎょうしゃさいせいしえんきこうほう",
     "abbrev": null,
     "category": "産業通則",
-    "updatedAt": "2026-07-31T16:49:59+09:00",
+    "updatedAt": "2026-11-02T01:55:32+09:00",
     "promulgationDate": "2011-11-28",
     "repealStatus": "None",
     "repealDate": null,
@@ -691989,11 +692389,11 @@
     },
     "future": [
       {
-        "revisionId": "423AC0100000113_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "423AC0100000113_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -696644,7 +697044,7 @@
     "titleKana": "ひがしにほんだいしんさいふっこうとくべつくいきほうしこうれい",
     "abbrev": "復興特区法施行令",
     "category": "災害対策",
-    "updatedAt": "2026-07-07T10:25:45+09:00",
+    "updatedAt": "2026-11-02T01:57:26+09:00",
     "promulgationDate": "2011-12-22",
     "repealStatus": "None",
     "repealDate": null,
@@ -696797,7 +697197,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "423CO0000000409_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "423CO0000000413",
@@ -704246,7 +704659,7 @@
     "titleKana": "ふくしまふっこうさいせいとくべつそちほう",
     "abbrev": "福島復興再生特措法,福島特措法",
     "category": "災害対策",
-    "updatedAt": "2026-07-24T11:34:02+09:00",
+    "updatedAt": "2026-11-02T01:59:05+09:00",
     "promulgationDate": "2012-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -704593,11 +705006,11 @@
     },
     "future": [
       {
-        "revisionId": "424AC0000000025_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "424AC0000000025_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -704618,7 +705031,7 @@
     "titleKana": "しんがたいんふるえんざとうたいさくとくべつそちほう",
     "abbrev": null,
     "category": "厚生",
-    "updatedAt": "2026-07-24T12:07:29+09:00",
+    "updatedAt": "2026-11-02T02:03:24+09:00",
     "promulgationDate": "2012-05-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -704893,14 +705306,26 @@
     },
     "future": [
       {
-        "revisionId": "424AC0000000031_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "424AC0000000031_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "424AC0000000031_20270130_508AC0000000076",
+        "enforcedAt": "2027-01-30",
+        "promulgatedAt": "2026-07-31",
+        "scheduledEnforcedAt": "2027-01-30",
+        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000076",
+        "amendmentLawNum": "令和八年法律第七十六号",
+        "amendmentLawName": "予防接種法の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -707302,7 +707727,7 @@
     "titleKana": "ふっこうちょうそしきれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-04-20T10:10:28+09:00",
+    "updatedAt": "2026-11-02T02:03:47+09:00",
     "promulgationDate": "2012-02-01",
     "repealStatus": "None",
     "repealDate": null,
@@ -707563,7 +707988,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "424CO0000000022_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "424CO0000000023",
@@ -707774,7 +708212,7 @@
     "titleKana": "かぶしきがいしゃひがしにほんだいしんさいじぎょうしゃさいせいしえんきこうほうせこうれい",
     "abbrev": null,
     "category": "産業通則",
-    "updatedAt": "2022-04-25T13:15:51+09:00",
+    "updatedAt": "2026-11-02T02:06:19+09:00",
     "promulgationDate": "2012-02-22",
     "repealStatus": "None",
     "repealDate": null,
@@ -707807,7 +708245,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "424CO0000000037_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "424CO0000000040",
@@ -708428,11 +708879,11 @@
     "lawNumType": "CabinetOrder",
     "lawNumNum": "185",
     "lawType": "CabinetOrder",
-    "title": "内閣府設置法第四条第三項第七号の七の人工衛星等を定める政令",
-    "titleKana": "ないかくふせっちほうだいよんじょうだいさんこうだいななごうのななのじんこうえいせいとうをさだめるせいれい",
+    "title": "内閣府設置法第四条第三項第八号の人工衛星等を定める政令",
+    "titleKana": "ないかくふせっちほうだいよんじょうだいさんこうだいはちごうのじんこうえいせいとうをさだめるせいれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2024-03-14T09:53:39+09:00",
+    "updatedAt": "2026-11-02T02:06:42+09:00",
     "promulgationDate": "2012-07-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -708465,7 +708916,20 @@
       "amendmentLawNameKana": "",
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "424CO0000000185_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "424CO0000000186",
@@ -717082,7 +717546,7 @@
     "titleKana": "だいきぼさいがいからのふっこうにかんするほうりつ",
     "abbrev": "大規模災害復興法",
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:43:10+09:00",
+    "updatedAt": "2026-11-02T02:07:04+09:00",
     "promulgationDate": "2013-06-21",
     "repealStatus": "None",
     "repealDate": null,
@@ -717249,11 +717713,11 @@
     },
     "future": [
       {
-        "revisionId": "425AC0000000055_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "425AC0000000055_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -717382,7 +717846,7 @@
     "titleKana": "しょうがいをりゆうとするさべつのかいしょうのすいしんにかんするほうりつ",
     "abbrev": "障害者差別解消法",
     "category": "社会福祉",
-    "updatedAt": "2026-07-23T16:30:12+09:00",
+    "updatedAt": "2026-11-02T02:07:25+09:00",
     "promulgationDate": "2013-06-26",
     "repealStatus": "None",
     "repealDate": null,
@@ -717453,11 +717917,11 @@
     },
     "future": [
       {
-        "revisionId": "425AC0000000065_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "425AC0000000065_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -718607,7 +719071,7 @@
     "titleKana": "さんぎょうきょうそうりょくきょうかほう",
     "abbrev": null,
     "category": "産業通則",
-    "updatedAt": "2026-10-01T06:07:17+09:00",
+    "updatedAt": "2026-11-02T02:08:11+09:00",
     "promulgationDate": "2013-12-11",
     "repealStatus": "None",
     "repealDate": null,
@@ -719026,6 +719490,18 @@
     },
     "future": [
       {
+        "revisionId": "425AC0000000098_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
         "revisionId": "425AC0000000098_20261204_508AC0000000029",
         "enforcedAt": "2026-12-04",
         "promulgatedAt": "2026-06-05",
@@ -719034,18 +719510,6 @@
         "amendmentLawId": "508AC0000000029",
         "amendmentLawNum": "令和八年法律第二十九号",
         "amendmentLawName": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "425AC0000000098_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-        "amendmentLawId": "508AC0000000062",
-        "amendmentLawNum": "令和八年法律第六十二号",
-        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -719422,7 +719886,7 @@
     "titleKana": "こっかせんりゃくとくべつくいきほう",
     "abbrev": "国家戦略特区法",
     "category": "国土開発",
-    "updatedAt": "2026-07-31T16:48:56+09:00",
+    "updatedAt": "2026-11-02T02:08:41+09:00",
     "promulgationDate": "2013-12-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -720273,6 +720737,18 @@
     },
     "future": [
       {
+        "revisionId": "425AC0000000107_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
         "revisionId": "425AC0000000107_20261204_508AC0000000029",
         "enforcedAt": "2026-12-04",
         "promulgatedAt": "2026-06-05",
@@ -720281,18 +720757,6 @@
         "amendmentLawId": "508AC0000000029",
         "amendmentLawNum": "令和八年法律第二十九号",
         "amendmentLawName": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
-      {
-        "revisionId": "425AC0000000107_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
-        "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-        "amendmentLawId": "508AC0000000062",
-        "amendmentLawNum": "令和八年法律第六十二号",
-        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -720346,7 +720810,7 @@
     "titleKana": "とくていひみつのほごにかんするほうりつ",
     "abbrev": "特定秘密法,特定秘密保護法",
     "category": "防衛",
-    "updatedAt": "2026-07-24T13:05:56+09:00",
+    "updatedAt": "2026-11-02T02:09:18+09:00",
     "promulgationDate": "2013-12-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -720477,11 +720941,11 @@
     },
     "future": [
       {
-        "revisionId": "425AC0000000108_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "425AC0000000108_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -720973,7 +721437,7 @@
     "titleKana": "しゅとちょっかじしんたいさくとくべつそちほう",
     "abbrev": null,
     "category": "災害対策",
-    "updatedAt": "2026-07-23T14:50:28+09:00",
+    "updatedAt": "2026-11-02T02:09:37+09:00",
     "promulgationDate": "2013-11-29",
     "repealStatus": "None",
     "repealDate": null,
@@ -721032,11 +721496,11 @@
     },
     "future": [
       {
-        "revisionId": "425AC1000000088_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "425AC1000000088_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -721961,7 +722425,7 @@
     "titleKana": "しんがたいんふるえんざとうたいさくとくべつそちほうしこうれい",
     "abbrev": null,
     "category": "厚生",
-    "updatedAt": "2026-07-07T11:01:10+09:00",
+    "updatedAt": "2026-11-02T02:09:54+09:00",
     "promulgationDate": "2013-04-12",
     "repealStatus": "None",
     "repealDate": null,
@@ -722234,7 +722698,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "425CO0000000122_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "425CO0000000126",
@@ -722527,7 +723004,7 @@
     "titleKana": "だいきぼさいがいからのふっこうにかんするほうりつしこうれい",
     "abbrev": "大規模災害復興法施行令",
     "category": "災害対策",
-    "updatedAt": "2026-10-01T17:50:31+09:00",
+    "updatedAt": "2026-11-02T02:12:52+09:00",
     "promulgationDate": "2013-08-19",
     "repealStatus": "None",
     "repealDate": null,
@@ -722740,7 +723217,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "425CO0000000237_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "425CO0000000239",
@@ -724085,7 +724575,7 @@
     "titleKana": "こっかこうむいんたいしょくてあてほうのきていによるそうきたいしょくきぼうしゃのぼしゅうおよびにんていのせいどにかかるしょめんのようしきとうをさだめるないかくかんぼうれい",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2026-04-10T09:49:50+09:00",
+    "updatedAt": "2026-11-02T02:15:17+09:00",
     "promulgationDate": "2013-05-24",
     "repealStatus": "None",
     "repealDate": null,
@@ -724166,7 +724656,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "425M60000008058_20261102_508M60000001010",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-10-22",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000001010",
+        "amendmentLawNum": "令和八年内閣官房令第十号",
+        "amendmentLawName": "国家公務員退職手当法の規定による早期退職希望者の募集及び認定の制度に係る書面の様式等を定める内閣官房令及び国家公務員退職手当法附則第十二項、第十四項及び第十六項の規定による退職手当の基本額の特例等に関する内閣官房令の一部を改正する内閣官房令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "425M60000010008",
@@ -733153,7 +733656,7 @@
     "titleKana": "かんぶしょくいんのにんようとうにかんするせいれい",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2023-05-15T13:20:45+09:00",
+    "updatedAt": "2026-11-02T02:16:11+09:00",
     "promulgationDate": "2014-05-29",
     "repealStatus": "None",
     "repealDate": null,
@@ -733170,6 +733673,18 @@
         "amendmentLawId": "429CO0000000068",
         "amendmentLawNum": "平成二十九年政令第六十八号",
         "amendmentLawName": "内閣府本府組織令の一部を改正する政令",
+        "amendmentLawNameKana": "",
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "426CO0000000191_20170401_429CO0000000017",
+        "enforcedAt": "2017-04-01",
+        "promulgatedAt": "2017-02-15",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "429CO0000000017",
+        "amendmentLawNum": "平成二十九年政令第十七号",
+        "amendmentLawName": "一般職の職員の給与に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
         "amendmentLawNameKana": "",
         "amendmentType": "3"
       },
@@ -733234,7 +733749,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "426CO0000000191_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "426CO0000000192",
@@ -734560,7 +735088,7 @@
     "titleKana": "とくていひみつのほごにかんするほうりつしこうれい",
     "abbrev": "特定秘密法施行令,特定秘密保護法施行令",
     "category": "防衛",
-    "updatedAt": "2026-04-20T10:15:51+09:00",
+    "updatedAt": "2026-11-02T02:17:06+09:00",
     "promulgationDate": "2014-10-17",
     "repealStatus": "None",
     "repealDate": null,
@@ -734785,7 +735313,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "426CO0000000336_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "426CO0000000340",
@@ -748725,7 +749266,7 @@
     "titleKana": "じょせいのしょくぎょうせいかつにおけるかつやくのすいしんにかんするほうりつしこうれい",
     "abbrev": "女性活躍推進法施行令",
     "category": "労働",
-    "updatedAt": "2026-10-01T14:27:43+09:00",
+    "updatedAt": "2026-11-02T02:19:34+09:00",
     "promulgationDate": "2015-09-04",
     "repealStatus": "None",
     "repealDate": null,
@@ -748806,7 +749347,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "427CO0000000318_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "427CO0000000320",
@@ -759640,7 +760194,7 @@
     "titleKana": "こくがいはんざいひがいちょういきんとうのしきゅうにかんするほうりつ",
     "abbrev": null,
     "category": "刑事",
-    "updatedAt": "2026-04-20T15:49:58+09:00",
+    "updatedAt": "2026-11-02T02:20:27+09:00",
     "promulgationDate": "2016-06-07",
     "repealStatus": "None",
     "repealDate": null,
@@ -759654,7 +760208,7 @@
         "promulgatedAt": "2016-06-07",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "",
+        "amendmentLawId": null,
         "amendmentLawNum": null,
         "amendmentLawName": "",
         "amendmentLawNameKana": "",
@@ -759697,7 +760251,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "428AC1000000073_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-07-17",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000062",
+        "amendmentLawNum": "令和八年法律第六十二号",
+        "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "428AC1000000074",
@@ -760639,7 +761206,7 @@
     "titleKana": "しょうがいをりゆうとするさべつのかいしょうのすいしんにかんするほうりつしこうれい",
     "abbrev": "障害者差別解消法施行令",
     "category": "社会福祉",
-    "updatedAt": "2026-10-01T14:28:44+09:00",
+    "updatedAt": "2026-11-02T02:21:04+09:00",
     "promulgationDate": "2016-01-29",
     "repealStatus": "None",
     "repealDate": null,
@@ -760733,6 +761300,18 @@
       "amendmentType": "3"
     },
     "future": [
+      {
+        "revisionId": "428CO0000000032_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "428CO0000000032_20270401_507CO0000000341",
         "enforcedAt": "2027-04-01",
@@ -761716,7 +762295,7 @@
     "titleKana": "じゅうようしせつのしゅうへんちいきのじょうくうにおけるこがたむじんきとうのひこうのきんしにかんするほうりつしこうれい",
     "abbrev": "小型無人機等飛行禁止法施行令",
     "category": "警察",
-    "updatedAt": "2026-10-15T10:22:21+09:00",
+    "updatedAt": "2026-11-02T02:21:21+09:00",
     "promulgationDate": "2016-05-20",
     "repealStatus": "None",
     "repealDate": null,
@@ -771587,7 +772166,7 @@
     "titleKana": "えいせいりもーとせんしんぐきろくのてきせいなとりあつかいのかくほにかんするほうりつしこうれい",
     "abbrev": "衛星リモ―トセンシング法施行令,衛星リモセン法施行令",
     "category": "行政組織",
-    "updatedAt": "2026-07-15T10:52:39+09:00",
+    "updatedAt": "2026-11-02T02:22:49+09:00",
     "promulgationDate": "2017-11-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -771601,7 +772180,7 @@
         "promulgatedAt": "2017-11-15",
         "scheduledEnforcedAt": null,
         "enforcementComment": null,
-        "amendmentLawId": "",
+        "amendmentLawId": null,
         "amendmentLawNum": null,
         "amendmentLawName": "",
         "amendmentLawNameKana": "",
@@ -771728,7 +772307,32 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "429CO0000000282_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "429CO0000000282_20270104_508CO0000000296",
+        "enforcedAt": "2027-01-04",
+        "promulgatedAt": "2026-09-16",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000296",
+        "amendmentLawNum": "令和八年政令第二百九十六号",
+        "amendmentLawName": "外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "429CO0000000287",
@@ -798492,7 +799096,7 @@
     "titleKana": "でじたるちょうせっちほう",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-10-01T06:40:10+09:00",
+    "updatedAt": "2026-11-02T02:23:07+09:00",
     "promulgationDate": "2021-05-19",
     "repealStatus": "None",
     "repealDate": null,
@@ -806425,7 +807029,7 @@
     "titleKana": "じょうほうつうしんぎじゅつをりようするほうほうによるくにのさいにゅうとうののうふにかんするほうりつ",
     "abbrev": "キャッシュレス法",
     "category": "財務通則",
-    "updatedAt": "2026-07-23T14:56:01+09:00",
+    "updatedAt": "2026-11-02T02:23:25+09:00",
     "promulgationDate": "2022-05-09",
     "repealStatus": "None",
     "repealDate": null,
@@ -806484,11 +807088,11 @@
     },
     "future": [
       {
-        "revisionId": "504AC0000000039_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "504AC0000000039_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -809214,7 +809818,7 @@
     "titleKana": "こっかこうむいんたいしょくてあてほうふそくだいじゅうにこうだいじゅうよんこうおよびだいじゅうろっこうのきていによるたいしょくてあてのきほんがくのとくれいとうにかんするないかくかんぼうれい",
     "abbrev": null,
     "category": "国家公務員",
-    "updatedAt": "2025-07-10T08:53:53+09:00",
+    "updatedAt": "2026-11-02T02:24:04+09:00",
     "promulgationDate": "2022-04-22",
     "repealStatus": "None",
     "repealDate": null,
@@ -809271,7 +809875,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "504M60000001003_20261102_508M60000001010",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-10-22",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000001010",
+        "amendmentLawNum": "令和八年内閣官房令第十号",
+        "amendmentLawName": "国家公務員退職手当法の規定による早期退職希望者の募集及び認定の制度に係る書面の様式等を定める内閣官房令及び国家公務員退職手当法附則第十二項、第十四項及び第十六項の規定による退職手当の基本額の特例等に関する内閣官房令の一部を改正する内閣官房令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "504M60000002001",
@@ -813510,7 +814127,7 @@
     "titleKana": "かんぽうのはっこうにかんするほうりつ",
     "abbrev": null,
     "category": "行政手続",
-    "updatedAt": "2026-07-23T15:12:42+09:00",
+    "updatedAt": "2026-11-02T02:24:41+09:00",
     "promulgationDate": "2023-12-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -813557,11 +814174,11 @@
     },
     "future": [
       {
-        "revisionId": "505AC0000000085_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "505AC0000000085_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -818544,7 +819161,7 @@
     "titleKana": "じゅうようけいざいあんぽじょうほうのほごおよびかつようにかんするほうりつ",
     "abbrev": null,
     "category": "産業通則",
-    "updatedAt": "2026-07-23T16:22:59+09:00",
+    "updatedAt": "2026-11-02T02:25:12+09:00",
     "promulgationDate": "2024-05-17",
     "repealStatus": "None",
     "repealDate": null,
@@ -818591,11 +819208,11 @@
     },
     "future": [
       {
-        "revisionId": "506AC0000000027_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "506AC0000000027_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -819079,7 +819696,7 @@
     "titleKana": "しょくりょうきょうきゅうこんなんじたいたいさくほう",
     "abbrev": null,
     "category": "農業",
-    "updatedAt": "2026-07-24T11:50:28+09:00",
+    "updatedAt": "2026-11-02T02:25:29+09:00",
     "promulgationDate": "2024-06-21",
     "repealStatus": "None",
     "repealDate": null,
@@ -819114,11 +819731,11 @@
     },
     "future": [
       {
-        "revisionId": "506AC0000000061_20261231_508AC0000000062",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "506AC0000000061_20261102_508AC0000000062",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": "508AC0000000062",
         "amendmentLawNum": "令和八年法律第六十二号",
         "amendmentLawName": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
@@ -825851,7 +826468,7 @@
     "titleKana": "じゅうようけいざいあんぽじょうほうのほごおよびかつようにかんするほうりつしこうれい",
     "abbrev": null,
     "category": "防衛",
-    "updatedAt": "2026-04-20T10:16:09+09:00",
+    "updatedAt": "2026-11-02T02:25:52+09:00",
     "promulgationDate": "2025-02-05",
     "repealStatus": "None",
     "repealDate": null,
@@ -825884,7 +826501,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "507CO0000000026_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "507CO0000000036",
@@ -825932,7 +826562,7 @@
     "titleKana": "しょくりょうきょうきゅうこんなんじたいたいさくほうしこうれい",
     "abbrev": null,
     "category": "農業",
-    "updatedAt": "2026-07-07T10:41:20+09:00",
+    "updatedAt": "2026-11-02T02:26:16+09:00",
     "promulgationDate": "2025-02-21",
     "repealStatus": "None",
     "repealDate": null,
@@ -825965,7 +826595,20 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "507CO0000000039_20261102_508CO0000000305",
+        "enforcedAt": "2026-11-02",
+        "promulgatedAt": "2026-09-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000305",
+        "amendmentLawNum": "令和八年政令第三百五号",
+        "amendmentLawName": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "507CO0000000047",
@@ -830271,7 +830914,7 @@
     "titleKana": "ぼうさいちょうせっちほう",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-07-17T12:07:28+09:00",
+    "updatedAt": "2026-11-02T02:26:39+09:00",
     "promulgationDate": "2026-07-17",
     "repealStatus": "None",
     "repealDate": null,
@@ -830293,11 +830936,11 @@
     },
     "future": [
       {
-        "revisionId": "508AC0000000061_20261231_000000000000000",
-        "enforcedAt": "2026-12-31",
+        "revisionId": "508AC0000000061_20261102_000000000000000",
+        "enforcedAt": "2026-11-02",
         "promulgatedAt": "2026-07-17",
-        "scheduledEnforcedAt": "2026-12-31",
-        "enforcementComment": "令和八年十二月三十一日までの間において政令で定める日",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
         "amendmentLawId": null,
         "amendmentLawNum": null,
         "amendmentLawName": null,
@@ -831227,13 +831870,13 @@
     "titleKana": "ぼうさいちょうそしきれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-10-15T10:21:18+09:00",
+    "updatedAt": "2026-11-02T02:26:57+09:00",
     "promulgationDate": "2026-09-30",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "UnEnforced",
+    "currentRevisionStatus": "CurrentEnforced",
     "past": [],
     "current": null,
     "future": [
