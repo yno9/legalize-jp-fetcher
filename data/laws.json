@@ -327527,7 +327527,7 @@
     "titleKana": "ざいがいこうかんにきんむするがいむこうむいんのざいきんきほんてあてのがくじゅうきょてあてにかかるこうじょがくおよびげんどがくならびにしじょきょういくてあてにかかるじこふたんがくをさだめるせいれい",
     "abbrev": null,
     "category": "行政組織",
-    "updatedAt": "2026-04-27T19:46:27+09:00",
+    "updatedAt": "2026-11-06T13:37:52+09:00",
     "promulgationDate": "1974-05-27",
     "repealStatus": "None",
     "repealDate": null,
@@ -328002,17 +328002,29 @@
         "amendmentLawName": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令及び在外公館に勤務する外務公務員の特殊語学手当に関する政令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "349CO0000000179_20260401_508CO0000000080",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000080",
+        "amendmentLawNum": "令和八年政令第八十号",
+        "amendmentLawName": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "349CO0000000179_20260401_508CO0000000080",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2026-03-31",
+      "revisionId": "349CO0000000179_20261101_508CO0000000333",
+      "enforcedAt": "2026-11-01",
+      "promulgatedAt": "2026-10-28",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508CO0000000080",
-      "amendmentLawNum": "令和八年政令第八十号",
-      "amendmentLawName": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+      "amendmentLawId": "508CO0000000333",
+      "amendmentLawNum": "令和八年政令第三百三十三号",
+      "amendmentLawName": "在外公館に勤務する外務公務員の在勤基本手当の額、在外住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
@@ -832120,6 +832132,42 @@
       "amendmentType": "1"
     },
     "future": []
+  },
+  {
+    "lawId": "508CO0000000332",
+    "lawNum": "令和八年政令第三百三十二号",
+    "lawNumEra": "Reiwa",
+    "lawNumYear": 8,
+    "lawNumType": "CabinetOrder",
+    "lawNumNum": "332",
+    "lawType": "CabinetOrder",
+    "title": "医療的ケア児等及び重症心身障害者並びにそれらの家族に対する支援に関する法律第十四条第一項の政令で定める市を定める政令",
+    "titleKana": "いりょうてきけあじとうおよびじゅうしょうしんしんしょうがいしゃならびにそれらのかぞくにたいするしえんにかんするほうりつだいじゅうよんじょうだいいっこうのせいれいでさだめるしをさだめるせいれい",
+    "abbrev": null,
+    "category": "社会福祉",
+    "updatedAt": "2026-11-06T13:39:12+09:00",
+    "promulgationDate": "2026-10-23",
+    "repealStatus": "None",
+    "repealDate": null,
+    "remainInForce": false,
+    "mission": "New",
+    "currentRevisionStatus": "UnEnforced",
+    "past": [],
+    "current": null,
+    "future": [
+      {
+        "revisionId": "508CO0000000332_20270401_000000000000000",
+        "enforcedAt": "2027-04-01",
+        "promulgatedAt": "2026-10-23",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": null,
+        "amendmentLawNum": null,
+        "amendmentLawName": null,
+        "amendmentLawNameKana": null,
+        "amendmentType": "1"
+      }
+    ]
   },
   {
     "lawId": "508M60000002016",
