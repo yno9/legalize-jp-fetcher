@@ -15696,7 +15696,7 @@
     "titleKana": "けんちくきじゅんほう",
     "abbrev": "建基法",
     "category": "建築・住宅",
-    "updatedAt": "2026-05-27T10:30:46+09:00",
+    "updatedAt": "2026-11-24T13:35:08+09:00",
     "promulgationDate": "1950-05-24",
     "repealStatus": "None",
     "repealDate": null,
@@ -16111,11 +16111,23 @@
         "amendmentLawName": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000201_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "325AC0000000201_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "325AC0000000201_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -16127,14 +16139,14 @@
     },
     "future": [
       {
-        "revisionId": "325AC0000000201_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
+        "revisionId": "325AC0000000201_20270122_508AC0000000065",
+        "enforcedAt": "2027-01-22",
+        "promulgatedAt": "2026-07-23",
+        "scheduledEnforcedAt": "2027-01-22",
         "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawId": "508AC0000000065",
+        "amendmentLawNum": "令和八年法律第六十五号",
+        "amendmentLawName": "下水道法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -16147,6 +16159,18 @@
         "amendmentLawId": "508AC0000000023",
         "amendmentLawNum": "令和八年法律第二十三号",
         "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000201_20280730_508AC0000000075",
+        "enforcedAt": "2028-07-30",
+        "promulgatedAt": "2026-07-31",
+        "scheduledEnforcedAt": "2028-07-30",
+        "enforcementComment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000075",
+        "amendmentLawNum": "令和八年法律第七十五号",
+        "amendmentLawName": "建築物のエネルギー消費性能の向上等に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -32969,7 +32993,7 @@
     "titleKana": "としけいかくほう",
     "abbrev": "都計法",
     "category": "都市計画",
-    "updatedAt": "2026-05-27T10:38:44+09:00",
+    "updatedAt": "2026-11-24T13:39:15+09:00",
     "promulgationDate": "1968-06-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -33216,11 +33240,23 @@
         "amendmentLawName": "災害対策基本法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "343AC0000000100_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "343AC0000000100_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "343AC0000000100_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -33230,20 +33266,7 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": [
-      {
-        "revisionId": "343AC0000000100_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      }
-    ]
+    "future": []
   },
   {
     "lawId": "343AC1000000078",
