@@ -129346,13 +129346,13 @@
     "titleKana": "のうちほうしこうきそく",
     "abbrev": null,
     "category": "農業",
-    "updatedAt": "2026-06-11T10:43:34+09:00",
+    "updatedAt": "2026-11-25T10:31:04+09:00",
     "promulgationDate": "1952-10-20",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "UnEnforced",
     "past": [
       {
         "revisionId": "327M50010000079_20170401_429M60000200020",
@@ -129713,21 +129713,58 @@
         "amendmentLawName": "農地法施行規則及び農業振興地域の整備に関する法律施行規則の一部を改正する省令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "327M50010000079_20260527_508M60000200041",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-26",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000200041",
+        "amendmentLawNum": "令和八年農林水産省令第四十一号",
+        "amendmentLawName": "農地法施行規則及び農業振興地域の整備に関する法律施行規則の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "327M50010000079_20260527_508M60000200041",
-      "enforcedAt": "2026-05-27",
-      "promulgatedAt": "2026-05-26",
+      "revisionId": "327M50010000079_20261109_508M60000200074",
+      "enforcedAt": "2026-11-09",
+      "promulgatedAt": "2026-11-09",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508M60000200041",
-      "amendmentLawNum": "令和八年農林水産省令第四十一号",
-      "amendmentLawName": "農地法施行規則及び農業振興地域の整備に関する法律施行規則の一部を改正する省令",
+      "amendmentLawId": "508M60000200074",
+      "amendmentLawNum": "令和八年農林水産省令第七十四号",
+      "amendmentLawName": "農地法施行規則の一部を改正する省令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "327M50010000079_20261126_508M60000200074",
+        "enforcedAt": "2026-11-26",
+        "promulgatedAt": "2026-11-09",
+        "scheduledEnforcedAt": "2026-11-26",
+        "enforcementComment": "都市再生特別措置法等の一部を改正する法律の施行の日",
+        "amendmentLawId": "508M60000200074",
+        "amendmentLawNum": "令和八年農林水産省令第七十四号",
+        "amendmentLawName": "農地法施行規則の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "327M50010000079_20270401_508M60000200072",
+        "enforcedAt": "2027-04-01",
+        "promulgatedAt": "2026-10-09",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000200072",
+        "amendmentLawNum": "令和八年農林水産省令第七十二号",
+        "amendmentLawName": "農地法施行規則及び農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律施行規則の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "327M50014D40002",
@@ -172533,13 +172570,13 @@
     "titleKana": "そぜいとくべつそちほう",
     "abbrev": "租特法",
     "category": "国税",
-    "updatedAt": "2026-11-01T00:15:19+09:00",
+    "updatedAt": "2026-09-15T13:15:57+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "UnEnforced",
     "past": [
       {
         "revisionId": "332AC0000000026_20170401_428AC1000000070",
@@ -174472,33 +174509,33 @@
         "amendmentLawName": "所得税法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "332AC0000000026_20261016_508AC0000000035",
+        "enforcedAt": "2026-10-16",
+        "promulgatedAt": "2026-06-10",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000035",
+        "amendmentLawNum": "令和八年法律第三十五号",
+        "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "332AC0000000026_20261016_508AC0000000035",
-      "enforcedAt": "2026-10-16",
-      "promulgatedAt": "2026-06-10",
+      "revisionId": "332AC0000000026_20261101_507AC0000000013",
+      "enforcedAt": "2026-11-01",
+      "promulgatedAt": "2025-03-31",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508AC0000000035",
-      "amendmentLawNum": "令和八年法律第三十五号",
-      "amendmentLawName": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
+      "amendmentLawId": "507AC0000000013",
+      "amendmentLawNum": "令和七年法律第十三号",
+      "amendmentLawName": "所得税法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "332AC0000000026_20261101_507AC0000000013",
-        "enforcedAt": "2026-11-01",
-        "promulgatedAt": "2025-03-31",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "507AC0000000013",
-        "amendmentLawNum": "令和七年法律第十三号",
-        "amendmentLawName": "所得税法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "332AC0000000026_20261126_508AC0000000012",
         "enforcedAt": "2026-11-26",
@@ -177365,7 +177402,7 @@
     "titleKana": "そぜいとくべつそちほうしこうれい",
     "abbrev": "租特法施行令",
     "category": "国税",
-    "updatedAt": "2026-11-24T13:53:02+09:00",
+    "updatedAt": "2026-11-25T13:47:24+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -182356,13 +182393,13 @@
     "titleKana": "そぜいとくべつそちほうしこうきそく",
     "abbrev": "租特法施行規則",
     "category": "国税",
-    "updatedAt": "2026-11-01T00:21:59+09:00",
+    "updatedAt": "2026-08-17T16:42:43+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
     "remainInForce": false,
     "mission": "New",
-    "currentRevisionStatus": "CurrentEnforced",
+    "currentRevisionStatus": "UnEnforced",
     "past": [
       {
         "revisionId": "332M50000040015_20170401_429M60000040024",
@@ -184091,33 +184128,33 @@
         "amendmentLawName": "租税特別措置法施行規則等の一部を改正する省令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "332M50000040015_20260901_506M60000040024",
+        "enforcedAt": "2026-09-01",
+        "promulgatedAt": "2024-03-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "506M60000040024",
+        "amendmentLawNum": "令和六年財務省令第二十四号",
+        "amendmentLawName": "租税特別措置法施行規則の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "332M50000040015_20260901_506M60000040024",
-      "enforcedAt": "2026-09-01",
-      "promulgatedAt": "2024-03-30",
+      "revisionId": "332M50000040015_20261101_507M60000040026",
+      "enforcedAt": "2026-11-01",
+      "promulgatedAt": "2025-03-31",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "506M60000040024",
-      "amendmentLawNum": "令和六年財務省令第二十四号",
-      "amendmentLawName": "租税特別措置法施行規則の一部を改正する省令",
+      "amendmentLawId": "507M60000040026",
+      "amendmentLawNum": "令和七年財務省令第二十六号",
+      "amendmentLawName": "租税特別措置法施行規則等の一部を改正する省令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "332M50000040015_20261101_507M60000040026",
-        "enforcedAt": "2026-11-01",
-        "promulgatedAt": "2025-03-31",
-        "scheduledEnforcedAt": null,
-        "enforcementComment": null,
-        "amendmentLawId": "507M60000040026",
-        "amendmentLawNum": "令和七年財務省令第二十六号",
-        "amendmentLawName": "租税特別措置法施行規則等の一部を改正する省令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "332M50000040015_20261126_508M60000040021",
         "enforcedAt": "2026-11-26",
@@ -787378,7 +787415,7 @@
     "titleKana": "しないはんとうこくさいへいわきょうりょくたいのせっちとうにかんするせいれい",
     "abbrev": null,
     "category": "外事",
-    "updatedAt": "2025-11-19T09:49:42+09:00",
+    "updatedAt": "2026-11-25T10:17:50+09:00",
     "promulgationDate": "2019-04-05",
     "repealStatus": "None",
     "repealDate": null,
@@ -787481,16 +787518,28 @@
         "amendmentLawName": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "431CO0000000148_20251112_507CO0000000372",
+        "enforcedAt": "2025-11-12",
+        "promulgatedAt": "2025-11-12",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507CO0000000372",
+        "amendmentLawNum": "令和七年政令第三百七十二号",
+        "amendmentLawName": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "431CO0000000148_20251112_507CO0000000372",
-      "enforcedAt": "2025-11-12",
-      "promulgatedAt": "2025-11-12",
+      "revisionId": "431CO0000000148_20261111_508CO0000000348",
+      "enforcedAt": "2026-11-11",
+      "promulgatedAt": "2026-11-11",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507CO0000000372",
-      "amendmentLawNum": "令和七年政令第三百七十二号",
+      "amendmentLawId": "508CO0000000348",
+      "amendmentLawNum": "令和八年政令第三百四十八号",
       "amendmentLawName": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
@@ -835878,6 +835927,42 @@
       "amendmentType": "3"
     },
     "future": []
+  },
+  {
+    "lawId": "508M60000400080",
+    "lawNum": "令和八年経済産業省令第八十号",
+    "lawNumEra": "Reiwa",
+    "lawNumYear": 8,
+    "lawNumType": "MinisterialOrdinance",
+    "lawNumNum": "080",
+    "lawType": "MinisterialOrdinance",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十二条の四に規定する承認地域経済牽引事業用地整備に関する省令",
+    "titleKana": "ちいきけいざいけんいんじぎょうのそくしんによるちいきのせいちょうはってんのきばんきょうかにかんするほうりつだいじゅうにじょうのよんにきていするしょうにんちいきけいざいけんいんじぎょうようちせいびにかんするしょうれい",
+    "abbrev": null,
+    "category": "産業通則",
+    "updatedAt": "2026-11-25T10:21:35+09:00",
+    "promulgationDate": "2026-11-11",
+    "repealStatus": "None",
+    "repealDate": null,
+    "remainInForce": false,
+    "mission": "New",
+    "currentRevisionStatus": "UnEnforced",
+    "past": [],
+    "current": null,
+    "future": [
+      {
+        "revisionId": "508M60000400080_20261204_000000000000000",
+        "enforcedAt": "2026-12-04",
+        "promulgatedAt": "2026-11-11",
+        "scheduledEnforcedAt": "2026-12-04",
+        "enforcementComment": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律（令和八年法律第二十九号）附則第一条第二号に掲げる規定の施行の日",
+        "amendmentLawId": null,
+        "amendmentLawNum": null,
+        "amendmentLawName": null,
+        "amendmentLawNameKana": null,
+        "amendmentType": "1"
+      }
+    ]
   },
   {
     "lawId": "508M60000740002",
