@@ -70781,7 +70781,7 @@
     "titleKana": "けんちくきじゅんほう",
     "abbrev": "建基法",
     "category": "建築・住宅",
-    "updatedAt": "2026-05-27T10:30:46+09:00",
+    "updatedAt": "2026-11-24T13:35:08+09:00",
     "promulgationDate": "1950-05-24",
     "repealStatus": "None",
     "repealDate": null,
@@ -71196,11 +71196,23 @@
         "amendmentLawName": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000201_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "325AC0000000201_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "325AC0000000201_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -71212,14 +71224,14 @@
     },
     "future": [
       {
-        "revisionId": "325AC0000000201_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
+        "revisionId": "325AC0000000201_20270122_508AC0000000065",
+        "enforcedAt": "2027-01-22",
+        "promulgatedAt": "2026-07-23",
+        "scheduledEnforcedAt": "2027-01-22",
         "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawId": "508AC0000000065",
+        "amendmentLawNum": "令和八年法律第六十五号",
+        "amendmentLawName": "下水道法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       },
@@ -71232,6 +71244,18 @@
         "amendmentLawId": "508AC0000000023",
         "amendmentLawNum": "令和八年法律第二十三号",
         "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
+      {
+        "revisionId": "325AC0000000201_20280730_508AC0000000075",
+        "enforcedAt": "2028-07-30",
+        "promulgatedAt": "2026-07-31",
+        "scheduledEnforcedAt": "2028-07-30",
+        "enforcementComment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+        "amendmentLawId": "508AC0000000075",
+        "amendmentLawNum": "令和八年法律第七十五号",
+        "amendmentLawName": "建築物のエネルギー消費性能の向上等に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
       }
@@ -72290,7 +72314,7 @@
     "titleKana": "ちほうぜいほう",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-11-01T00:01:42+09:00",
+    "updatedAt": "2026-11-24T13:23:31+09:00",
     "promulgationDate": "1950-07-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -74733,21 +74757,19 @@
         "amendmentLawName": "地方税法及び地方税法等の一部を改正する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "325AC0000000226_20261016_508AC0000000002",
-      "enforcedAt": "2026-10-16",
-      "promulgatedAt": "2026-03-31",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "508AC0000000002",
-      "amendmentLawNum": "令和八年法律第二号",
-      "amendmentLawName": "地方税法等の一部を改正する法律",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "325AC0000000226_20261016_508AC0000000002",
+        "enforcedAt": "2026-10-16",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000002",
+        "amendmentLawNum": "令和八年法律第二号",
+        "amendmentLawName": "地方税法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "325AC0000000226_20261101_508AC0000000002",
         "enforcedAt": "2026-11-01",
@@ -74759,19 +74781,21 @@
         "amendmentLawName": "地方税法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "325AC0000000226_20261126_508AC0000000002",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）の施行の日",
-        "amendmentLawId": "508AC0000000002",
-        "amendmentLawNum": "令和八年法律第二号",
-        "amendmentLawName": "地方税法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "325AC0000000226_20261124_508AC0000000002",
+      "enforcedAt": "2026-11-24",
+      "promulgatedAt": "2026-03-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508AC0000000002",
+      "amendmentLawNum": "令和八年法律第二号",
+      "amendmentLawName": "地方税法等の一部を改正する法律",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "325AC0000000226_20270101_508AC0000000002",
         "enforcedAt": "2027-01-01",
@@ -81027,7 +81051,7 @@
     "titleKana": "ちほうぜいほうしこうれい",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-11-01T00:05:46+09:00",
+    "updatedAt": "2026-11-24T13:27:46+09:00",
     "promulgationDate": "1950-07-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -82558,21 +82582,19 @@
         "amendmentLawName": "地方税法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "325CO0000000245_20260822_508CO0000000251",
-      "enforcedAt": "2026-08-22",
-      "promulgatedAt": "2026-08-07",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "508CO0000000251",
-      "amendmentLawNum": "令和八年政令第二百五十一号",
-      "amendmentLawName": "地方税法施行令の一部を改正する政令",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "325CO0000000245_20260822_508CO0000000251",
+        "enforcedAt": "2026-08-22",
+        "promulgatedAt": "2026-08-07",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000251",
+        "amendmentLawNum": "令和八年政令第二百五十一号",
+        "amendmentLawName": "地方税法施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "325CO0000000245_20261101_508CO0000000083",
         "enforcedAt": "2026-11-01",
@@ -82596,19 +82618,21 @@
         "amendmentLawName": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "325CO0000000245_20261126_508CO0000000083",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）の施行の日",
-        "amendmentLawId": "508CO0000000083",
-        "amendmentLawNum": "令和八年政令第八十三号",
-        "amendmentLawName": "地方税法施行令等の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "325CO0000000245_20261124_508CO0000000083",
+      "enforcedAt": "2026-11-24",
+      "promulgatedAt": "2026-03-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508CO0000000083",
+      "amendmentLawNum": "令和八年政令第八十三号",
+      "amendmentLawName": "地方税法施行令等の一部を改正する政令",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "325CO0000000245_20261211_508CO0000000083",
         "enforcedAt": "2026-12-11",
@@ -145303,7 +145327,7 @@
     "titleKana": "とちくかくせいりほう",
     "abbrev": null,
     "category": "都市計画",
-    "updatedAt": "2026-10-01T01:28:04+09:00",
+    "updatedAt": "2026-11-24T13:36:52+09:00",
     "promulgationDate": "1954-05-20",
     "repealStatus": "None",
     "repealDate": null,
@@ -145454,21 +145478,19 @@
         "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "329AC0000000119_20260903_508AC0000000027",
-      "enforcedAt": "2026-09-03",
-      "promulgatedAt": "2026-06-03",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "508AC0000000027",
-      "amendmentLawNum": "令和八年法律第二十七号",
-      "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "329AC0000000119_20260903_508AC0000000027",
+        "enforcedAt": "2026-09-03",
+        "promulgatedAt": "2026-06-03",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000027",
+        "amendmentLawNum": "令和八年法律第二十七号",
+        "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "329AC0000000119_20261001_508AC0000000027",
         "enforcedAt": "2026-10-01",
@@ -145480,19 +145502,21 @@
         "amendmentLawName": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "329AC0000000119_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "329AC0000000119_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
+      "promulgatedAt": "2026-05-27",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508AC0000000023",
+      "amendmentLawNum": "令和八年法律第二十三号",
+      "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "329AC0000000119_20270526_508AC0000000023",
         "enforcedAt": "2027-05-26",
@@ -152347,7 +152371,7 @@
     "titleKana": "ちほうぜいほうしこうきそく",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-11-05T09:09:11+09:00",
+    "updatedAt": "2026-11-24T13:30:34+09:00",
     "promulgationDate": "1954-05-13",
     "repealStatus": "None",
     "repealDate": null,
@@ -154046,33 +154070,33 @@
         "amendmentLawName": "地方税法施行規則等の一部を改正する省令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "329M50000002023_20261101_508M60000008045",
+        "enforcedAt": "2026-11-01",
+        "promulgatedAt": "2026-03-31",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508M60000008045",
+        "amendmentLawNum": "令和八年総務省令第四十五号",
+        "amendmentLawName": "地方税法施行規則の一部を改正する省令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "329M50000002023_20261101_508M60000008045",
-      "enforcedAt": "2026-11-01",
+      "revisionId": "329M50000002023_20261124_508M60000008046",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-03-31",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "508M60000008045",
-      "amendmentLawNum": "令和八年総務省令第四十五号",
+      "amendmentLawId": "508M60000008046",
+      "amendmentLawNum": "令和八年総務省令第四十六号",
       "amendmentLawName": "地方税法施行規則の一部を改正する省令",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "329M50000002023_20261126_508M60000008046",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）の施行の日",
-        "amendmentLawId": "508M60000008046",
-        "amendmentLawNum": "令和八年総務省令第四十六号",
-        "amendmentLawName": "地方税法施行規則の一部を改正する省令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "329M50000002023_20261211_508M60000008044",
         "enforcedAt": "2026-12-11",
@@ -177341,7 +177365,7 @@
     "titleKana": "そぜいとくべつそちほうしこうれい",
     "abbrev": "租特法施行令",
     "category": "国税",
-    "updatedAt": "2026-11-01T00:18:39+09:00",
+    "updatedAt": "2026-11-24T13:53:02+09:00",
     "promulgationDate": "1957-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -179028,21 +179052,19 @@
         "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      }
-    ],
-    "current": {
-      "revisionId": "332CO0000000043_20261016_508CO0000000270",
-      "enforcedAt": "2026-10-16",
-      "promulgatedAt": "2026-09-04",
-      "scheduledEnforcedAt": null,
-      "enforcementComment": null,
-      "amendmentLawId": "508CO0000000270",
-      "amendmentLawNum": "令和八年政令第二百七十号",
-      "amendmentLawName": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
-      "amendmentLawNameKana": null,
-      "amendmentType": "3"
-    },
-    "future": [
+      },
+      {
+        "revisionId": "332CO0000000043_20261016_508CO0000000270",
+        "enforcedAt": "2026-10-16",
+        "promulgatedAt": "2026-09-04",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508CO0000000270",
+        "amendmentLawNum": "令和八年政令第二百七十号",
+        "amendmentLawName": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      },
       {
         "revisionId": "332CO0000000043_20261101_507CO0000000127",
         "enforcedAt": "2026-11-01",
@@ -179054,19 +179076,21 @@
         "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
-      },
-      {
-        "revisionId": "332CO0000000043_20261126_508CO0000000098",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-03-31",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）の施行の日",
-        "amendmentLawId": "508CO0000000098",
-        "amendmentLawNum": "令和八年政令第九十八号",
-        "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
+      }
+    ],
+    "current": {
+      "revisionId": "332CO0000000043_20261124_508CO0000000098",
+      "enforcedAt": "2026-11-24",
+      "promulgatedAt": "2026-03-31",
+      "scheduledEnforcedAt": null,
+      "enforcementComment": null,
+      "amendmentLawId": "508CO0000000098",
+      "amendmentLawNum": "令和八年政令第九十八号",
+      "amendmentLawName": "租税特別措置法施行令の一部を改正する政令",
+      "amendmentLawNameKana": null,
+      "amendmentType": "3"
+    },
+    "future": [
       {
         "revisionId": "332CO0000000043_20261201_508CO0000000098",
         "enforcedAt": "2026-12-01",
@@ -233417,7 +233441,7 @@
     "titleKana": "ちほうこうむいんとうきょうさいくみあいほうしこうきてい",
     "abbrev": null,
     "category": "地方自治",
-    "updatedAt": "2026-10-15T13:14:49+09:00",
+    "updatedAt": "2026-11-24T16:09:59+09:00",
     "promulgationDate": "1962-09-08",
     "repealStatus": "None",
     "repealDate": null,
@@ -261221,7 +261245,7 @@
     "titleKana": "としかいはつしきんのかしつけにかんするほうりつ",
     "abbrev": null,
     "category": "地方財政",
-    "updatedAt": "2026-05-27T10:35:23+09:00",
+    "updatedAt": "2026-11-24T13:37:57+09:00",
     "promulgationDate": "1966-03-31",
     "repealStatus": "None",
     "repealDate": null,
@@ -261300,11 +261324,23 @@
         "amendmentLawName": "都市緑地法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "341AC0000000020_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "341AC0000000020_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "341AC0000000020_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -261314,20 +261350,7 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": [
-      {
-        "revisionId": "341AC0000000020_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      }
-    ]
+    "future": []
   },
   {
     "lawId": "341AC0000000045",
@@ -280015,7 +280038,7 @@
     "titleKana": "としけいかくほう",
     "abbrev": "都計法",
     "category": "都市計画",
-    "updatedAt": "2026-05-27T10:38:44+09:00",
+    "updatedAt": "2026-11-24T13:39:15+09:00",
     "promulgationDate": "1968-06-15",
     "repealStatus": "None",
     "repealDate": null,
@@ -280262,11 +280285,23 @@
         "amendmentLawName": "災害対策基本法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "343AC0000000100_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "343AC0000000100_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "343AC0000000100_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -280276,20 +280311,7 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": [
-      {
-        "revisionId": "343AC0000000100_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      }
-    ]
+    "future": []
   },
   {
     "lawId": "343AC0000000101",
@@ -283917,7 +283939,7 @@
     "titleKana": "としさいかいはつほう",
     "abbrev": null,
     "category": "都市計画",
-    "updatedAt": "2026-05-27T10:45:57+09:00",
+    "updatedAt": "2026-11-24T13:40:33+09:00",
     "promulgationDate": "1969-06-03",
     "repealStatus": "None",
     "repealDate": null,
@@ -284032,11 +284054,23 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "344AC0000000038_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "344AC0000000038_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "344AC0000000038_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -284047,18 +284081,6 @@
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "344AC0000000038_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "344AC0000000038_20270526_508AC0000000023",
         "enforcedAt": "2027-05-26",
@@ -398492,7 +398514,7 @@
     "titleKana": "こっかいぎいんのひしょのきゅうよとうにかんするほうりつ",
     "abbrev": "国会議員秘書給与法",
     "category": "国会",
-    "updatedAt": "2026-04-01T07:36:37+09:00",
+    "updatedAt": "2026-11-24T18:54:48+09:00",
     "promulgationDate": "1990-06-27",
     "repealStatus": "None",
     "repealDate": null,
@@ -398679,21 +398701,46 @@
         "amendmentLawName": "国会議員の秘書の給与等に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "402AC1000000049_20260401_507AC1000000092",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2025-12-24",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC1000000092",
+        "amendmentLawNum": "令和七年法律第九十二号",
+        "amendmentLawName": "国会議員の秘書の給与等に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "402AC1000000049_20260401_507AC1000000092",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2025-12-24",
+      "revisionId": "402AC1000000049_20261118_508AC1000000081",
+      "enforcedAt": "2026-11-18",
+      "promulgatedAt": "2026-11-18",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC1000000092",
-      "amendmentLawNum": "令和七年法律第九十二号",
+      "amendmentLawId": "508AC1000000081",
+      "amendmentLawNum": "令和八年法律第八十一号",
       "amendmentLawName": "国会議員の秘書の給与等に関する法律の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": []
+    "future": [
+      {
+        "revisionId": "402AC1000000049_20270401_508AC1000000081",
+        "enforcedAt": "2027-04-01",
+        "promulgatedAt": "2026-11-18",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC1000000081",
+        "amendmentLawNum": "令和八年法律第八十一号",
+        "amendmentLawName": "国会議員の秘書の給与等に関する法律の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
+      }
+    ]
   },
   {
     "lawId": "402CO0000000057",
@@ -443049,7 +443096,7 @@
     "titleKana": "みっしゅうしがいちにおけるぼうさいがいくのせいびのそくしんにかんするほうりつ",
     "abbrev": "密集法,密集市街地整備法",
     "category": "都市計画",
-    "updatedAt": "2026-04-02T00:01:43+09:00",
+    "updatedAt": "2026-11-24T13:48:17+09:00",
     "promulgationDate": "1997-05-09",
     "repealStatus": "None",
     "repealDate": null,
@@ -443236,33 +443283,33 @@
         "amendmentLawName": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "409AC0000000049_20260401_507AC0000000047",
+        "enforcedAt": "2026-04-01",
+        "promulgatedAt": "2025-05-30",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "507AC0000000047",
+        "amendmentLawNum": "令和七年法律第四十七号",
+        "amendmentLawName": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "409AC0000000049_20260401_507AC0000000047",
-      "enforcedAt": "2026-04-01",
-      "promulgatedAt": "2025-05-30",
+      "revisionId": "409AC0000000049_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
+      "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
-      "amendmentLawId": "507AC0000000047",
-      "amendmentLawNum": "令和七年法律第四十七号",
-      "amendmentLawName": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+      "amendmentLawId": "508AC0000000023",
+      "amendmentLawNum": "令和八年法律第二十三号",
+      "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "409AC0000000049_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "409AC0000000049_20270526_508AC0000000023",
         "enforcedAt": "2027-05-26",
@@ -537905,7 +537952,7 @@
     "titleKana": "としさいせいとくべつそちほう",
     "abbrev": null,
     "category": "都市計画",
-    "updatedAt": "2026-05-27T10:27:12+09:00",
+    "updatedAt": "2026-11-24T13:33:57+09:00",
     "promulgationDate": "2002-04-05",
     "repealStatus": "None",
     "repealDate": null,
@@ -538080,11 +538127,23 @@
         "amendmentLawName": "都市緑地法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "414AC0000000022_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "414AC0000000022_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "414AC0000000022_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -538095,18 +538154,6 @@
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "414AC0000000022_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "414AC0000000022_20270526_508AC0000000023",
         "enforcedAt": "2027-05-26",
@@ -580884,7 +580931,7 @@
     "titleKana": "けいかんほう",
     "abbrev": null,
     "category": "都市計画",
-    "updatedAt": "2026-05-27T10:48:02+09:00",
+    "updatedAt": "2026-11-24T13:42:49+09:00",
     "promulgationDate": "2004-06-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -581011,11 +581058,23 @@
         "amendmentLawName": "港湾法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "416AC0000000110_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "416AC0000000110_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "416AC0000000110_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -581026,18 +581085,6 @@
       "amendmentType": "3"
     },
     "future": [
-      {
-        "revisionId": "416AC0000000110_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      },
       {
         "revisionId": "416AC0000000110_20270526_508AC0000000023",
         "enforcedAt": "2027-05-26",
@@ -637690,7 +637737,7 @@
     "titleKana": "こういきてきちいきかっせいかのためのきばんせいびにかんするほうりつ",
     "abbrev": "広域的地域活性化法",
     "category": "国土開発",
-    "updatedAt": "2026-05-27T10:53:02+09:00",
+    "updatedAt": "2026-11-24T13:45:33+09:00",
     "promulgationDate": "2007-05-18",
     "repealStatus": "None",
     "repealDate": null,
@@ -637733,11 +637780,23 @@
         "amendmentLawName": "広域的地域活性化のための基盤整備に関する法律の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "419AC0000000052_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "419AC0000000052_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "419AC0000000052_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -637747,20 +637806,7 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": [
-      {
-        "revisionId": "419AC0000000052_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      }
-    ]
+    "future": []
   },
   {
     "lawId": "419AC0000000053",
@@ -656370,7 +656416,7 @@
     "titleKana": "ちいきにおけるれきしてきふうちのいじおよびこうじょうにかんするほうりつ",
     "abbrev": "歴史まちづくり法",
     "category": "都市計画",
-    "updatedAt": "2026-05-27T10:55:10+09:00",
+    "updatedAt": "2026-11-24T13:46:54+09:00",
     "promulgationDate": "2008-05-23",
     "repealStatus": "None",
     "repealDate": null,
@@ -656461,11 +656507,23 @@
         "amendmentLawName": "都市緑地法等の一部を改正する法律",
         "amendmentLawNameKana": null,
         "amendmentType": "3"
+      },
+      {
+        "revisionId": "420AC0000000040_20260527_508AC0000000023",
+        "enforcedAt": "2026-05-27",
+        "promulgatedAt": "2026-05-27",
+        "scheduledEnforcedAt": null,
+        "enforcementComment": null,
+        "amendmentLawId": "508AC0000000023",
+        "amendmentLawNum": "令和八年法律第二十三号",
+        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
+        "amendmentLawNameKana": null,
+        "amendmentType": "3"
       }
     ],
     "current": {
-      "revisionId": "420AC0000000040_20260527_508AC0000000023",
-      "enforcedAt": "2026-05-27",
+      "revisionId": "420AC0000000040_20261124_508AC0000000023",
+      "enforcedAt": "2026-11-24",
       "promulgatedAt": "2026-05-27",
       "scheduledEnforcedAt": null,
       "enforcementComment": null,
@@ -656475,20 +656533,7 @@
       "amendmentLawNameKana": null,
       "amendmentType": "3"
     },
-    "future": [
-      {
-        "revisionId": "420AC0000000040_20261126_508AC0000000023",
-        "enforcedAt": "2026-11-26",
-        "promulgatedAt": "2026-05-27",
-        "scheduledEnforcedAt": "2026-11-26",
-        "enforcementComment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-        "amendmentLawId": "508AC0000000023",
-        "amendmentLawNum": "令和八年法律第二十三号",
-        "amendmentLawName": "都市再生特別措置法等の一部を改正する法律",
-        "amendmentLawNameKana": null,
-        "amendmentType": "3"
-      }
-    ]
+    "future": []
   },
   {
     "lawId": "420AC0000000045",
@@ -813399,7 +813444,7 @@
     "titleKana": "こくどこうつうしょうかんけいけいざいしさくをいったいてきにこうずることによるあんぜんほしょうのかくほのすいしんにかんするほうりつにもとづくきょうきゅうかくほけいかくのにんていとうにかんするしょうれい",
     "abbrev": null,
     "category": "産業通則",
-    "updatedAt": "2026-10-07T12:20:45+09:00",
+    "updatedAt": "2026-11-24T15:12:15+09:00",
     "promulgationDate": "2022-12-28",
     "repealStatus": "None",
     "repealDate": null,
@@ -834090,7 +834135,7 @@
     "titleKana": "ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいにきていするでじたるちょうれいそうむしょうれいでさだめるじむをさだめるめいれいだいろくじょうかくごうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるしょうれい",
     "abbrev": null,
     "category": "地方自治",
-    "updatedAt": "2026-09-16T09:51:36+09:00",
+    "updatedAt": "2026-11-24T15:06:04+09:00",
     "promulgationDate": "2026-03-31",
     "repealStatus": "None",
     "repealDate": null,
